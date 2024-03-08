@@ -1,0 +1,1312 @@
+Date,Start_time,Visitor,PTS (V),Home,PTS (H),OT,Attendance,Arena,Week_Day
+2014/10/28,8:00p,Orlando Magic,84.0,New Orleans Pelicans,101.0,,"17,097",Smoothie King Center,Tuesday
+2014/10/28,8:00p,Dallas Mavericks,100.0,San Antonio Spurs,101.0,,"19,615",AT&T Center,Tuesday
+2014/10/28,10:30p,Houston Rockets,108.0,Los Angeles Lakers,90.0,,"18,997",STAPLES Center,Tuesday
+2014/10/29,7:00p,Milwaukee Bucks,106.0,Charlotte Hornets,108.0,OT,"19,439",Time Warner Cable Arena,Wednesday
+2014/10/29,7:00p,Philadelphia 76ers,91.0,Indiana Pacers,103.0,,"18,165",Bankers Life Fieldhouse,Wednesday
+2014/10/29,7:30p,Atlanta Hawks,102.0,Toronto Raptors,109.0,,"19,800",Air Canada Centre,Wednesday
+2014/10/29,7:30p,Washington Wizards,95.0,Miami Heat,107.0,,"19,744",AmericanAirlines Arena,Wednesday
+2014/10/29,7:30p,Brooklyn Nets,105.0,Boston Celtics,121.0,,"18,624",TD Garden,Wednesday
+2014/10/29,8:00p,Chicago Bulls,104.0,New York Knicks,80.0,,"19,812",Madison Square Garden (IV),Wednesday
+2014/10/29,8:00p,Minnesota Timberwolves,101.0,Memphis Grizzlies,105.0,,"17,731",FedEx Forum,Wednesday
+2014/10/29,9:00p,Detroit Pistons,79.0,Denver Nuggets,89.0,,"17,136",Pepsi Center,Wednesday
+2014/10/29,9:00p,Houston Rockets,104.0,Utah Jazz,93.0,,"19,911",EnergySolutions Arena,Wednesday
+2014/10/29,10:00p,Los Angeles Lakers,99.0,Phoenix Suns,119.0,,"17,523",US Airways Center,Wednesday
+2014/10/29,10:00p,Golden State Warriors,95.0,Sacramento Kings,77.0,,"17,317",Sleep Train Arena,Wednesday
+2014/10/29,10:30p,Oklahoma City Thunder,89.0,Portland Trail Blazers,106.0,,"19,441",Moda Center,Wednesday
+2014/10/30,7:00p,Washington Wizards,105.0,Orlando Magic,98.0,,"18,846",Amway Center,Thursday
+2014/10/30,8:00p,New York Knicks,95.0,Cleveland Cavaliers,90.0,,"20,562",Quicken Loans Arena,Thursday
+2014/10/30,8:00p,Detroit Pistons,91.0,Minnesota Timberwolves,97.0,,"18,296",Target Center,Thursday
+2014/10/30,8:30p,Utah Jazz,102.0,Dallas Mavericks,120.0,,"19,697",American Airlines Center,Thursday
+2014/10/30,10:30p,Oklahoma City Thunder,90.0,Los Angeles Clippers,93.0,,"19,060",STAPLES Center,Thursday
+2014/10/31,7:00p,Memphis Grizzlies,97.0,Indiana Pacers,89.0,,"14,441",Bankers Life Fieldhouse,Friday
+2014/10/31,8:00p,Cleveland Cavaliers,114.0,Chicago Bulls,108.0,OT,"22,879",United Center,Friday
+2014/10/31,8:30p,Philadelphia 76ers,81.0,Milwaukee Bucks,93.0,,"18,717",BMO Harris Bradley Center,Friday
+2014/10/31,10:00p,San Antonio Spurs,89.0,Phoenix Suns,94.0,,"15,050",US Airways Center,Friday
+2014/10/31,10:00p,Portland Trail Blazers,94.0,Sacramento Kings,103.0,,"14,648",Sleep Train Arena,Friday
+2014/10/31,10:30p,Los Angeles Clippers,118.0,Los Angeles Lakers,111.0,,"18,997",STAPLES Center,Friday
+2014/11/01,7:00p,Memphis Grizzlies,71.0,Charlotte Hornets,69.0,,"18,133",Time Warner Cable Arena,Saturday
+2014/11/01,7:00p,Dallas Mavericks,109.0,New Orleans Pelicans,104.0,,"14,547",Smoothie King Center,Saturday
+2014/11/01,7:00p,Toronto Raptors,108.0,Orlando Magic,95.0,,"16,141",Amway Center,Saturday
+2014/11/01,7:00p,Miami Heat,114.0,Philadelphia 76ers,96.0,,"19,753",Wells Fargo Center,Saturday
+2014/11/01,7:00p,Milwaukee Bucks,97.0,Washington Wizards,108.0,,"17,992",Verizon Center,Saturday
+2014/11/01,7:30p,Indiana Pacers,92.0,Atlanta Hawks,102.0,,"19,118",Philips Arena,Saturday
+2014/11/01,7:30p,Brooklyn Nets,102.0,Detroit Pistons,90.0,,"19,904",The Palace of Auburn Hills,Saturday
+2014/11/01,8:00p,Boston Celtics,90.0,Houston Rockets,104.0,,"18,309",Toyota Center,Saturday
+2014/11/01,8:00p,Chicago Bulls,106.0,Minnesota Timberwolves,105.0,,"19,356",Target Center,Saturday
+2014/11/01,8:00p,Denver Nuggets,91.0,Oklahoma City Thunder,102.0,,"18,203",Chesapeake Energy Arena,Saturday
+2014/11/01,9:00p,Phoenix Suns,91.0,Utah Jazz,118.0,,"17,721",EnergySolutions Arena,Saturday
+2014/11/01,10:30p,Los Angeles Lakers,104.0,Golden State Warriors,127.0,,"19,596",Oracle Arena,Saturday
+2014/11/02,3:30p,Sacramento Kings,98.0,Los Angeles Clippers,92.0,,"19,060",STAPLES Center,Sunday
+2014/11/02,6:00p,Toronto Raptors,102.0,Miami Heat,107.0,,"19,666",AmericanAirlines Arena,Sunday
+2014/11/02,7:30p,Charlotte Hornets,93.0,New York Knicks,96.0,,"19,812",Madison Square Garden (IV),Sunday
+2014/11/02,9:00p,Golden State Warriors,95.0,Portland Trail Blazers,90.0,,"19,441",Moda Center,Sunday
+2014/11/03,7:00p,Houston Rockets,104.0,Philadelphia 76ers,93.0,,"12,896",Wells Fargo Center,Monday
+2014/11/03,7:30p,Oklahoma City Thunder,85.0,Brooklyn Nets,116.0,,"17,732",Barclays Center,Monday
+2014/11/03,8:00p,New Orleans Pelicans,81.0,Memphis Grizzlies,93.0,,"15,302",FedEx Forum,Monday
+2014/11/03,8:30p,Boston Celtics,113.0,Dallas Mavericks,118.0,,"19,948",American Airlines Center,Monday
+2014/11/03,9:00p,Sacramento Kings,110.0,Denver Nuggets,105.0,,"12,516",Pepsi Center,Monday
+2014/11/03,10:30p,Utah Jazz,101.0,Los Angeles Clippers,107.0,,"19,060",STAPLES Center,Monday
+2014/11/04,7:00p,Milwaukee Bucks,87.0,Indiana Pacers,81.0,,"15,012",Bankers Life Fieldhouse,Tuesday
+2014/11/04,7:30p,Houston Rockets,108.0,Miami Heat,91.0,,"19,666",AmericanAirlines Arena,Tuesday
+2014/11/04,7:30p,Washington Wizards,98.0,New York Knicks,83.0,,"19,812",Madison Square Garden (IV),Tuesday
+2014/11/04,7:30p,Oklahoma City Thunder,88.0,Toronto Raptors,100.0,,"18,877",Air Canada Centre,Tuesday
+2014/11/04,8:00p,Orlando Magic,90.0,Chicago Bulls,98.0,,"21,809",United Center,Tuesday
+2014/11/04,8:00p,Charlotte Hornets,91.0,New Orleans Pelicans,100.0,,"14,840",Smoothie King Center,Tuesday
+2014/11/04,10:00p,Cleveland Cavaliers,82.0,Portland Trail Blazers,101.0,,"19,441",Moda Center,Tuesday
+2014/11/04,10:30p,Phoenix Suns,112.0,Los Angeles Lakers,106.0,,"18,997",STAPLES Center,Tuesday
+2014/11/05,7:00p,Miami Heat,89.0,Charlotte Hornets,96.0,,"15,874",Time Warner Cable Arena,Wednesday
+2014/11/05,7:00p,Orlando Magic,91.0,Philadelphia 76ers,89.0,,"12,111",Wells Fargo Center,Wednesday
+2014/11/05,7:30p,Toronto Raptors,110.0,Boston Celtics,107.0,,"16,249",TD Garden,Wednesday
+2014/11/05,7:30p,Minnesota Timberwolves,98.0,Brooklyn Nets,91.0,,"16,302",Barclays Center,Wednesday
+2014/11/05,7:30p,New York Knicks,95.0,Detroit Pistons,98.0,,"11,915",The Palace of Auburn Hills,Wednesday
+2014/11/05,8:00p,Chicago Bulls,95.0,Milwaukee Bucks,86.0,,"13,098",BMO Harris Bradley Center,Wednesday
+2014/11/05,8:00p,Indiana Pacers,94.0,Washington Wizards,96.0,OT,"15,268",Verizon Center,Wednesday
+2014/11/05,8:30p,Atlanta Hawks,92.0,San Antonio Spurs,94.0,,"18,581",AT&T Center,Wednesday
+2014/11/05,9:00p,Memphis Grizzlies,102.0,Phoenix Suns,91.0,,"15,377",US Airways Center,Wednesday
+2014/11/05,9:00p,Cleveland Cavaliers,100.0,Utah Jazz,102.0,,"19,911",EnergySolutions Arena,Wednesday
+2014/11/05,10:00p,Denver Nuggets,109.0,Sacramento Kings,131.0,,"14,539",Sleep Train Arena,Wednesday
+2014/11/05,10:30p,Los Angeles Clippers,104.0,Golden State Warriors,121.0,,"19,596",Oracle Arena,Wednesday
+2014/11/06,8:00p,San Antonio Spurs,81.0,Houston Rockets,98.0,,"18,311",Toyota Center,Thursday
+2014/11/06,10:30p,Dallas Mavericks,87.0,Portland Trail Blazers,108.0,,"19,441",Moda Center,Thursday
+2014/11/07,7:00p,Atlanta Hawks,119.0,Charlotte Hornets,122.0,2OT,"15,891",Time Warner Cable Arena,Friday
+2014/11/07,7:00p,Minnesota Timberwolves,103.0,Orlando Magic,112.0,OT,"16,379",Amway Center,Friday
+2014/11/07,7:00p,Chicago Bulls,118.0,Philadelphia 76ers,115.0,,"16,820",Wells Fargo Center,Friday
+2014/11/07,7:30p,Indiana Pacers,98.0,Boston Celtics,101.0,,"17,122",TD Garden,Friday
+2014/11/07,7:30p,New York Knicks,99.0,Brooklyn Nets,110.0,,"17,732",Barclays Center,Friday
+2014/11/07,7:30p,Milwaukee Bucks,95.0,Detroit Pistons,98.0,,"16,102",The Palace of Auburn Hills,Friday
+2014/11/07,7:30p,Washington Wizards,84.0,Toronto Raptors,103.0,,"19,800",Air Canada Centre,Friday
+2014/11/07,8:00p,Memphis Grizzlies,91.0,Oklahoma City Thunder,89.0,,"18,203",Chesapeake Energy Arena,Friday
+2014/11/07,9:00p,Sacramento Kings,114.0,Phoenix Suns,112.0,2OT,"15,476",US Airways Center,Friday
+2014/11/07,9:00p,Dallas Mavericks,105.0,Utah Jazz,82.0,,"18,419",EnergySolutions Arena,Friday
+2014/11/07,10:30p,Cleveland Cavaliers,110.0,Denver Nuggets,101.0,,"19,623",Pepsi Center,Friday
+2014/11/08,3:30p,Portland Trail Blazers,102.0,Los Angeles Clippers,106.0,,"19,060",STAPLES Center,Saturday
+2014/11/08,7:00p,Washington Wizards,97.0,Indiana Pacers,90.0,,"17,302",Bankers Life Fieldhouse,Saturday
+2014/11/08,7:30p,New York Knicks,96.0,Atlanta Hawks,103.0,,"17,521",Philips Arena,Saturday
+2014/11/08,7:30p,Minnesota Timberwolves,92.0,Miami Heat,102.0,,"19,735",AmericanAirlines Arena,Saturday
+2014/11/08,8:00p,Boston Celtics,106.0,Chicago Bulls,101.0,,"22,104",United Center,Saturday
+2014/11/08,8:00p,Golden State Warriors,98.0,Houston Rockets,87.0,,"18,312",Toyota Center,Saturday
+2014/11/08,8:30p,Memphis Grizzlies,92.0,Milwaukee Bucks,93.0,,"13,841",BMO Harris Bradley Center,Saturday
+2014/11/08,8:30p,New Orleans Pelicans,100.0,San Antonio Spurs,99.0,,"18,581",AT&T Center,Saturday
+2014/11/09,3:30p,Orlando Magic,96.0,Brooklyn Nets,104.0,,"16,127",Barclays Center,Sunday
+2014/11/09,6:00p,Utah Jazz,97.0,Detroit Pistons,96.0,,"12,888",The Palace of Auburn Hills,Sunday
+2014/11/09,7:00p,Sacramento Kings,93.0,Oklahoma City Thunder,101.0,,"18,203",Chesapeake Energy Arena,Sunday
+2014/11/09,7:00p,Philadelphia 76ers,88.0,Toronto Raptors,120.0,,"18,470",Air Canada Centre,Sunday
+2014/11/09,7:30p,Miami Heat,105.0,Dallas Mavericks,96.0,,"20,195",American Airlines Center,Sunday
+2014/11/09,8:00p,Golden State Warriors,95.0,Phoenix Suns,107.0,,"16,046",US Airways Center,Sunday
+2014/11/09,9:00p,Denver Nuggets,100.0,Portland Trail Blazers,116.0,,"16,046",Moda Center,Sunday
+2014/11/09,9:30p,Charlotte Hornets,92.0,Los Angeles Lakers,107.0,,"18,997",STAPLES Center,Sunday
+2014/11/10,7:00p,New Orleans Pelicans,111.0,Cleveland Cavaliers,118.0,,"20,562",Quicken Loans Arena,Monday
+2014/11/10,7:00p,Utah Jazz,86.0,Indiana Pacers,97.0,,"12,513",Bankers Life Fieldhouse,Monday
+2014/11/10,7:30p,Atlanta Hawks,91.0,New York Knicks,85.0,,"19,812",Madison Square Garden (IV),Monday
+2014/11/10,8:00p,Detroit Pistons,91.0,Chicago Bulls,102.0,,"21,431",United Center,Monday
+2014/11/10,10:30p,San Antonio Spurs,89.0,Los Angeles Clippers,85.0,,"19,313",STAPLES Center,Monday
+2014/11/11,7:30p,Orlando Magic,100.0,Toronto Raptors,104.0,,"19,800",Air Canada Centre,Tuesday
+2014/11/11,8:00p,Los Angeles Lakers,102.0,Memphis Grizzlies,107.0,,"17,618",FedEx Forum,Tuesday
+2014/11/11,8:00p,Oklahoma City Thunder,78.0,Milwaukee Bucks,85.0,,"12,390",BMO Harris Bradley Center,Tuesday
+2014/11/11,8:30p,Sacramento Kings,98.0,Dallas Mavericks,106.0,,"19,663",American Airlines Center,Tuesday
+2014/11/11,10:00p,Charlotte Hornets,100.0,Portland Trail Blazers,102.0,,"18,495",Moda Center,Tuesday
+2014/11/11,10:30p,San Antonio Spurs,113.0,Golden State Warriors,100.0,,"19,596",Oracle Arena,Tuesday
+2014/11/12,7:00p,Detroit Pistons,103.0,Washington Wizards,107.0,,"14,708",Verizon Center,Wednesday
+2014/11/12,7:30p,Utah Jazz,97.0,Atlanta Hawks,100.0,,"12,595",Philips Arena,Wednesday
+2014/11/12,7:30p,Oklahoma City Thunder,109.0,Boston Celtics,94.0,,"17,043",TD Garden,Wednesday
+2014/11/12,7:30p,Indiana Pacers,81.0,Miami Heat,75.0,,"19,658",AmericanAirlines Arena,Wednesday
+2014/11/12,7:30p,Orlando Magic,97.0,New York Knicks,95.0,,"19,812",Madison Square Garden (IV),Wednesday
+2014/11/12,8:00p,Los Angeles Lakers,102.0,New Orleans Pelicans,109.0,,"17,359",Smoothie King Center,Wednesday
+2014/11/12,9:00p,Portland Trail Blazers,130.0,Denver Nuggets,113.0,,"12,611",Pepsi Center,Wednesday
+2014/11/12,9:00p,Brooklyn Nets,104.0,Phoenix Suns,112.0,,"15,184",US Airways Center,Wednesday
+2014/11/12,10:00p,Houston Rockets,113.0,Minnesota Timberwolves,101.0,,"18,996",Mexico City Arena,Wednesday
+2014/11/13,8:00p,Sacramento Kings,110.0,Memphis Grizzlies,111.0,,"15,666",FedEx Forum,Thursday
+2014/11/13,8:00p,Chicago Bulls,100.0,Toronto Raptors,93.0,,"19,800",Air Canada Centre,Thursday
+2014/11/13,8:30p,Philadelphia 76ers,70.0,Dallas Mavericks,123.0,,"19,604",American Airlines Center,Thursday
+2014/11/13,10:30p,Brooklyn Nets,99.0,Golden State Warriors,107.0,,"19,596",Oracle Arena,Thursday
+2014/11/14,7:00p,Denver Nuggets,108.0,Indiana Pacers,87.0,,"16,286",Bankers Life Fieldhouse,Friday
+2014/11/14,7:00p,Milwaukee Bucks,85.0,Orlando Magic,101.0,,"15,947",Amway Center,Friday
+2014/11/14,7:30p,Miami Heat,103.0,Atlanta Hawks,114.0,,"17,090",Philips Arena,Friday
+2014/11/14,7:30p,Cleveland Cavaliers,122.0,Boston Celtics,121.0,,"18,624",TD Garden,Friday
+2014/11/14,7:30p,Utah Jazz,102.0,New York Knicks,100.0,,"19,812",Madison Square Garden (IV),Friday
+2014/11/14,8:00p,Philadelphia 76ers,87.0,Houston Rockets,88.0,,"18,138",Toyota Center,Friday
+2014/11/14,8:00p,Minnesota Timberwolves,91.0,New Orleans Pelicans,139.0,,"14,775",Smoothie King Center,Friday
+2014/11/14,8:00p,Detroit Pistons,96.0,Oklahoma City Thunder,89.0,OT,"18,203",Chesapeake Energy Arena,Friday
+2014/11/14,9:00p,Charlotte Hornets,103.0,Phoenix Suns,95.0,,"16,291",US Airways Center,Friday
+2014/11/14,10:00p,San Antonio Spurs,93.0,Los Angeles Lakers,80.0,,"18,997",STAPLES Center,Friday
+2014/11/15,7:00p,Orlando Magic,93.0,Washington Wizards,98.0,,"19,110",Verizon Center,Saturday
+2014/11/15,7:30p,Atlanta Hawks,94.0,Cleveland Cavaliers,127.0,,"20,562",Quicken Loans Arena,Saturday
+2014/11/15,7:30p,Utah Jazz,93.0,Toronto Raptors,111.0,,"19,800",Air Canada Centre,Saturday
+2014/11/15,8:00p,Indiana Pacers,99.0,Chicago Bulls,90.0,,"22,248",United Center,Saturday
+2014/11/15,8:00p,Detroit Pistons,88.0,Memphis Grizzlies,95.0,,"17,215",FedEx Forum,Saturday
+2014/11/15,8:30p,Minnesota Timberwolves,117.0,Dallas Mavericks,131.0,,"19,730",American Airlines Center,Saturday
+2014/11/15,10:00p,Brooklyn Nets,87.0,Portland Trail Blazers,97.0,,"19,441",Moda Center,Saturday
+2014/11/15,10:00p,San Antonio Spurs,91.0,Sacramento Kings,94.0,,"17,317",Sleep Train Arena,Saturday
+2014/11/15,10:30p,Charlotte Hornets,87.0,Golden State Warriors,112.0,,"19,596",Oracle Arena,Saturday
+2014/11/15,10:30p,Phoenix Suns,107.0,Los Angeles Clippers,120.0,,"19,060",STAPLES Center,Saturday
+2014/11/16,1:00p,Denver Nuggets,93.0,New York Knicks,109.0,,"19,812",Madison Square Garden (IV),Sunday
+2014/11/16,6:00p,Milwaukee Bucks,91.0,Miami Heat,84.0,,"19,680",AmericanAirlines Arena,Sunday
+2014/11/16,7:00p,Houston Rockets,69.0,Oklahoma City Thunder,65.0,,"18,203",Chesapeake Energy Arena,Sunday
+2014/11/16,9:30p,Golden State Warriors,136.0,Los Angeles Lakers,115.0,,"18,997",STAPLES Center,Sunday
+2014/11/17,7:00p,Dallas Mavericks,107.0,Charlotte Hornets,80.0,,"15,345",Time Warner Cable Arena,Monday
+2014/11/17,7:00p,Denver Nuggets,106.0,Cleveland Cavaliers,97.0,,"20,562",Quicken Loans Arena,Monday
+2014/11/17,7:30p,Phoenix Suns,118.0,Boston Celtics,114.0,,"16,726",TD Garden,Monday
+2014/11/17,7:30p,Miami Heat,95.0,Brooklyn Nets,83.0,,"17,732",Barclays Center,Monday
+2014/11/17,7:30p,Orlando Magic,107.0,Detroit Pistons,93.0,,"11,619",The Palace of Auburn Hills,Monday
+2014/11/17,8:00p,Houston Rockets,93.0,Memphis Grizzlies,119.0,,"17,012",FedEx Forum,Monday
+2014/11/17,8:30p,Philadelphia 76ers,75.0,San Antonio Spurs,100.0,,"18,581",AT&T Center,Monday
+2014/11/17,10:00p,New Orleans Pelicans,93.0,Portland Trail Blazers,102.0,,"19,441",Moda Center,Monday
+2014/11/17,10:30p,Chicago Bulls,105.0,Los Angeles Clippers,89.0,,"19,319",STAPLES Center,Monday
+2014/11/18,7:30p,Los Angeles Lakers,114.0,Atlanta Hawks,109.0,,"17,848",Philips Arena,Tuesday
+2014/11/18,8:00p,New York Knicks,113.0,Milwaukee Bucks,117.0,,"12,190",BMO Harris Bradley Center,Tuesday
+2014/11/18,9:00p,Oklahoma City Thunder,81.0,Utah Jazz,98.0,,"17,190",EnergySolutions Arena,Tuesday
+2014/11/18,10:00p,New Orleans Pelicans,106.0,Sacramento Kings,100.0,,"16,526",Sleep Train Arena,Tuesday
+2014/11/19,7:00p,San Antonio Spurs,92.0,Cleveland Cavaliers,90.0,,"20,562",Quicken Loans Arena,Wednesday
+2014/11/19,7:00p,Charlotte Hornets,86.0,Indiana Pacers,88.0,,"14,748",Bankers Life Fieldhouse,Wednesday
+2014/11/19,7:00p,Los Angeles Clippers,114.0,Orlando Magic,90.0,,"16,034",Amway Center,Wednesday
+2014/11/19,7:00p,Boston Celtics,101.0,Philadelphia 76ers,90.0,,"12,701",Wells Fargo Center,Wednesday
+2014/11/19,7:00p,Dallas Mavericks,105.0,Washington Wizards,102.0,,"16,374",Verizon Center,Wednesday
+2014/11/19,7:30p,Milwaukee Bucks,122.0,Brooklyn Nets,118.0,3OT,"15,694",Barclays Center,Wednesday
+2014/11/19,7:30p,Phoenix Suns,88.0,Detroit Pistons,86.0,,"10,686",The Palace of Auburn Hills,Wednesday
+2014/11/19,7:30p,Memphis Grizzlies,92.0,Toronto Raptors,96.0,,"19,800",Air Canada Centre,Wednesday
+2014/11/19,8:00p,New York Knicks,99.0,Minnesota Timberwolves,115.0,,"15,304",Target Center,Wednesday
+2014/11/19,9:00p,Oklahoma City Thunder,100.0,Denver Nuggets,107.0,,"14,140",Pepsi Center,Wednesday
+2014/11/19,9:30p,Los Angeles Lakers,98.0,Houston Rockets,92.0,,"18,245",Toyota Center,Wednesday
+2014/11/20,8:00p,Los Angeles Clippers,110.0,Miami Heat,93.0,,"19,685",AmericanAirlines Arena,Thursday
+2014/11/20,10:30p,Chicago Bulls,88.0,Sacramento Kings,103.0,,"17,317",Sleep Train Arena,Thursday
+2014/11/21,7:00p,Orlando Magic,105.0,Charlotte Hornets,100.0,,"18,126",Time Warner Cable Arena,Friday
+2014/11/21,7:00p,Phoenix Suns,122.0,Philadelphia 76ers,96.0,,"16,789",Wells Fargo Center,Friday
+2014/11/21,7:30p,Detroit Pistons,89.0,Atlanta Hawks,99.0,,"16,517",Philips Arena,Friday
+2014/11/21,7:30p,Milwaukee Bucks,82.0,Toronto Raptors,124.0,,"19,800",Air Canada Centre,Friday
+2014/11/21,8:00p,Boston Celtics,100.0,Memphis Grizzlies,117.0,,"17,712",FedEx Forum,Friday
+2014/11/21,8:00p,San Antonio Spurs,121.0,Minnesota Timberwolves,92.0,,"12,414",Target Center,Friday
+2014/11/21,8:00p,Brooklyn Nets,94.0,Oklahoma City Thunder,92.0,,"18,203",Chesapeake Energy Arena,Friday
+2014/11/21,8:00p,Cleveland Cavaliers,78.0,Washington Wizards,91.0,,"20,356",Verizon Center,Friday
+2014/11/21,8:30p,Los Angeles Lakers,106.0,Dallas Mavericks,140.0,,"20,353",American Airlines Center,Friday
+2014/11/21,9:00p,New Orleans Pelicans,97.0,Denver Nuggets,117.0,,"15,232",Pepsi Center,Friday
+2014/11/21,10:30p,Utah Jazz,88.0,Golden State Warriors,101.0,,"19,596",Oracle Arena,Friday
+2014/11/21,10:30p,Chicago Bulls,87.0,Portland Trail Blazers,105.0,,"19,866",Moda Center,Friday
+2014/11/22,7:00p,Phoenix Suns,106.0,Indiana Pacers,83.0,,"16,870",Bankers Life Fieldhouse,Saturday
+2014/11/22,7:00p,Miami Heat,99.0,Orlando Magic,92.0,,"18,846",Amway Center,Saturday
+2014/11/22,7:30p,Toronto Raptors,110.0,Cleveland Cavaliers,93.0,,"20,562",Quicken Loans Arena,Saturday
+2014/11/22,7:30p,Philadelphia 76ers,83.0,New York Knicks,91.0,,"19,812",Madison Square Garden (IV),Saturday
+2014/11/22,8:00p,Dallas Mavericks,92.0,Houston Rockets,95.0,,"18,244",Toyota Center,Saturday
+2014/11/22,8:00p,Sacramento Kings,113.0,Minnesota Timberwolves,101.0,,"13,191",Target Center,Saturday
+2014/11/22,8:30p,Washington Wizards,111.0,Milwaukee Bucks,100.0,,"14,254",BMO Harris Bradley Center,Saturday
+2014/11/22,8:30p,Brooklyn Nets,87.0,San Antonio Spurs,99.0,,"18,581",AT&T Center,Saturday
+2014/11/22,9:00p,New Orleans Pelicans,106.0,Utah Jazz,94.0,,"18,452",EnergySolutions Arena,Saturday
+2014/11/23,6:00p,Portland Trail Blazers,94.0,Boston Celtics,88.0,,"16,692",TD Garden,Sunday
+2014/11/23,6:00p,Los Angeles Clippers,91.0,Memphis Grizzlies,107.0,,"18,119",FedEx Forum,Sunday
+2014/11/23,6:00p,Charlotte Hornets,93.0,Miami Heat,94.0,,"19,639",AmericanAirlines Arena,Sunday
+2014/11/23,7:00p,Golden State Warriors,91.0,Oklahoma City Thunder,86.0,,"18,203",Chesapeake Energy Arena,Sunday
+2014/11/23,9:30p,Denver Nuggets,101.0,Los Angeles Lakers,94.0,OT,"18,997",STAPLES Center,Sunday
+2014/11/24,7:00p,Los Angeles Clippers,113.0,Charlotte Hornets,92.0,,"17,180",Time Warner Cable Arena,Monday
+2014/11/24,7:00p,Orlando Magic,74.0,Cleveland Cavaliers,106.0,,"20,562",Quicken Loans Arena,Monday
+2014/11/24,7:00p,Portland Trail Blazers,114.0,Philadelphia 76ers,104.0,,"11,094",Wells Fargo Center,Monday
+2014/11/24,7:30p,Phoenix Suns,100.0,Toronto Raptors,104.0,,"19,800",Air Canada Centre,Monday
+2014/11/24,8:00p,New York Knicks,86.0,Houston Rockets,91.0,,"18,133",Toyota Center,Monday
+2014/11/24,8:30p,Indiana Pacers,111.0,Dallas Mavericks,100.0,,"19,850",American Airlines Center,Monday
+2014/11/24,9:00p,Chicago Bulls,97.0,Utah Jazz,95.0,,"18,904",EnergySolutions Arena,Monday
+2014/11/25,7:00p,Atlanta Hawks,106.0,Washington Wizards,102.0,,"15,440",Verizon Center,Tuesday
+2014/11/25,7:30p,Golden State Warriors,114.0,Miami Heat,97.0,,"19,647",AmericanAirlines Arena,Tuesday
+2014/11/25,8:00p,Detroit Pistons,86.0,Milwaukee Bucks,98.0,,"15,265",BMO Harris Bradley Center,Tuesday
+2014/11/25,8:00p,Sacramento Kings,99.0,New Orleans Pelicans,89.0,,"17,037",Smoothie King Center,Tuesday
+2014/11/25,9:00p,Chicago Bulls,109.0,Denver Nuggets,114.0,,"17,033",Pepsi Center,Tuesday
+2014/11/26,7:00p,Portland Trail Blazers,105.0,Charlotte Hornets,97.0,,"16,972",Time Warner Cable Arena,Wednesday
+2014/11/26,7:00p,Washington Wizards,87.0,Cleveland Cavaliers,113.0,,"20,562",Quicken Loans Arena,Wednesday
+2014/11/26,7:00p,Golden State Warriors,111.0,Orlando Magic,96.0,,"17,702",Amway Center,Wednesday
+2014/11/26,7:00p,Brooklyn Nets,99.0,Philadelphia 76ers,91.0,,"11,223",Wells Fargo Center,Wednesday
+2014/11/26,7:30p,Toronto Raptors,126.0,Atlanta Hawks,115.0,,"16,253",Philips Arena,Wednesday
+2014/11/26,7:30p,New York Knicks,102.0,Dallas Mavericks,109.0,OT,"20,352",American Airlines Center,Wednesday
+2014/11/26,7:30p,Los Angeles Clippers,104.0,Detroit Pistons,98.0,,"13,461",The Palace of Auburn Hills,Wednesday
+2014/11/26,8:00p,Sacramento Kings,89.0,Houston Rockets,102.0,,"18,058",Toyota Center,Wednesday
+2014/11/26,8:00p,Milwaukee Bucks,103.0,Minnesota Timberwolves,86.0,,"14,710",Target Center,Wednesday
+2014/11/26,8:00p,Utah Jazz,82.0,Oklahoma City Thunder,97.0,,"18,203",Chesapeake Energy Arena,Wednesday
+2014/11/26,8:30p,Indiana Pacers,100.0,San Antonio Spurs,106.0,,"18,581",AT&T Center,Wednesday
+2014/11/26,9:00p,Denver Nuggets,112.0,Phoenix Suns,120.0,,"16,099",US Airways Center,Wednesday
+2014/11/26,10:30p,Memphis Grizzlies,99.0,Los Angeles Lakers,93.0,,"18,997",STAPLES Center,Wednesday
+2014/11/28,1:00p,Chicago Bulls,109.0,Boston Celtics,102.0,,"18,203",TD Garden,Friday
+2014/11/28,7:00p,Golden State Warriors,106.0,Charlotte Hornets,101.0,,"19,381",Time Warner Cable Arena,Friday
+2014/11/28,7:30p,New Orleans Pelicans,91.0,Atlanta Hawks,100.0,,"17,079",Philips Arena,Friday
+2014/11/28,7:30p,Milwaukee Bucks,104.0,Detroit Pistons,88.0,,"13,127",The Palace of Auburn Hills,Friday
+2014/11/28,7:30p,Dallas Mavericks,106.0,Toronto Raptors,102.0,,"19,800",Air Canada Centre,Friday
+2014/11/28,8:00p,Los Angeles Clippers,102.0,Houston Rockets,85.0,,"18,226",Toyota Center,Friday
+2014/11/28,8:00p,Orlando Magic,83.0,Indiana Pacers,98.0,,"18,165",Bankers Life Fieldhouse,Friday
+2014/11/28,8:00p,New York Knicks,78.0,Oklahoma City Thunder,105.0,,"18,203",Chesapeake Energy Arena,Friday
+2014/11/28,8:30p,Sacramento Kings,104.0,San Antonio Spurs,112.0,,"18,581",AT&T Center,Friday
+2014/11/28,9:00p,Phoenix Suns,97.0,Denver Nuggets,122.0,,"15,509",Pepsi Center,Friday
+2014/11/28,10:00p,Memphis Grizzlies,112.0,Portland Trail Blazers,99.0,,"19,459",Moda Center,Friday
+2014/11/28,10:30p,Minnesota Timberwolves,120.0,Los Angeles Lakers,119.0,,"18,997",STAPLES Center,Friday
+2014/11/29,7:00p,Dallas Mavericks,110.0,Philadelphia 76ers,103.0,,"16,145",Wells Fargo Center,Saturday
+2014/11/29,7:00p,New Orleans Pelicans,80.0,Washington Wizards,83.0,,"17,581",Verizon Center,Saturday
+2014/11/29,7:30p,Charlotte Hornets,75.0,Atlanta Hawks,105.0,,"14,185",Philips Arena,Saturday
+2014/11/29,7:30p,Indiana Pacers,97.0,Cleveland Cavaliers,109.0,,"20,562",Quicken Loans Arena,Saturday
+2014/11/29,9:00p,Houston Rockets,117.0,Milwaukee Bucks,103.0,,"16,119",BMO Harris Bradley Center,Saturday
+2014/11/29,9:00p,Los Angeles Clippers,112.0,Utah Jazz,96.0,,"18,479",EnergySolutions Arena,Saturday
+2014/11/30,1:00p,San Antonio Spurs,111.0,Boston Celtics,89.0,,"17,121",TD Garden,Sunday
+2014/11/30,3:00p,Chicago Bulls,102.0,Brooklyn Nets,84.0,,"17,732",Barclays Center,Sunday
+2014/11/30,3:30p,Golden State Warriors,104.0,Detroit Pistons,93.0,,"12,737",The Palace of Auburn Hills,Sunday
+2014/11/30,6:00p,Memphis Grizzlies,97.0,Sacramento Kings,85.0,,"16,240",Sleep Train Arena,Sunday
+2014/11/30,7:30p,Miami Heat,86.0,New York Knicks,79.0,,"19,812",Madison Square Garden (IV),Sunday
+2014/11/30,8:00p,Orlando Magic,93.0,Phoenix Suns,90.0,,"15,558",US Airways Center,Sunday
+2014/11/30,9:00p,Minnesota Timberwolves,93.0,Portland Trail Blazers,107.0,,"18,843",Moda Center,Sunday
+2014/11/30,9:30p,Toronto Raptors,122.0,Los Angeles Lakers,129.0,OT,"18,997",STAPLES Center,Sunday
+2014/12/01,7:00p,San Antonio Spurs,109.0,Philadelphia 76ers,103.0,,"12,843",Wells Fargo Center,Monday
+2014/12/01,7:00p,Miami Heat,86.0,Washington Wizards,107.0,,"15,150",Verizon Center,Monday
+2014/12/01,9:00p,Denver Nuggets,103.0,Utah Jazz,101.0,,"16,768",EnergySolutions Arena,Monday
+2014/12/01,10:30p,Minnesota Timberwolves,101.0,Los Angeles Clippers,127.0,,"19,060",STAPLES Center,Monday
+2014/12/02,7:00p,Milwaukee Bucks,108.0,Cleveland Cavaliers,111.0,,"20,562",Quicken Loans Arena,Tuesday
+2014/12/02,7:30p,Boston Celtics,105.0,Atlanta Hawks,109.0,,"12,705",Philips Arena,Tuesday
+2014/12/02,7:30p,Los Angeles Lakers,106.0,Detroit Pistons,96.0,,"14,083",The Palace of Auburn Hills,Tuesday
+2014/12/02,7:30p,Brooklyn Nets,98.0,New York Knicks,93.0,,"19,812",Madison Square Garden (IV),Tuesday
+2014/12/02,8:00p,Dallas Mavericks,132.0,Chicago Bulls,129.0,2OT,"22,042",United Center,Tuesday
+2014/12/02,8:00p,Oklahoma City Thunder,104.0,New Orleans Pelicans,112.0,,"13,903",Smoothie King Center,Tuesday
+2014/12/02,9:00p,Portland Trail Blazers,105.0,Denver Nuggets,103.0,,"12,822",Pepsi Center,Tuesday
+2014/12/02,9:00p,Indiana Pacers,99.0,Phoenix Suns,116.0,,"15,059",US Airways Center,Tuesday
+2014/12/02,10:00p,Toronto Raptors,117.0,Sacramento Kings,109.0,,"15,522",Sleep Train Arena,Tuesday
+2014/12/02,10:30p,Orlando Magic,97.0,Golden State Warriors,98.0,,"19,596",Oracle Arena,Tuesday
+2014/12/03,7:00p,Chicago Bulls,102.0,Charlotte Hornets,95.0,,"16,887",Time Warner Cable Arena,Wednesday
+2014/12/03,7:00p,Los Angeles Lakers,95.0,Washington Wizards,111.0,,"18,490",Verizon Center,Wednesday
+2014/12/03,7:30p,Detroit Pistons,102.0,Boston Celtics,109.0,OT,"15,870",TD Garden,Wednesday
+2014/12/03,7:30p,San Antonio Spurs,93.0,Brooklyn Nets,95.0,OT,"15,989",Barclays Center,Wednesday
+2014/12/03,7:30p,Atlanta Hawks,112.0,Miami Heat,102.0,,"19,600",AmericanAirlines Arena,Wednesday
+2014/12/03,8:00p,Memphis Grizzlies,96.0,Houston Rockets,105.0,,"18,151",Toyota Center,Wednesday
+2014/12/03,8:00p,Dallas Mavericks,107.0,Milwaukee Bucks,105.0,,"13,568",BMO Harris Bradley Center,Wednesday
+2014/12/03,8:00p,Philadelphia 76ers,85.0,Minnesota Timberwolves,77.0,,"10,463",Target Center,Wednesday
+2014/12/03,9:00p,Toronto Raptors,123.0,Utah Jazz,104.0,,"16,677",EnergySolutions Arena,Wednesday
+2014/12/03,10:30p,Orlando Magic,86.0,Los Angeles Clippers,114.0,,"19,060",STAPLES Center,Wednesday
+2014/12/04,8:00p,Cleveland Cavaliers,90.0,New York Knicks,87.0,,"19,812",Madison Square Garden (IV),Thursday
+2014/12/04,10:00p,Indiana Pacers,82.0,Portland Trail Blazers,88.0,,"19,191",Moda Center,Thursday
+2014/12/04,10:30p,New Orleans Pelicans,85.0,Golden State Warriors,112.0,,"19,596",Oracle Arena,Thursday
+2014/12/05,7:00p,New York Knicks,102.0,Charlotte Hornets,103.0,,"19,102",Time Warner Cable Arena,Friday
+2014/12/05,7:00p,Oklahoma City Thunder,103.0,Philadelphia 76ers,91.0,,"15,092",Wells Fargo Center,Friday
+2014/12/05,7:00p,Denver Nuggets,89.0,Washington Wizards,119.0,,"19,451",Verizon Center,Friday
+2014/12/05,7:30p,Los Angeles Lakers,96.0,Boston Celtics,113.0,,"18,624",TD Garden,Friday
+2014/12/05,7:30p,Atlanta Hawks,98.0,Brooklyn Nets,75.0,,"16,146",Barclays Center,Friday
+2014/12/05,7:30p,Cleveland Cavaliers,105.0,Toronto Raptors,91.0,,"20,077",Air Canada Centre,Friday
+2014/12/05,8:00p,San Antonio Spurs,107.0,Memphis Grizzlies,101.0,,"18,119",FedEx Forum,Friday
+2014/12/05,8:00p,Houston Rockets,114.0,Minnesota Timberwolves,112.0,OT,"12,101",Target Center,Friday
+2014/12/05,8:30p,Phoenix Suns,118.0,Dallas Mavericks,106.0,,"20,010",American Airlines Center,Friday
+2014/12/05,8:30p,Miami Heat,85.0,Milwaukee Bucks,109.0,,"16,325",BMO Harris Bradley Center,Friday
+2014/12/05,9:00p,Orlando Magic,98.0,Utah Jazz,93.0,,"18,997",EnergySolutions Arena,Friday
+2014/12/05,10:00p,Indiana Pacers,101.0,Sacramento Kings,102.0,OT,"15,512",Sleep Train Arena,Friday
+2014/12/06,7:30p,Philadelphia 76ers,108.0,Detroit Pistons,101.0,OT,"16,514",The Palace of Auburn Hills,Saturday
+2014/12/06,8:00p,Golden State Warriors,112.0,Chicago Bulls,102.0,,"22,353",United Center,Saturday
+2014/12/06,8:00p,Phoenix Suns,95.0,Houston Rockets,100.0,,"18,060",Toyota Center,Saturday
+2014/12/06,8:30p,Minnesota Timberwolves,101.0,San Antonio Spurs,123.0,,"18,581",AT&T Center,Saturday
+2014/12/06,10:00p,Orlando Magic,105.0,Sacramento Kings,96.0,,"16,021",Sleep Train Arena,Saturday
+2014/12/06,10:30p,New Orleans Pelicans,100.0,Los Angeles Clippers,120.0,,"19,060",STAPLES Center,Saturday
+2014/12/07,1:00p,Washington Wizards,93.0,Boston Celtics,101.0,,"16,716",TD Garden,Sunday
+2014/12/07,3:30p,Denver Nuggets,84.0,Atlanta Hawks,96.0,,"12,143",Philips Arena,Sunday
+2014/12/07,6:00p,Oklahoma City Thunder,96.0,Detroit Pistons,94.0,,"13,090",The Palace of Auburn Hills,Sunday
+2014/12/07,6:00p,Miami Heat,87.0,Memphis Grizzlies,103.0,,"16,572",FedEx Forum,Sunday
+2014/12/07,7:30p,Milwaukee Bucks,102.0,Dallas Mavericks,125.0,,"19,413",American Airlines Center,Sunday
+2014/12/07,7:30p,Portland Trail Blazers,103.0,New York Knicks,99.0,,"19,812",Madison Square Garden (IV),Sunday
+2014/12/07,9:30p,New Orleans Pelicans,104.0,Los Angeles Lakers,87.0,,"18,997",STAPLES Center,Sunday
+2014/12/08,7:00p,Atlanta Hawks,108.0,Indiana Pacers,92.0,,"14,519",Bankers Life Fieldhouse,Monday
+2014/12/08,7:00p,Boston Celtics,132.0,Washington Wizards,133.0,2OT,"14,828",Verizon Center,Monday
+2014/12/08,7:30p,Cleveland Cavaliers,110.0,Brooklyn Nets,88.0,,"17,732",Barclays Center,Monday
+2014/12/08,7:30p,Denver Nuggets,107.0,Toronto Raptors,112.0,OT,"19,800",Air Canada Centre,Monday
+2014/12/08,8:00p,Golden State Warriors,102.0,Minnesota Timberwolves,86.0,,"10,296",Target Center,Monday
+2014/12/08,10:00p,Utah Jazz,92.0,Sacramento Kings,101.0,,"16,511",Sleep Train Arena,Monday
+2014/12/08,10:30p,Phoenix Suns,120.0,Los Angeles Clippers,121.0,OT,"19,060",STAPLES Center,Monday
+2014/12/09,7:00p,Toronto Raptors,101.0,Cleveland Cavaliers,105.0,,"20,562",Quicken Loans Arena,Tuesday
+2014/12/09,7:30p,Portland Trail Blazers,98.0,Detroit Pistons,86.0,,"12,813",The Palace of Auburn Hills,Tuesday
+2014/12/09,8:00p,Dallas Mavericks,105.0,Memphis Grizzlies,114.0,,"16,512",FedEx Forum,Tuesday
+2014/12/09,8:00p,New York Knicks,93.0,New Orleans Pelicans,104.0,,"13,789",Smoothie King Center,Tuesday
+2014/12/09,8:00p,Milwaukee Bucks,101.0,Oklahoma City Thunder,114.0,,"18,203",Chesapeake Energy Arena,Tuesday
+2014/12/09,9:00p,Miami Heat,103.0,Phoenix Suns,97.0,,"14,963",US Airways Center,Tuesday
+2014/12/09,9:00p,San Antonio Spurs,96.0,Utah Jazz,100.0,,"18,382",EnergySolutions Arena,Tuesday
+2014/12/09,10:30p,Sacramento Kings,95.0,Los Angeles Lakers,98.0,,"18,267",STAPLES Center,Tuesday
+2014/12/10,7:00p,Boston Celtics,87.0,Charlotte Hornets,96.0,,"15,276",Time Warner Cable Arena,Wednesday
+2014/12/10,7:00p,Los Angeles Clippers,103.0,Indiana Pacers,96.0,,"16,392",Bankers Life Fieldhouse,Wednesday
+2014/12/10,7:00p,Washington Wizards,91.0,Orlando Magic,89.0,,"16,081",Amway Center,Wednesday
+2014/12/10,7:30p,Philadelphia 76ers,79.0,Atlanta Hawks,95.0,,"11,733",Philips Arena,Wednesday
+2014/12/10,8:00p,Brooklyn Nets,80.0,Chicago Bulls,105.0,,"11,733",United Center,Wednesday
+2014/12/10,8:00p,New Orleans Pelicans,107.0,Dallas Mavericks,112.0,,"19,988",American Airlines Center,Wednesday
+2014/12/10,8:00p,Portland Trail Blazers,82.0,Minnesota Timberwolves,90.0,,"10,337",Target Center,Wednesday
+2014/12/10,8:30p,New York Knicks,95.0,San Antonio Spurs,109.0,,"18,581",AT&T Center,Wednesday
+2014/12/10,10:30p,Miami Heat,82.0,Denver Nuggets,102.0,,"13,433",Pepsi Center,Wednesday
+2014/12/10,10:30p,Houston Rockets,93.0,Golden State Warriors,105.0,,"19,596",Oracle Arena,Wednesday
+2014/12/11,8:00p,Cleveland Cavaliers,94.0,Oklahoma City Thunder,103.0,,"18,203",Chesapeake Energy Arena,Thursday
+2014/12/11,10:30p,Houston Rockets,113.0,Sacramento Kings,109.0,OT,"16,676",Sleep Train Arena,Thursday
+2014/12/12,7:00p,Portland Trail Blazers,106.0,Chicago Bulls,115.0,,"21,725",United Center,Friday
+2014/12/12,7:00p,Los Angeles Clippers,96.0,Washington Wizards,104.0,,"17,437",Verizon Center,Friday
+2014/12/12,7:30p,Orlando Magic,81.0,Atlanta Hawks,87.0,,"13,247",Philips Arena,Friday
+2014/12/12,7:30p,New York Knicks,101.0,Boston Celtics,95.0,,"17,989",TD Garden,Friday
+2014/12/12,7:30p,Philadelphia 76ers,70.0,Brooklyn Nets,88.0,,"16,326",Barclays Center,Friday
+2014/12/12,7:30p,Indiana Pacers,94.0,Toronto Raptors,106.0,,"19,800",Air Canada Centre,Friday
+2014/12/12,8:00p,Charlotte Hornets,107.0,Memphis Grizzlies,113.0,2OT,"15,897",FedEx Forum,Friday
+2014/12/12,8:00p,Oklahoma City Thunder,111.0,Minnesota Timberwolves,92.0,,"13,557",Target Center,Friday
+2014/12/12,8:00p,Cleveland Cavaliers,114.0,New Orleans Pelicans,119.0,,"18,069",Smoothie King Center,Friday
+2014/12/12,9:00p,Detroit Pistons,105.0,Phoenix Suns,103.0,,"17,007",US Airways Center,Friday
+2014/12/12,9:00p,Miami Heat,100.0,Utah Jazz,95.0,,"19,911",EnergySolutions Arena,Friday
+2014/12/12,9:30p,Los Angeles Lakers,112.0,San Antonio Spurs,110.0,OT,"18,581",AT&T Center,Friday
+2014/12/13,2:00p,Golden State Warriors,105.0,Dallas Mavericks,98.0,,"20,317",American Airlines Center,Saturday
+2014/12/13,7:00p,Brooklyn Nets,114.0,Charlotte Hornets,87.0,,"17,113",Time Warner Cable Arena,Saturday
+2014/12/13,7:00p,Portland Trail Blazers,95.0,Indiana Pacers,85.0,,"17,206",Bankers Life Fieldhouse,Saturday
+2014/12/13,7:00p,Atlanta Hawks,99.0,Orlando Magic,100.0,,"15,939",Amway Center,Saturday
+2014/12/13,7:30p,Los Angeles Clippers,106.0,Milwaukee Bucks,111.0,,"16,227",BMO Harris Bradley Center,Saturday
+2014/12/13,7:30p,Memphis Grizzlies,120.0,Philadelphia 76ers,115.0,OT,"13,698",Wells Fargo Center,Saturday
+2014/12/13,8:00p,Denver Nuggets,96.0,Houston Rockets,108.0,,"18,136",Toyota Center,Saturday
+2014/12/13,10:00p,Detroit Pistons,95.0,Sacramento Kings,90.0,,"16,242",Sleep Train Arena,Saturday
+2014/12/14,6:00p,Chicago Bulls,93.0,Miami Heat,75.0,,"19,600",AmericanAirlines Arena,Sunday
+2014/12/14,6:00p,Golden State Warriors,128.0,New Orleans Pelicans,122.0,OT,"15,037",Smoothie King Center,Sunday
+2014/12/14,6:00p,Utah Jazz,84.0,Washington Wizards,93.0,,"15,220",Verizon Center,Sunday
+2014/12/14,7:00p,Los Angeles Lakers,100.0,Minnesota Timberwolves,94.0,,"15,008",Target Center,Sunday
+2014/12/14,7:00p,Phoenix Suns,88.0,Oklahoma City Thunder,112.0,,"18,203",Chesapeake Energy Arena,Sunday
+2014/12/14,7:30p,Toronto Raptors,95.0,New York Knicks,90.0,OT,"19,812",Madison Square Garden (IV),Sunday
+2014/12/14,8:00p,San Antonio Spurs,99.0,Denver Nuggets,91.0,,"16,544",Pepsi Center,Sunday
+2014/12/15,7:00p,Charlotte Hornets,88.0,Cleveland Cavaliers,97.0,,"20,562",Quicken Loans Arena,Monday
+2014/12/15,7:00p,Los Angeles Lakers,91.0,Indiana Pacers,110.0,,"15,261",Bankers Life Fieldhouse,Monday
+2014/12/15,7:00p,Boston Celtics,105.0,Philadelphia 76ers,87.0,,"12,903",Wells Fargo Center,Monday
+2014/12/15,7:30p,Chicago Bulls,86.0,Atlanta Hawks,93.0,,"16,805",Philips Arena,Monday
+2014/12/15,7:30p,Orlando Magic,82.0,Toronto Raptors,95.0,,"19,800",Air Canada Centre,Monday
+2014/12/15,9:00p,Milwaukee Bucks,96.0,Phoenix Suns,94.0,,"17,327",US Airways Center,Monday
+2014/12/15,10:00p,San Antonio Spurs,95.0,Portland Trail Blazers,108.0,,"19,441",Moda Center,Monday
+2014/12/15,10:30p,Detroit Pistons,91.0,Los Angeles Clippers,113.0,,"19,060",STAPLES Center,Monday
+2014/12/16,7:00p,Minnesota Timberwolves,95.0,Washington Wizards,109.0,,"15,823",Verizon Center,Tuesday
+2014/12/16,7:30p,Miami Heat,95.0,Brooklyn Nets,91.0,,"16,827",Barclays Center,Tuesday
+2014/12/16,8:00p,Golden State Warriors,98.0,Memphis Grizzlies,105.0,,"18,119",FedEx Forum,Tuesday
+2014/12/16,8:00p,Utah Jazz,111.0,New Orleans Pelicans,119.0,,"13,179",Smoothie King Center,Tuesday
+2014/12/16,8:00p,Dallas Mavericks,107.0,New York Knicks,87.0,,"19,812",Madison Square Garden (IV),Tuesday
+2014/12/16,10:30p,Oklahoma City Thunder,104.0,Sacramento Kings,92.0,,"17,317",Sleep Train Arena,Tuesday
+2014/12/17,7:00p,Phoenix Suns,111.0,Charlotte Hornets,106.0,,"15,459",Time Warner Cable Arena,Wednesday
+2014/12/17,7:00p,Atlanta Hawks,127.0,Cleveland Cavaliers,98.0,,"20,562",Quicken Loans Arena,Wednesday
+2014/12/17,7:30p,Orlando Magic,92.0,Boston Celtics,109.0,,"16,764",TD Garden,Wednesday
+2014/12/17,7:30p,Dallas Mavericks,117.0,Detroit Pistons,106.0,,"12,287",The Palace of Auburn Hills,Wednesday
+2014/12/17,7:30p,Utah Jazz,105.0,Miami Heat,87.0,,"19,633",AmericanAirlines Arena,Wednesday
+2014/12/17,8:00p,Brooklyn Nets,89.0,Toronto Raptors,105.0,,"19,800",Air Canada Centre,Wednesday
+2014/12/17,8:30p,Memphis Grizzlies,117.0,San Antonio Spurs,116.0,3OT,"18,581",AT&T Center,Wednesday
+2014/12/17,10:00p,Milwaukee Bucks,97.0,Portland Trail Blazers,104.0,,"19,495",Moda Center,Wednesday
+2014/12/17,10:30p,Houston Rockets,115.0,Denver Nuggets,111.0,OT,"12,107",Pepsi Center,Wednesday
+2014/12/17,10:30p,Indiana Pacers,100.0,Los Angeles Clippers,102.0,,"19,060",STAPLES Center,Wednesday
+2014/12/18,8:00p,New York Knicks,97.0,Chicago Bulls,103.0,,"21,875",United Center,Thursday
+2014/12/18,8:30p,New Orleans Pelicans,99.0,Houston Rockets,90.0,,"18,137",Toyota Center,Thursday
+2014/12/18,10:00p,Milwaukee Bucks,108.0,Sacramento Kings,107.0,,"15,645",Sleep Train Arena,Thursday
+2014/12/18,10:30p,Oklahoma City Thunder,109.0,Golden State Warriors,114.0,,"19,596",Oracle Arena,Thursday
+2014/12/19,7:00p,Utah Jazz,101.0,Orlando Magic,94.0,,"16,032",Amway Center,Friday
+2014/12/19,7:00p,Charlotte Hornets,109.0,Philadelphia 76ers,91.0,,"13,398",Wells Fargo Center,Friday
+2014/12/19,7:30p,Minnesota Timberwolves,98.0,Boston Celtics,114.0,,"17,042",TD Garden,Friday
+2014/12/19,7:30p,Brooklyn Nets,91.0,Cleveland Cavaliers,95.0,,"20,562",Quicken Loans Arena,Friday
+2014/12/19,7:30p,Toronto Raptors,110.0,Detroit Pistons,100.0,,"16,274",The Palace of Auburn Hills,Friday
+2014/12/19,7:30p,Washington Wizards,105.0,Miami Heat,103.0,,"19,600",AmericanAirlines Arena,Friday
+2014/12/19,8:00p,Chicago Bulls,103.0,Memphis Grizzlies,97.0,,"18,119",FedEx Forum,Friday
+2014/12/19,8:00p,Portland Trail Blazers,129.0,San Antonio Spurs,119.0,3OT,"18,581",AT&T Center,Friday
+2014/12/19,9:00p,Los Angeles Clippers,106.0,Denver Nuggets,109.0,,"15,030",Pepsi Center,Friday
+2014/12/19,10:30p,Oklahoma City Thunder,104.0,Los Angeles Lakers,103.0,,"18,997",STAPLES Center,Friday
+2014/12/20,1:00p,Phoenix Suns,99.0,New York Knicks,90.0,,"19,812",Madison Square Garden (IV),Saturday
+2014/12/20,7:00p,Utah Jazz,86.0,Charlotte Hornets,104.0,,"17,384",Time Warner Cable Arena,Saturday
+2014/12/20,7:00p,Portland Trail Blazers,114.0,New Orleans Pelicans,88.0,,"16,079",Smoothie King Center,Saturday
+2014/12/20,8:00p,Atlanta Hawks,104.0,Houston Rockets,97.0,,"16,998",Toyota Center,Saturday
+2014/12/20,8:30p,San Antonio Spurs,93.0,Dallas Mavericks,99.0,,"20,504",American Airlines Center,Saturday
+2014/12/20,9:00p,Indiana Pacers,73.0,Denver Nuggets,76.0,,"14,125",Pepsi Center,Saturday
+2014/12/20,10:30p,Milwaukee Bucks,102.0,Los Angeles Clippers,106.0,,"19,060",STAPLES Center,Saturday
+2014/12/21,3:30p,New York Knicks,108.0,Toronto Raptors,118.0,,"19,800",Air Canada Centre,Sunday
+2014/12/21,4:30p,Memphis Grizzlies,91.0,Cleveland Cavaliers,105.0,,"20,562",Quicken Loans Arena,Sunday
+2014/12/21,6:00p,Detroit Pistons,105.0,Brooklyn Nets,110.0,,"17,732",Barclays Center,Sunday
+2014/12/21,6:00p,Boston Celtics,84.0,Miami Heat,100.0,,"19,720",AmericanAirlines Arena,Sunday
+2014/12/21,6:00p,Philadelphia 76ers,96.0,Orlando Magic,88.0,,"15,682",Amway Center,Sunday
+2014/12/21,6:00p,Los Angeles Lakers,101.0,Sacramento Kings,108.0,,"17,317",Sleep Train Arena,Sunday
+2014/12/21,6:00p,Phoenix Suns,104.0,Washington Wizards,92.0,,"18,207",Verizon Center,Sunday
+2014/12/21,7:00p,Indiana Pacers,100.0,Minnesota Timberwolves,96.0,,"12,687",Target Center,Sunday
+2014/12/21,7:00p,New Orleans Pelicans,101.0,Oklahoma City Thunder,99.0,,"18,203",Chesapeake Energy Arena,Sunday
+2014/12/22,7:00p,Denver Nuggets,82.0,Charlotte Hornets,110.0,,"16,913",Time Warner Cable Arena,Monday
+2014/12/22,8:00p,Toronto Raptors,120.0,Chicago Bulls,129.0,,"21,846",United Center,Monday
+2014/12/22,8:00p,Portland Trail Blazers,95.0,Houston Rockets,110.0,,"18,316",Toyota Center,Monday
+2014/12/22,8:00p,Utah Jazz,97.0,Memphis Grizzlies,91.0,,"16,991",FedEx Forum,Monday
+2014/12/22,8:30p,Atlanta Hawks,105.0,Dallas Mavericks,102.0,,"20,339",American Airlines Center,Monday
+2014/12/22,8:30p,Los Angeles Clippers,118.0,San Antonio Spurs,125.0,,"18,581",AT&T Center,Monday
+2014/12/22,10:30p,Sacramento Kings,108.0,Golden State Warriors,128.0,,"19,596",Oracle Arena,Monday
+2014/12/23,7:00p,Minnesota Timberwolves,104.0,Cleveland Cavaliers,125.0,,"20,562",Quicken Loans Arena,Tuesday
+2014/12/23,7:00p,New Orleans Pelicans,84.0,Indiana Pacers,96.0,,"17,336",Bankers Life Fieldhouse,Tuesday
+2014/12/23,7:00p,Boston Celtics,95.0,Orlando Magic,100.0,,"17,489",Amway Center,Tuesday
+2014/12/23,7:00p,Chicago Bulls,99.0,Washington Wizards,91.0,,"20,356",Verizon Center,Tuesday
+2014/12/23,7:30p,Los Angeles Clippers,104.0,Atlanta Hawks,107.0,,"19,191",Philips Arena,Tuesday
+2014/12/23,7:30p,Denver Nuggets,96.0,Brooklyn Nets,102.0,,"17,080",Barclays Center,Tuesday
+2014/12/23,7:30p,Philadelphia 76ers,91.0,Miami Heat,87.0,,"19,600",AmericanAirlines Arena,Tuesday
+2014/12/23,8:00p,Charlotte Hornets,108.0,Milwaukee Bucks,101.0,,"14,653",BMO Harris Bradley Center,Tuesday
+2014/12/23,8:00p,Portland Trail Blazers,115.0,Oklahoma City Thunder,111.0,OT,"18,203",Chesapeake Energy Arena,Tuesday
+2014/12/23,9:00p,Dallas Mavericks,115.0,Phoenix Suns,124.0,,"18,055",US Airways Center,Tuesday
+2014/12/23,10:30p,Golden State Warriors,105.0,Los Angeles Lakers,115.0,,"18,997",STAPLES Center,Tuesday
+2014/12/25,12:00p,Washington Wizards,102.0,New York Knicks,91.0,,"19,812",Madison Square Garden (IV),Thursday
+2014/12/25,2:30p,Oklahoma City Thunder,114.0,San Antonio Spurs,106.0,,"18,581",AT&T Center,Thursday
+2014/12/25,5:00p,Cleveland Cavaliers,91.0,Miami Heat,101.0,,"19,817",AmericanAirlines Arena,Thursday
+2014/12/25,8:00p,Los Angeles Lakers,93.0,Chicago Bulls,113.0,,"22,865",United Center,Thursday
+2014/12/25,10:30p,Golden State Warriors,86.0,Los Angeles Clippers,100.0,,"19,540",STAPLES Center,Thursday
+2014/12/26,1:00p,Brooklyn Nets,109.0,Boston Celtics,107.0,,"18,624",TD Garden,Friday
+2014/12/26,7:00p,Cleveland Cavaliers,98.0,Orlando Magic,89.0,,"18,846",Amway Center,Friday
+2014/12/26,7:30p,Milwaukee Bucks,107.0,Atlanta Hawks,77.0,,"19,016",Philips Arena,Friday
+2014/12/26,7:30p,Indiana Pacers,109.0,Detroit Pistons,119.0,,"13,408",The Palace of Auburn Hills,Friday
+2014/12/26,8:00p,Houston Rockets,117.0,Memphis Grizzlies,111.0,OT,"18,119",FedEx Forum,Friday
+2014/12/26,8:00p,San Antonio Spurs,90.0,New Orleans Pelicans,97.0,,"18,376",Smoothie King Center,Friday
+2014/12/26,8:00p,Charlotte Hornets,75.0,Oklahoma City Thunder,98.0,,"18,203",Chesapeake Energy Arena,Friday
+2014/12/26,8:30p,Los Angeles Lakers,98.0,Dallas Mavericks,102.0,,"20,424",American Airlines Center,Friday
+2014/12/26,9:00p,Minnesota Timberwolves,102.0,Denver Nuggets,106.0,,"14,516",Pepsi Center,Friday
+2014/12/26,10:00p,Philadelphia 76ers,93.0,Portland Trail Blazers,114.0,,"19,972",Moda Center,Friday
+2014/12/26,10:00p,Phoenix Suns,115.0,Sacramento Kings,106.0,,"17,317",Sleep Train Arena,Friday
+2014/12/27,3:30p,Toronto Raptors,110.0,Los Angeles Clippers,98.0,,"19,335",STAPLES Center,Saturday
+2014/12/27,7:00p,Orlando Magic,102.0,Charlotte Hornets,94.0,,"19,085",Time Warner Cable Arena,Saturday
+2014/12/27,7:00p,Boston Celtics,88.0,Washington Wizards,101.0,,"20,356",Verizon Center,Saturday
+2014/12/27,7:30p,Memphis Grizzlies,103.0,Miami Heat,95.0,,"19,744",AmericanAirlines Arena,Saturday
+2014/12/27,8:00p,Indiana Pacers,110.0,Brooklyn Nets,85.0,,"17,732",Barclays Center,Saturday
+2014/12/27,8:00p,New Orleans Pelicans,100.0,Chicago Bulls,107.0,,"21,935",United Center,Saturday
+2014/12/27,8:30p,Atlanta Hawks,90.0,Milwaukee Bucks,85.0,,"16,788",BMO Harris Bradley Center,Saturday
+2014/12/27,9:00p,Philadelphia 76ers,71.0,Utah Jazz,88.0,,"18,890",EnergySolutions Arena,Saturday
+2014/12/27,10:00p,New York Knicks,129.0,Sacramento Kings,135.0,OT,"17,317",Sleep Train Arena,Saturday
+2014/12/27,10:30p,Minnesota Timberwolves,97.0,Golden State Warriors,110.0,,"19,596",Oracle Arena,Saturday
+2014/12/28,4:30p,Detroit Pistons,103.0,Cleveland Cavaliers,80.0,,"20,562",Quicken Loans Arena,Sunday
+2014/12/28,7:00p,Houston Rockets,106.0,San Antonio Spurs,110.0,,"18,581",AT&T Center,Sunday
+2014/12/28,7:30p,Oklahoma City Thunder,107.0,Dallas Mavericks,112.0,,"20,417",American Airlines Center,Sunday
+2014/12/28,9:00p,Toronto Raptors,116.0,Denver Nuggets,102.0,,"14,216",Pepsi Center,Sunday
+2014/12/28,9:00p,New York Knicks,79.0,Portland Trail Blazers,101.0,,"19,800",Moda Center,Sunday
+2014/12/28,9:30p,Phoenix Suns,116.0,Los Angeles Lakers,107.0,,"18,997",STAPLES Center,Sunday
+2014/12/29,7:00p,Milwaukee Bucks,104.0,Charlotte Hornets,94.0,OT,"17,430",Time Warner Cable Arena,Monday
+2014/12/29,7:00p,Chicago Bulls,92.0,Indiana Pacers,90.0,,"18,165",Bankers Life Fieldhouse,Monday
+2014/12/29,7:30p,Sacramento Kings,99.0,Brooklyn Nets,107.0,,"17,732",Barclays Center,Monday
+2014/12/29,7:30p,Orlando Magic,102.0,Miami Heat,101.0,,"19,887",AmericanAirlines Arena,Monday
+2014/12/29,8:00p,Washington Wizards,104.0,Houston Rockets,103.0,,"18,322",Toyota Center,Monday
+2014/12/29,10:30p,Utah Jazz,97.0,Los Angeles Clippers,101.0,,"19,060",STAPLES Center,Monday
+2014/12/30,7:00p,Detroit Pistons,109.0,Orlando Magic,86.0,,"17,414",Amway Center,Tuesday
+2014/12/30,7:30p,Cleveland Cavaliers,101.0,Atlanta Hawks,109.0,,"19,215",Philips Arena,Tuesday
+2014/12/30,8:00p,Brooklyn Nets,96.0,Chicago Bulls,82.0,,"22,032",United Center,Tuesday
+2014/12/30,8:00p,San Antonio Spurs,87.0,Memphis Grizzlies,95.0,,"18,119",FedEx Forum,Tuesday
+2014/12/30,8:00p,Phoenix Suns,106.0,New Orleans Pelicans,110.0,,"16,364",Smoothie King Center,Tuesday
+2014/12/30,8:30p,Washington Wizards,87.0,Dallas Mavericks,114.0,,"20,397",American Airlines Center,Tuesday
+2014/12/30,9:00p,Los Angeles Lakers,111.0,Denver Nuggets,103.0,,"17,248",Pepsi Center,Tuesday
+2014/12/30,9:00p,Minnesota Timberwolves,94.0,Utah Jazz,100.0,,"18,947",EnergySolutions Arena,Tuesday
+2014/12/30,10:00p,Toronto Raptors,97.0,Portland Trail Blazers,102.0,OT,"20,053",Moda Center,Tuesday
+2014/12/30,10:30p,Philadelphia 76ers,86.0,Golden State Warriors,126.0,,"19,596",Oracle Arena,Tuesday
+2014/12/31,1:00p,Sacramento Kings,84.0,Boston Celtics,106.0,,"18,624",TD Garden,Wednesday
+2014/12/31,3:00p,Miami Heat,95.0,Indiana Pacers,106.0,,"18,165",Bankers Life Fieldhouse,Wednesday
+2014/12/31,6:00p,New York Knicks,78.0,Los Angeles Clippers,99.0,,"19,198",STAPLES Center,Wednesday
+2014/12/31,7:00p,Milwaukee Bucks,96.0,Cleveland Cavaliers,80.0,,"20,562",Quicken Loans Arena,Wednesday
+2014/12/31,7:00p,Charlotte Hornets,83.0,Houston Rockets,102.0,,"18,276",Toyota Center,Wednesday
+2014/12/31,7:00p,New Orleans Pelicans,93.0,San Antonio Spurs,95.0,OT,"18,581",AT&T Center,Wednesday
+2014/12/31,8:00p,Phoenix Suns,134.0,Oklahoma City Thunder,137.0,OT,"18,203",Chesapeake Energy Arena,Wednesday
+2015/01/01,8:00p,Denver Nuggets,101.0,Chicago Bulls,106.0,,"21,794",United Center,Thursday
+2015/01/01,8:00p,Sacramento Kings,110.0,Minnesota Timberwolves,107.0,,"13,337",Target Center,Thursday
+2015/01/02,7:00p,Cleveland Cavaliers,91.0,Charlotte Hornets,87.0,,"19,307",Time Warner Cable Arena,Friday
+2015/01/02,7:00p,Brooklyn Nets,100.0,Orlando Magic,98.0,,"17,008",Amway Center,Friday
+2015/01/02,7:30p,Dallas Mavericks,119.0,Boston Celtics,101.0,,"18,624",TD Garden,Friday
+2015/01/02,7:30p,Detroit Pistons,97.0,New York Knicks,81.0,,"19,812",Madison Square Garden (IV),Friday
+2015/01/02,8:00p,Houston Rockets,83.0,New Orleans Pelicans,111.0,,"17,705",Smoothie King Center,Friday
+2015/01/02,8:00p,Washington Wizards,102.0,Oklahoma City Thunder,109.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/01/02,8:30p,Indiana Pacers,94.0,Milwaukee Bucks,91.0,,"16,238",BMO Harris Bradley Center,Friday
+2015/01/02,9:00p,Philadelphia 76ers,96.0,Phoenix Suns,112.0,,"16,514",US Airways Center,Friday
+2015/01/02,9:00p,Atlanta Hawks,98.0,Utah Jazz,92.0,,"19,029",EnergySolutions Arena,Friday
+2015/01/02,10:30p,Toronto Raptors,105.0,Golden State Warriors,126.0,,"19,596",Oracle Arena,Friday
+2015/01/02,10:30p,Memphis Grizzlies,109.0,Los Angeles Lakers,106.0,,"18,997",STAPLES Center,Friday
+2015/01/03,7:00p,Charlotte Hornets,98.0,Orlando Magic,90.0,,"15,274",Amway Center,Saturday
+2015/01/03,8:00p,Boston Celtics,104.0,Chicago Bulls,109.0,OT,"21,820",United Center,Saturday
+2015/01/03,8:00p,Miami Heat,79.0,Houston Rockets,115.0,,"18,338",Toyota Center,Saturday
+2015/01/03,8:00p,Utah Jazz,101.0,Minnesota Timberwolves,89.0,,"13,702",Target Center,Saturday
+2015/01/03,8:30p,Washington Wizards,92.0,San Antonio Spurs,101.0,,"18,581",AT&T Center,Saturday
+2015/01/03,9:00p,Memphis Grizzlies,85.0,Denver Nuggets,114.0,,"16,350",Pepsi Center,Saturday
+2015/01/03,10:00p,Atlanta Hawks,115.0,Portland Trail Blazers,107.0,,"19,829",Moda Center,Saturday
+2015/01/03,10:30p,Philadelphia 76ers,91.0,Los Angeles Clippers,127.0,,"19,060",STAPLES Center,Saturday
+2015/01/04,1:00p,Dallas Mavericks,109.0,Cleveland Cavaliers,90.0,,"20,562",Quicken Loans Arena,Sunday
+2015/01/04,6:00p,Sacramento Kings,95.0,Detroit Pistons,114.0,,"12,254",The Palace of Auburn Hills,Sunday
+2015/01/04,6:00p,Brooklyn Nets,84.0,Miami Heat,88.0,,"20,181",AmericanAirlines Arena,Sunday
+2015/01/04,7:30p,Milwaukee Bucks,95.0,New York Knicks,82.0,,"19,812",Madison Square Garden (IV),Sunday
+2015/01/04,8:00p,Toronto Raptors,109.0,Phoenix Suns,125.0,,"17,166",US Airways Center,Sunday
+2015/01/04,9:30p,Indiana Pacers,87.0,Los Angeles Lakers,88.0,,"18,997",STAPLES Center,Sunday
+2015/01/05,7:00p,Cleveland Cavaliers,92.0,Philadelphia 76ers,95.0,,"17,771",Wells Fargo Center,Monday
+2015/01/05,7:30p,Charlotte Hornets,104.0,Boston Celtics,95.0,,"16,720",TD Garden,Monday
+2015/01/05,7:30p,Dallas Mavericks,96.0,Brooklyn Nets,88.0,OT,"17,732",Barclays Center,Monday
+2015/01/05,8:00p,Houston Rockets,105.0,Chicago Bulls,114.0,,"21,510",United Center,Monday
+2015/01/05,8:00p,New York Knicks,83.0,Memphis Grizzlies,105.0,,"16,888",FedEx Forum,Monday
+2015/01/05,8:00p,Denver Nuggets,110.0,Minnesota Timberwolves,101.0,,"10,386",Target Center,Monday
+2015/01/05,8:00p,Washington Wizards,92.0,New Orleans Pelicans,85.0,,"16,182",Smoothie King Center,Monday
+2015/01/05,9:00p,Indiana Pacers,105.0,Utah Jazz,101.0,,"17,378",EnergySolutions Arena,Monday
+2015/01/05,10:00p,Los Angeles Lakers,94.0,Portland Trail Blazers,98.0,,"19,827",Moda Center,Monday
+2015/01/05,10:30p,Oklahoma City Thunder,91.0,Golden State Warriors,117.0,,"19,596",Oracle Arena,Monday
+2015/01/05,10:30p,Atlanta Hawks,107.0,Los Angeles Clippers,98.0,,"19,060",STAPLES Center,Monday
+2015/01/06,8:00p,Phoenix Suns,102.0,Milwaukee Bucks,96.0,,"12,311",BMO Harris Bradley Center,Tuesday
+2015/01/06,8:30p,Detroit Pistons,105.0,San Antonio Spurs,104.0,,"18,581",AT&T Center,Tuesday
+2015/01/07,7:00p,New Orleans Pelicans,94.0,Charlotte Hornets,98.0,,"15,171",Time Warner Cable Arena,Wednesday
+2015/01/07,7:00p,Houston Rockets,105.0,Cleveland Cavaliers,93.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/01/07,7:00p,Milwaukee Bucks,97.0,Philadelphia 76ers,77.0,,"10,288",Wells Fargo Center,Wednesday
+2015/01/07,7:00p,New York Knicks,91.0,Washington Wizards,101.0,,"16,902",Verizon Center,Wednesday
+2015/01/07,7:30p,Memphis Grizzlies,86.0,Atlanta Hawks,96.0,,"17,126",Philips Arena,Wednesday
+2015/01/07,7:30p,Boston Celtics,89.0,Brooklyn Nets,81.0,,"16,005",Barclays Center,Wednesday
+2015/01/07,8:00p,Utah Jazz,97.0,Chicago Bulls,77.0,,"21,379",United Center,Wednesday
+2015/01/07,8:30p,Detroit Pistons,108.0,Dallas Mavericks,95.0,,"20,279",American Airlines Center,Wednesday
+2015/01/07,9:00p,Orlando Magic,90.0,Denver Nuggets,93.0,,"13,513",Pepsi Center,Wednesday
+2015/01/07,9:30p,Phoenix Suns,113.0,Minnesota Timberwolves,111.0,,"10,547",Target Center,Wednesday
+2015/01/07,10:00p,Oklahoma City Thunder,83.0,Sacramento Kings,104.0,,"16,037",Sleep Train Arena,Wednesday
+2015/01/07,10:30p,Indiana Pacers,102.0,Golden State Warriors,117.0,,"19,596",Oracle Arena,Wednesday
+2015/01/07,10:30p,Los Angeles Lakers,89.0,Los Angeles Clippers,114.0,,"19,487",STAPLES Center,Wednesday
+2015/01/08,7:30p,Charlotte Hornets,103.0,Toronto Raptors,95.0,,"19,800",Air Canada Centre,Thursday
+2015/01/08,8:00p,Houston Rockets,120.0,New York Knicks,96.0,,"19,812",Madison Square Garden (IV),Thursday
+2015/01/08,10:30p,Miami Heat,83.0,Portland Trail Blazers,99.0,,"19,441",Moda Center,Thursday
+2015/01/09,7:00p,Boston Celtics,103.0,Indiana Pacers,107.0,OT,"18,165",Bankers Life Fieldhouse,Friday
+2015/01/09,7:30p,Philadelphia 76ers,90.0,Brooklyn Nets,88.0,,"16,172",Barclays Center,Friday
+2015/01/09,7:30p,Atlanta Hawks,106.0,Detroit Pistons,103.0,,"18,859",The Palace of Auburn Hills,Friday
+2015/01/09,8:00p,Memphis Grizzlies,95.0,New Orleans Pelicans,106.0,,"17,639",Smoothie King Center,Friday
+2015/01/09,8:00p,Utah Jazz,94.0,Oklahoma City Thunder,99.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/01/09,8:00p,Chicago Bulls,86.0,Washington Wizards,102.0,,"20,356",Verizon Center,Friday
+2015/01/09,8:30p,Minnesota Timberwolves,84.0,Milwaukee Bucks,98.0,,"15,480",BMO Harris Bradley Center,Friday
+2015/01/09,8:30p,Phoenix Suns,95.0,San Antonio Spurs,100.0,,"18,581",AT&T Center,Friday
+2015/01/09,10:00p,Denver Nuggets,118.0,Sacramento Kings,108.0,,"16,029",Sleep Train Arena,Friday
+2015/01/09,10:30p,Cleveland Cavaliers,94.0,Golden State Warriors,112.0,,"19,596",Oracle Arena,Friday
+2015/01/09,10:30p,Orlando Magic,84.0,Los Angeles Lakers,101.0,,"18,997",STAPLES Center,Friday
+2015/01/10,1:00p,Charlotte Hornets,110.0,New York Knicks,82.0,,"19,812",Madison Square Garden (IV),Saturday
+2015/01/10,3:30p,Dallas Mavericks,100.0,Los Angeles Clippers,120.0,,"19,060",STAPLES Center,Saturday
+2015/01/10,7:30p,Brooklyn Nets,93.0,Detroit Pistons,98.0,,"19,301",The Palace of Auburn Hills,Saturday
+2015/01/10,7:30p,Indiana Pacers,92.0,Philadelphia 76ers,93.0,,"17,496",Wells Fargo Center,Saturday
+2015/01/10,7:30p,Boston Celtics,96.0,Toronto Raptors,109.0,,"19,800",Air Canada Centre,Saturday
+2015/01/10,8:00p,Milwaukee Bucks,87.0,Chicago Bulls,95.0,,"21,781",United Center,Saturday
+2015/01/10,8:00p,Utah Jazz,82.0,Houston Rockets,97.0,,"18,235",Toyota Center,Saturday
+2015/01/10,8:00p,San Antonio Spurs,108.0,Minnesota Timberwolves,93.0,,"17,871",Target Center,Saturday
+2015/01/10,10:00p,Orlando Magic,92.0,Portland Trail Blazers,103.0,,"19,546",Moda Center,Saturday
+2015/01/11,3:00p,Washington Wizards,89.0,Atlanta Hawks,120.0,,"18,057",Philips Arena,Sunday
+2015/01/11,3:30p,Miami Heat,104.0,Los Angeles Clippers,90.0,,"19,060",STAPLES Center,Sunday
+2015/01/11,6:00p,Phoenix Suns,110.0,Memphis Grizzlies,122.0,2OT,"17,212",FedEx Forum,Sunday
+2015/01/11,9:00p,Cleveland Cavaliers,84.0,Sacramento Kings,103.0,,"16,143",Sleep Train Arena,Sunday
+2015/01/11,9:30p,Portland Trail Blazers,106.0,Los Angeles Lakers,94.0,,"18,997",STAPLES Center,Sunday
+2015/01/12,7:30p,New Orleans Pelicans,100.0,Boston Celtics,108.0,,"16,905",TD Garden,Monday
+2015/01/12,7:30p,Houston Rockets,113.0,Brooklyn Nets,99.0,,"16,115",Barclays Center,Monday
+2015/01/12,7:30p,Detroit Pistons,114.0,Toronto Raptors,111.0,,"19,800",Air Canada Centre,Monday
+2015/01/12,8:00p,Orlando Magic,121.0,Chicago Bulls,114.0,,"21,302",United Center,Monday
+2015/01/13,7:00p,Minnesota Timberwolves,110.0,Indiana Pacers,101.0,,"16,781",Bankers Life Fieldhouse,Tuesday
+2015/01/13,7:00p,Atlanta Hawks,105.0,Philadelphia 76ers,87.0,,"10,466",Wells Fargo Center,Tuesday
+2015/01/13,7:00p,San Antonio Spurs,93.0,Washington Wizards,101.0,,"18,116",Verizon Center,Tuesday
+2015/01/13,9:00p,Cleveland Cavaliers,100.0,Phoenix Suns,107.0,,"16,819",US Airways Center,Tuesday
+2015/01/13,9:00p,Golden State Warriors,116.0,Utah Jazz,105.0,,"19,911",EnergySolutions Arena,Tuesday
+2015/01/13,10:00p,Dallas Mavericks,108.0,Sacramento Kings,104.0,OT,"15,747",Sleep Train Arena,Tuesday
+2015/01/13,10:30p,Miami Heat,78.0,Los Angeles Lakers,75.0,,"18,997",STAPLES Center,Tuesday
+2015/01/14,7:00p,San Antonio Spurs,98.0,Charlotte Hornets,93.0,,"17,309",Time Warner Cable Arena,Wednesday
+2015/01/14,7:00p,Houston Rockets,113.0,Orlando Magic,120.0,,"16,828",Amway Center,Wednesday
+2015/01/14,7:30p,Memphis Grizzlies,103.0,Brooklyn Nets,92.0,,"16,516",Barclays Center,Wednesday
+2015/01/14,7:30p,New Orleans Pelicans,105.0,Detroit Pistons,94.0,,"12,016",The Palace of Auburn Hills,Wednesday
+2015/01/14,7:30p,Philadelphia 76ers,84.0,Toronto Raptors,100.0,,"19,800",Air Canada Centre,Wednesday
+2015/01/14,8:00p,Atlanta Hawks,105.0,Boston Celtics,91.0,,"16,067",TD Garden,Wednesday
+2015/01/14,8:00p,Washington Wizards,105.0,Chicago Bulls,99.0,,"21,498",United Center,Wednesday
+2015/01/14,9:00p,Dallas Mavericks,107.0,Denver Nuggets,114.0,,"14,022",Pepsi Center,Wednesday
+2015/01/14,10:30p,Miami Heat,89.0,Golden State Warriors,104.0,,"19,596",Oracle Arena,Wednesday
+2015/01/14,10:30p,Los Angeles Clippers,100.0,Portland Trail Blazers,94.0,,"19,441",Moda Center,Wednesday
+2015/01/15,3:00p,New York Knicks,79.0,Milwaukee Bucks,95.0,,"18,689",The O2 Arena,Thursday
+2015/01/15,8:00p,Oklahoma City Thunder,101.0,Houston Rockets,112.0,,"18,315",Toyota Center,Thursday
+2015/01/15,10:30p,Cleveland Cavaliers,109.0,Los Angeles Lakers,102.0,,"18,997",STAPLES Center,Thursday
+2015/01/16,7:00p,Detroit Pistons,98.0,Indiana Pacers,96.0,,"17,558",Bankers Life Fieldhouse,Friday
+2015/01/16,7:00p,Memphis Grizzlies,106.0,Orlando Magic,96.0,,"18,141",Amway Center,Friday
+2015/01/16,7:00p,New Orleans Pelicans,81.0,Philadelphia 76ers,96.0,,"15,672",Wells Fargo Center,Friday
+2015/01/16,7:00p,Brooklyn Nets,102.0,Washington Wizards,80.0,,"17,788",Verizon Center,Friday
+2015/01/16,7:30p,Chicago Bulls,119.0,Boston Celtics,103.0,,"18,624",TD Garden,Friday
+2015/01/16,7:30p,Atlanta Hawks,110.0,Toronto Raptors,89.0,,"19,800",Air Canada Centre,Friday
+2015/01/16,8:00p,Golden State Warriors,115.0,Oklahoma City Thunder,127.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/01/16,8:30p,Denver Nuggets,89.0,Dallas Mavericks,97.0,,"20,337",American Airlines Center,Friday
+2015/01/16,8:30p,Portland Trail Blazers,96.0,San Antonio Spurs,110.0,,"18,581",AT&T Center,Friday
+2015/01/16,9:00p,Minnesota Timberwolves,99.0,Phoenix Suns,110.0,,"17,441",US Airways Center,Friday
+2015/01/16,9:00p,Los Angeles Lakers,85.0,Utah Jazz,94.0,,"19,911",EnergySolutions Arena,Friday
+2015/01/16,10:00p,Miami Heat,95.0,Sacramento Kings,83.0,,"16,350",Sleep Train Arena,Friday
+2015/01/16,10:30p,Cleveland Cavaliers,126.0,Los Angeles Clippers,121.0,,"19,380",STAPLES Center,Friday
+2015/01/17,7:00p,Indiana Pacers,71.0,Charlotte Hornets,80.0,OT,"19,285",Time Warner Cable Arena,Saturday
+2015/01/17,7:30p,Philadelphia 76ers,89.0,Detroit Pistons,107.0,,"15,496",The Palace of Auburn Hills,Saturday
+2015/01/17,8:00p,Washington Wizards,99.0,Brooklyn Nets,90.0,,"17,732",Barclays Center,Saturday
+2015/01/17,8:00p,Atlanta Hawks,107.0,Chicago Bulls,99.0,,"22,024",United Center,Saturday
+2015/01/17,8:00p,Golden State Warriors,131.0,Houston Rockets,106.0,,"18,458",Toyota Center,Saturday
+2015/01/17,9:00p,Minnesota Timberwolves,113.0,Denver Nuggets,105.0,,"14,821",Pepsi Center,Saturday
+2015/01/17,9:00p,Portland Trail Blazers,98.0,Memphis Grizzlies,102.0,,"18,119",FedEx Forum,Saturday
+2015/01/17,10:00p,Los Angeles Clippers,117.0,Sacramento Kings,108.0,,"16,601",Sleep Train Arena,Saturday
+2015/01/18,3:30p,New Orleans Pelicans,95.0,Toronto Raptors,93.0,,"19,800",Air Canada Centre,Sunday
+2015/01/18,6:00p,Oklahoma City Thunder,127.0,Orlando Magic,99.0,,"16,128",Amway Center,Sunday
+2015/01/18,7:00p,Utah Jazz,69.0,San Antonio Spurs,89.0,,"18,581",AT&T Center,Sunday
+2015/01/19,2:00p,Minnesota Timberwolves,80.0,Charlotte Hornets,105.0,,"17,989",Time Warner Cable Arena,Monday
+2015/01/19,2:00p,Philadelphia 76ers,76.0,Washington Wizards,111.0,,"19,040",Verizon Center,Monday
+2015/01/19,2:30p,Detroit Pistons,82.0,Atlanta Hawks,93.0,,"19,108",Philips Arena,Monday
+2015/01/19,3:30p,Boston Celtics,93.0,Los Angeles Clippers,102.0,,"19,060",STAPLES Center,Monday
+2015/01/19,4:00p,Denver Nuggets,79.0,Golden State Warriors,122.0,,"19,596",Oracle Arena,Monday
+2015/01/19,5:00p,Dallas Mavericks,103.0,Memphis Grizzlies,95.0,,"18,119",FedEx Forum,Monday
+2015/01/19,5:30p,Indiana Pacers,98.0,Houston Rockets,110.0,,"18,266",Toyota Center,Monday
+2015/01/19,5:30p,New Orleans Pelicans,92.0,New York Knicks,99.0,,"19,812",Madison Square Garden (IV),Monday
+2015/01/19,7:30p,Chicago Bulls,94.0,Cleveland Cavaliers,108.0,,"20,562",Quicken Loans Arena,Monday
+2015/01/19,8:00p,Toronto Raptors,92.0,Milwaukee Bucks,89.0,,"12,707",BMO Harris Bradley Center,Monday
+2015/01/19,10:00p,Los Angeles Lakers,100.0,Phoenix Suns,115.0,,"17,435",US Airways Center,Monday
+2015/01/19,10:00p,Sacramento Kings,94.0,Portland Trail Blazers,98.0,,"19,441",Moda Center,Monday
+2015/01/20,7:30p,Oklahoma City Thunder,94.0,Miami Heat,86.0,,"19,735",AmericanAirlines Arena,Tuesday
+2015/01/20,9:00p,San Antonio Spurs,109.0,Denver Nuggets,99.0,,"14,434",Pepsi Center,Tuesday
+2015/01/21,7:00p,Miami Heat,76.0,Charlotte Hornets,78.0,,"16,914",Time Warner Cable Arena,Wednesday
+2015/01/21,7:00p,Utah Jazz,92.0,Cleveland Cavaliers,106.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/01/21,7:00p,New York Knicks,98.0,Philadelphia 76ers,91.0,,"13,201",Wells Fargo Center,Wednesday
+2015/01/21,7:30p,Indiana Pacers,91.0,Atlanta Hawks,110.0,,"15,045",Philips Arena,Wednesday
+2015/01/21,7:30p,Orlando Magic,118.0,Detroit Pistons,128.0,,"12,148",The Palace of Auburn Hills,Wednesday
+2015/01/21,8:00p,Toronto Raptors,86.0,Memphis Grizzlies,92.0,,"15,112",FedEx Forum,Wednesday
+2015/01/21,8:00p,Dallas Mavericks,98.0,Minnesota Timberwolves,75.0,,"13,737",Target Center,Wednesday
+2015/01/21,8:00p,Los Angeles Lakers,80.0,New Orleans Pelicans,96.0,,"16,268",Smoothie King Center,Wednesday
+2015/01/21,8:00p,Oklahoma City Thunder,105.0,Washington Wizards,103.0,OT,"20,356",Verizon Center,Wednesday
+2015/01/21,9:00p,Portland Trail Blazers,113.0,Phoenix Suns,118.0,,"16,703",US Airways Center,Wednesday
+2015/01/21,10:00p,Brooklyn Nets,103.0,Sacramento Kings,100.0,,"16,427",Sleep Train Arena,Wednesday
+2015/01/21,10:30p,Houston Rockets,113.0,Golden State Warriors,126.0,,"19,596",Oracle Arena,Wednesday
+2015/01/22,8:00p,San Antonio Spurs,81.0,Chicago Bulls,104.0,,"21,648",United Center,Thursday
+2015/01/22,8:00p,Utah Jazz,101.0,Milwaukee Bucks,99.0,,"12,415",BMO Harris Bradley Center,Thursday
+2015/01/22,10:00p,Boston Celtics,90.0,Portland Trail Blazers,89.0,,"19,567",Moda Center,Thursday
+2015/01/22,10:30p,Brooklyn Nets,84.0,Los Angeles Clippers,123.0,,"19,060",STAPLES Center,Thursday
+2015/01/23,7:00p,Toronto Raptors,91.0,Philadelphia 76ers,86.0,,"13,640",Wells Fargo Center,Friday
+2015/01/23,7:30p,Oklahoma City Thunder,93.0,Atlanta Hawks,103.0,,"19,203",Philips Arena,Friday
+2015/01/23,7:30p,Charlotte Hornets,90.0,Cleveland Cavaliers,129.0,,"20,562",Quicken Loans Arena,Friday
+2015/01/23,7:30p,Indiana Pacers,87.0,Miami Heat,89.0,,"19,693",AmericanAirlines Arena,Friday
+2015/01/23,7:30p,Orlando Magic,106.0,New York Knicks,113.0,,"19,812",Madison Square Garden (IV),Friday
+2015/01/23,8:00p,Chicago Bulls,102.0,Dallas Mavericks,98.0,,"20,408",American Airlines Center,Friday
+2015/01/23,8:00p,New Orleans Pelicans,92.0,Minnesota Timberwolves,84.0,,"14,978",Target Center,Friday
+2015/01/23,8:30p,Los Angeles Lakers,85.0,San Antonio Spurs,99.0,,"18,581",AT&T Center,Friday
+2015/01/23,9:00p,Boston Celtics,100.0,Denver Nuggets,99.0,,"16,133",Pepsi Center,Friday
+2015/01/23,9:00p,Houston Rockets,113.0,Phoenix Suns,111.0,,"16,701",US Airways Center,Friday
+2015/01/23,10:30p,Sacramento Kings,101.0,Golden State Warriors,126.0,,"19,596",Oracle Arena,Friday
+2015/01/24,7:00p,New York Knicks,71.0,Charlotte Hornets,76.0,,"19,117",Time Warner Cable Arena,Saturday
+2015/01/24,7:30p,Detroit Pistons,86.0,Milwaukee Bucks,101.0,,"16,388",BMO Harris Bradley Center,Saturday
+2015/01/24,8:00p,Philadelphia 76ers,83.0,Memphis Grizzlies,101.0,,"17,579",FedEx Forum,Saturday
+2015/01/24,9:00p,Brooklyn Nets,73.0,Utah Jazz,108.0,,"19,352",EnergySolutions Arena,Saturday
+2015/01/24,10:00p,Washington Wizards,96.0,Portland Trail Blazers,103.0,,"19,775",Moda Center,Saturday
+2015/01/25,1:00p,Miami Heat,96.0,Chicago Bulls,84.0,,"21,918",United Center,Sunday
+2015/01/25,3:30p,Oklahoma City Thunder,98.0,Cleveland Cavaliers,108.0,,"20,562",Quicken Loans Arena,Sunday
+2015/01/25,6:00p,Minnesota Timberwolves,100.0,Atlanta Hawks,112.0,,"18,049",Philips Arena,Sunday
+2015/01/25,6:00p,Dallas Mavericks,106.0,New Orleans Pelicans,109.0,,"17,687",Smoothie King Center,Sunday
+2015/01/25,6:00p,Indiana Pacers,106.0,Orlando Magic,99.0,,"16,704",Amway Center,Sunday
+2015/01/25,6:00p,Los Angeles Clippers,120.0,Phoenix Suns,100.0,,"17,066",US Airways Center,Sunday
+2015/01/25,7:00p,Milwaukee Bucks,95.0,San Antonio Spurs,101.0,,"18,581",AT&T Center,Sunday
+2015/01/25,7:00p,Detroit Pistons,110.0,Toronto Raptors,114.0,,"19,800",Air Canada Centre,Sunday
+2015/01/25,8:00p,Washington Wizards,117.0,Denver Nuggets,115.0,OT,"15,410",Pepsi Center,Sunday
+2015/01/25,8:00p,Boston Celtics,111.0,Golden State Warriors,114.0,,"19,596",Oracle Arena,Sunday
+2015/01/25,9:30p,Houston Rockets,99.0,Los Angeles Lakers,87.0,,"18,997",STAPLES Center,Sunday
+2015/01/26,8:00p,Orlando Magic,94.0,Memphis Grizzlies,103.0,,"15,407",FedEx Forum,Monday
+2015/01/26,8:00p,Philadelphia 76ers,74.0,New Orleans Pelicans,99.0,,"16,419",Smoothie King Center,Monday
+2015/01/26,8:00p,Minnesota Timberwolves,84.0,Oklahoma City Thunder,92.0,,"18,203",Chesapeake Energy Arena,Monday
+2015/01/26,9:00p,Boston Celtics,99.0,Utah Jazz,90.0,,"18,947",EnergySolutions Arena,Monday
+2015/01/26,10:30p,Denver Nuggets,98.0,Los Angeles Clippers,102.0,,"19,060",STAPLES Center,Monday
+2015/01/27,7:00p,Toronto Raptors,104.0,Indiana Pacers,91.0,,"16,204",Bankers Life Fieldhouse,Tuesday
+2015/01/27,7:30p,Cleveland Cavaliers,103.0,Detroit Pistons,95.0,,"18,178",The Palace of Auburn Hills,Tuesday
+2015/01/27,7:30p,Milwaukee Bucks,109.0,Miami Heat,102.0,,"19,789",AmericanAirlines Arena,Tuesday
+2015/01/27,8:30p,Memphis Grizzlies,109.0,Dallas Mavericks,90.0,,"20,160",American Airlines Center,Tuesday
+2015/01/27,10:30p,Chicago Bulls,113.0,Golden State Warriors,111.0,OT,"19,596",Oracle Arena,Tuesday
+2015/01/27,10:30p,Washington Wizards,98.0,Los Angeles Lakers,92.0,,"18,997",STAPLES Center,Tuesday
+2015/01/28,7:00p,Portland Trail Blazers,94.0,Cleveland Cavaliers,99.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/01/28,7:00p,Detroit Pistons,69.0,Philadelphia 76ers,89.0,,"11,213",Wells Fargo Center,Wednesday
+2015/01/28,7:30p,Sacramento Kings,102.0,Toronto Raptors,119.0,,"19,800",Air Canada Centre,Wednesday
+2015/01/28,8:00p,Brooklyn Nets,102.0,Atlanta Hawks,113.0,,"18,047",Philips Arena,Wednesday
+2015/01/28,8:00p,Dallas Mavericks,94.0,Houston Rockets,99.0,,"18,237",Toyota Center,Wednesday
+2015/01/28,8:00p,Boston Celtics,98.0,Minnesota Timberwolves,110.0,,"11,434",Target Center,Wednesday
+2015/01/28,8:00p,Denver Nuggets,93.0,New Orleans Pelicans,85.0,,"16,055",Smoothie King Center,Wednesday
+2015/01/28,8:00p,Oklahoma City Thunder,92.0,New York Knicks,100.0,,"19,812",Madison Square Garden (IV),Wednesday
+2015/01/28,8:30p,Charlotte Hornets,86.0,San Antonio Spurs,95.0,,"18,581",AT&T Center,Wednesday
+2015/01/28,9:00p,Los Angeles Clippers,94.0,Utah Jazz,89.0,,"16,322",EnergySolutions Arena,Wednesday
+2015/01/28,10:30p,Washington Wizards,98.0,Phoenix Suns,106.0,,"16,209",US Airways Center,Wednesday
+2015/01/29,7:00p,New York Knicks,82.0,Indiana Pacers,103.0,,"15,665",Bankers Life Fieldhouse,Thursday
+2015/01/29,7:00p,Milwaukee Bucks,115.0,Orlando Magic,100.0,,"16,071",Amway Center,Thursday
+2015/01/29,8:00p,Denver Nuggets,69.0,Memphis Grizzlies,99.0,,"16,736",FedEx Forum,Thursday
+2015/01/29,10:30p,Chicago Bulls,118.0,Los Angeles Lakers,123.0,2OT,"18,997",STAPLES Center,Thursday
+2015/01/30,7:00p,Minnesota Timberwolves,94.0,Philadelphia 76ers,103.0,,"14,333",Wells Fargo Center,Friday
+2015/01/30,7:30p,Portland Trail Blazers,99.0,Atlanta Hawks,105.0,,"19,018",Philips Arena,Friday
+2015/01/30,7:30p,Houston Rockets,93.0,Boston Celtics,87.0,,"17,675",TD Garden,Friday
+2015/01/30,7:30p,Toronto Raptors,127.0,Brooklyn Nets,122.0,OT,"17,062",Barclays Center,Friday
+2015/01/30,7:30p,Sacramento Kings,90.0,Cleveland Cavaliers,101.0,,"20,562",Quicken Loans Arena,Friday
+2015/01/30,8:00p,Dallas Mavericks,93.0,Miami Heat,72.0,,"19,823",AmericanAirlines Arena,Friday
+2015/01/30,8:00p,Los Angeles Clippers,103.0,New Orleans Pelicans,108.0,,"17,932",Smoothie King Center,Friday
+2015/01/30,9:00p,Golden State Warriors,100.0,Utah Jazz,110.0,,"19,295",EnergySolutions Arena,Friday
+2015/01/30,10:30p,Chicago Bulls,93.0,Phoenix Suns,99.0,,"18,055",US Airways Center,Friday
+2015/01/31,7:00p,Sacramento Kings,99.0,Indiana Pacers,94.0,,"18,165",Bankers Life Fieldhouse,Saturday
+2015/01/31,7:00p,Dallas Mavericks,108.0,Orlando Magic,93.0,,"17,626",Amway Center,Saturday
+2015/01/31,7:00p,Toronto Raptors,120.0,Washington Wizards,116.0,OT,"20,356",Verizon Center,Saturday
+2015/01/31,7:30p,Philadelphia 76ers,85.0,Atlanta Hawks,91.0,,"19,006",Philips Arena,Saturday
+2015/01/31,7:30p,Houston Rockets,101.0,Detroit Pistons,114.0,,"18,213",The Palace of Auburn Hills,Saturday
+2015/01/31,8:00p,Oklahoma City Thunder,74.0,Memphis Grizzlies,85.0,,"18,119",FedEx Forum,Saturday
+2015/01/31,8:00p,Cleveland Cavaliers,106.0,Minnesota Timberwolves,90.0,,"19,562",Target Center,Saturday
+2015/01/31,8:30p,Portland Trail Blazers,88.0,Milwaukee Bucks,95.0,,"18,717",BMO Harris Bradley Center,Saturday
+2015/01/31,9:00p,Charlotte Hornets,104.0,Denver Nuggets,86.0,,"13,302",Pepsi Center,Saturday
+2015/01/31,9:00p,Los Angeles Clippers,105.0,San Antonio Spurs,85.0,,"18,581",AT&T Center,Saturday
+2015/01/31,10:30p,Phoenix Suns,87.0,Golden State Warriors,106.0,,"19,596",Oracle Arena,Saturday
+2015/02/01,1:00p,Miami Heat,83.0,Boston Celtics,75.0,,"17,366",TD Garden,Sunday
+2015/02/01,2:00p,Los Angeles Lakers,80.0,New York Knicks,92.0,,"19,812",Madison Square Garden (IV),Sunday
+2015/02/02,7:00p,Philadelphia 76ers,84.0,Cleveland Cavaliers,97.0,,"20,562",Quicken Loans Arena,Monday
+2015/02/02,7:00p,Charlotte Hornets,92.0,Washington Wizards,88.0,,"15,816",Verizon Center,Monday
+2015/02/02,7:30p,Los Angeles Clippers,100.0,Brooklyn Nets,102.0,,"16,037",Barclays Center,Monday
+2015/02/02,7:30p,Milwaukee Bucks,82.0,Toronto Raptors,75.0,,"19,800",Air Canada Centre,Monday
+2015/02/02,8:00p,Atlanta Hawks,100.0,New Orleans Pelicans,115.0,,"15,487",Smoothie King Center,Monday
+2015/02/02,8:00p,Orlando Magic,97.0,Oklahoma City Thunder,104.0,,"18,203",Chesapeake Energy Arena,Monday
+2015/02/02,8:30p,Minnesota Timberwolves,94.0,Dallas Mavericks,100.0,,"19,989",American Airlines Center,Monday
+2015/02/02,9:00p,Memphis Grizzlies,102.0,Phoenix Suns,101.0,,"17,199",US Airways Center,Monday
+2015/02/03,7:00p,Denver Nuggets,98.0,Philadelphia 76ers,105.0,,"10,290",Wells Fargo Center,Tuesday
+2015/02/03,7:30p,Miami Heat,91.0,Detroit Pistons,108.0,,"12,768",The Palace of Auburn Hills,Tuesday
+2015/02/03,7:30p,Boston Celtics,108.0,New York Knicks,97.0,,"19,812",Madison Square Garden (IV),Tuesday
+2015/02/03,10:00p,Utah Jazz,102.0,Portland Trail Blazers,103.0,,"19,441",Moda Center,Tuesday
+2015/02/03,10:00p,Golden State Warriors,121.0,Sacramento Kings,96.0,,"17,317",Sleep Train Arena,Tuesday
+2015/02/04,7:00p,Detroit Pistons,109.0,Indiana Pacers,114.0,,"15,892",Bankers Life Fieldhouse,Wednesday
+2015/02/04,7:30p,Washington Wizards,96.0,Atlanta Hawks,105.0,,"18,047",Philips Arena,Wednesday
+2015/02/04,7:30p,Denver Nuggets,100.0,Boston Celtics,104.0,,"15,126",TD Garden,Wednesday
+2015/02/04,7:30p,Brooklyn Nets,109.0,Toronto Raptors,93.0,,"19,800",Air Canada Centre,Wednesday
+2015/02/04,8:00p,Chicago Bulls,90.0,Houston Rockets,101.0,,"18,325",Toyota Center,Wednesday
+2015/02/04,8:00p,Los Angeles Lakers,105.0,Milwaukee Bucks,113.0,OT,"12,544",BMO Harris Bradley Center,Wednesday
+2015/02/04,8:00p,Miami Heat,101.0,Minnesota Timberwolves,102.0,,"11,517",Target Center,Wednesday
+2015/02/04,8:00p,Oklahoma City Thunder,102.0,New Orleans Pelicans,91.0,,"17,156",Smoothie King Center,Wednesday
+2015/02/04,8:30p,Orlando Magic,103.0,San Antonio Spurs,110.0,,"18,581",AT&T Center,Wednesday
+2015/02/04,9:00p,Memphis Grizzlies,100.0,Utah Jazz,90.0,,"19,911",EnergySolutions Arena,Wednesday
+2015/02/04,10:30p,Dallas Mavericks,114.0,Golden State Warriors,128.0,,"19,596",Oracle Arena,Wednesday
+2015/02/05,7:00p,Washington Wizards,87.0,Charlotte Hornets,94.0,,"17,019",Time Warner Cable Arena,Thursday
+2015/02/05,8:00p,Los Angeles Clippers,94.0,Cleveland Cavaliers,105.0,,"20,562",Quicken Loans Arena,Thursday
+2015/02/05,10:00p,Dallas Mavericks,101.0,Sacramento Kings,78.0,,"16,993",Sleep Train Arena,Thursday
+2015/02/05,10:30p,Phoenix Suns,87.0,Portland Trail Blazers,108.0,,"19,488",Moda Center,Thursday
+2015/02/06,7:00p,New York Knicks,88.0,Brooklyn Nets,92.0,,"17,732",Barclays Center,Friday
+2015/02/06,7:00p,Cleveland Cavaliers,99.0,Indiana Pacers,103.0,,"18,165",Bankers Life Fieldhouse,Friday
+2015/02/06,7:00p,Los Angeles Lakers,97.0,Orlando Magic,103.0,OT,"16,206",Amway Center,Friday
+2015/02/06,7:00p,Los Angeles Clippers,107.0,Toronto Raptors,123.0,,"19,800",Air Canada Centre,Friday
+2015/02/06,7:30p,Golden State Warriors,116.0,Atlanta Hawks,124.0,,"19,225",Philips Arena,Friday
+2015/02/06,7:30p,Philadelphia 76ers,96.0,Boston Celtics,107.0,,"18,322",TD Garden,Friday
+2015/02/06,7:30p,Denver Nuggets,88.0,Detroit Pistons,98.0,,"17,035",The Palace of Auburn Hills,Friday
+2015/02/06,8:00p,Milwaukee Bucks,111.0,Houston Rockets,117.0,,"18,239",Toyota Center,Friday
+2015/02/06,8:00p,Memphis Grizzlies,89.0,Minnesota Timberwolves,90.0,,"14,388",Target Center,Friday
+2015/02/06,8:00p,New Orleans Pelicans,116.0,Oklahoma City Thunder,113.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/02/06,9:00p,Utah Jazz,93.0,Phoenix Suns,100.0,,"18,055",US Airways Center,Friday
+2015/02/06,9:30p,Miami Heat,85.0,San Antonio Spurs,98.0,,"18,581",AT&T Center,Friday
+2015/02/07,7:00p,Chicago Bulls,107.0,New Orleans Pelicans,72.0,,"18,402",Smoothie King Center,Saturday
+2015/02/07,7:00p,Brooklyn Nets,77.0,Washington Wizards,114.0,,"20,356",Verizon Center,Saturday
+2015/02/07,7:30p,Golden State Warriors,106.0,New York Knicks,92.0,,"19,812",Madison Square Garden (IV),Saturday
+2015/02/07,7:30p,Charlotte Hornets,81.0,Philadelphia 76ers,89.0,,"16,739",Wells Fargo Center,Saturday
+2015/02/07,8:30p,Portland Trail Blazers,101.0,Dallas Mavericks,111.0,OT,"20,398",American Airlines Center,Saturday
+2015/02/07,8:30p,Boston Celtics,93.0,Milwaukee Bucks,96.0,,"16,470",BMO Harris Bradley Center,Saturday
+2015/02/07,9:00p,Sacramento Kings,90.0,Utah Jazz,102.0,,"19,128",EnergySolutions Arena,Saturday
+2015/02/08,1:00p,Los Angeles Clippers,108.0,Oklahoma City Thunder,131.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/02/08,3:30p,Los Angeles Lakers,105.0,Cleveland Cavaliers,120.0,,"20,562",Quicken Loans Arena,Sunday
+2015/02/08,6:00p,Indiana Pacers,103.0,Charlotte Hornets,102.0,,"16,991",Time Warner Cable Arena,Sunday
+2015/02/08,6:00p,Minnesota Timberwolves,112.0,Detroit Pistons,101.0,,"16,075",The Palace of Auburn Hills,Sunday
+2015/02/08,6:00p,Atlanta Hawks,88.0,Memphis Grizzlies,94.0,,"18,119",FedEx Forum,Sunday
+2015/02/08,6:00p,Chicago Bulls,98.0,Orlando Magic,97.0,,"16,944",Amway Center,Sunday
+2015/02/08,7:00p,Portland Trail Blazers,109.0,Houston Rockets,98.0,,"18,243",Toyota Center,Sunday
+2015/02/08,7:00p,San Antonio Spurs,82.0,Toronto Raptors,87.0,,"19,800",Air Canada Centre,Sunday
+2015/02/08,9:00p,Phoenix Suns,83.0,Sacramento Kings,85.0,,"17,013",Sleep Train Arena,Sunday
+2015/02/09,7:00p,San Antonio Spurs,95.0,Indiana Pacers,93.0,,"16,691",Bankers Life Fieldhouse,Monday
+2015/02/09,7:00p,Golden State Warriors,89.0,Philadelphia 76ers,84.0,,"16,247",Wells Fargo Center,Monday
+2015/02/09,7:00p,Orlando Magic,80.0,Washington Wizards,96.0,,"16,031",Verizon Center,Monday
+2015/02/09,7:30p,New York Knicks,95.0,Miami Heat,109.0,,"19,851",AmericanAirlines Arena,Monday
+2015/02/09,8:00p,Brooklyn Nets,97.0,Milwaukee Bucks,103.0,,"12,431",BMO Harris Bradley Center,Monday
+2015/02/09,8:00p,Atlanta Hawks,117.0,Minnesota Timberwolves,105.0,,"10,987",Target Center,Monday
+2015/02/09,8:00p,Utah Jazz,100.0,New Orleans Pelicans,96.0,,"15,321",Smoothie King Center,Monday
+2015/02/09,8:30p,Los Angeles Clippers,115.0,Dallas Mavericks,98.0,,"20,082",American Airlines Center,Monday
+2015/02/09,9:00p,Oklahoma City Thunder,124.0,Denver Nuggets,114.0,,"16,511",Pepsi Center,Monday
+2015/02/10,7:00p,Detroit Pistons,106.0,Charlotte Hornets,78.0,,"15,876",Time Warner Cable Arena,Tuesday
+2015/02/10,8:00p,Sacramento Kings,86.0,Chicago Bulls,104.0,,"21,560",United Center,Tuesday
+2015/02/10,8:00p,Brooklyn Nets,86.0,Memphis Grizzlies,95.0,,"16,901",FedEx Forum,Tuesday
+2015/02/10,8:00p,Houston Rockets,127.0,Phoenix Suns,118.0,,"17,071",US Airways Center,Tuesday
+2015/02/10,10:30p,Denver Nuggets,106.0,Los Angeles Lakers,96.0,,"18,466",STAPLES Center,Tuesday
+2015/02/11,7:00p,New York Knicks,83.0,Orlando Magic,89.0,,"15,473",Amway Center,Wednesday
+2015/02/11,7:30p,Atlanta Hawks,88.0,Boston Celtics,89.0,,"16,083",TD Garden,Wednesday
+2015/02/11,7:30p,San Antonio Spurs,104.0,Detroit Pistons,87.0,,"14,617",The Palace of Auburn Hills,Wednesday
+2015/02/11,7:30p,Washington Wizards,93.0,Toronto Raptors,95.0,,"19,800",Air Canada Centre,Wednesday
+2015/02/11,8:00p,Miami Heat,93.0,Cleveland Cavaliers,113.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/02/11,8:00p,Sacramento Kings,103.0,Milwaukee Bucks,111.0,,"13,046",BMO Harris Bradley Center,Wednesday
+2015/02/11,8:00p,Golden State Warriors,94.0,Minnesota Timberwolves,91.0,,"14,303",Target Center,Wednesday
+2015/02/11,8:00p,Indiana Pacers,106.0,New Orleans Pelicans,93.0,,"17,074",Smoothie King Center,Wednesday
+2015/02/11,8:00p,Memphis Grizzlies,89.0,Oklahoma City Thunder,105.0,,"18,203",Chesapeake Energy Arena,Wednesday
+2015/02/11,8:30p,Utah Jazz,82.0,Dallas Mavericks,87.0,,"19,947",American Airlines Center,Wednesday
+2015/02/11,10:00p,Los Angeles Lakers,86.0,Portland Trail Blazers,102.0,,"19,585",Moda Center,Wednesday
+2015/02/11,10:30p,Houston Rockets,95.0,Los Angeles Clippers,110.0,,"19,060",STAPLES Center,Wednesday
+2015/02/12,8:00p,Cleveland Cavaliers,98.0,Chicago Bulls,113.0,,"21,920",United Center,Thursday
+2015/02/19,8:00p,Dallas Mavericks,89.0,Oklahoma City Thunder,104.0,,"18,203",Chesapeake Energy Arena,Thursday
+2015/02/19,10:30p,San Antonio Spurs,115.0,Los Angeles Clippers,119.0,,"19,358",STAPLES Center,Thursday
+2015/02/20,7:00p,New Orleans Pelicans,84.0,Orlando Magic,95.0,,"18,259",Amway Center,Friday
+2015/02/20,7:00p,Indiana Pacers,106.0,Philadelphia 76ers,95.0,,"16,777",Wells Fargo Center,Friday
+2015/02/20,7:30p,Toronto Raptors,105.0,Atlanta Hawks,80.0,,"18,968",Philips Arena,Friday
+2015/02/20,7:30p,Chicago Bulls,91.0,Detroit Pistons,100.0,,"19,053",The Palace of Auburn Hills,Friday
+2015/02/20,7:30p,Miami Heat,111.0,New York Knicks,87.0,,"19,812",Madison Square Garden (IV),Friday
+2015/02/20,8:00p,Phoenix Suns,109.0,Minnesota Timberwolves,111.0,,"14,077",Target Center,Friday
+2015/02/20,8:00p,Cleveland Cavaliers,127.0,Washington Wizards,89.0,,"20,356",Verizon Center,Friday
+2015/02/20,8:30p,Houston Rockets,100.0,Dallas Mavericks,111.0,,"20,389",American Airlines Center,Friday
+2015/02/20,8:30p,Denver Nuggets,81.0,Milwaukee Bucks,89.0,,"16,110",BMO Harris Bradley Center,Friday
+2015/02/20,9:00p,Portland Trail Blazers,76.0,Utah Jazz,92.0,,"19,911",EnergySolutions Arena,Friday
+2015/02/20,10:00p,Boston Celtics,101.0,Sacramento Kings,109.0,,"17,317",Sleep Train Arena,Friday
+2015/02/20,10:30p,San Antonio Spurs,99.0,Golden State Warriors,110.0,,"19,596",Oracle Arena,Friday
+2015/02/20,10:30p,Brooklyn Nets,114.0,Los Angeles Lakers,105.0,,"18,997",STAPLES Center,Friday
+2015/02/21,7:00p,Oklahoma City Thunder,110.0,Charlotte Hornets,103.0,,"19,303",Time Warner Cable Arena,Saturday
+2015/02/21,7:30p,New Orleans Pelicans,105.0,Miami Heat,91.0,,"19,982",AmericanAirlines Arena,Saturday
+2015/02/21,8:00p,Phoenix Suns,107.0,Chicago Bulls,112.0,,"22,292",United Center,Saturday
+2015/02/21,8:00p,Toronto Raptors,76.0,Houston Rockets,98.0,,"18,329",Toyota Center,Saturday
+2015/02/21,10:00p,Sacramento Kings,99.0,Los Angeles Clippers,126.0,,"19,133",STAPLES Center,Saturday
+2015/02/22,1:00p,Cleveland Cavaliers,101.0,New York Knicks,83.0,,"19,812",Madison Square Garden (IV),Sunday
+2015/02/22,3:30p,Washington Wizards,89.0,Detroit Pistons,106.0,,"18,371",The Palace of Auburn Hills,Sunday
+2015/02/22,3:30p,Atlanta Hawks,97.0,Milwaukee Bucks,86.0,,"14,787",BMO Harris Bradley Center,Sunday
+2015/02/22,6:00p,Golden State Warriors,98.0,Indiana Pacers,104.0,,"17,789",Bankers Life Fieldhouse,Sunday
+2015/02/22,6:00p,Philadelphia 76ers,98.0,Orlando Magic,103.0,,"16,108",Amway Center,Sunday
+2015/02/22,7:00p,Denver Nuggets,94.0,Oklahoma City Thunder,119.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/02/22,7:30p,Charlotte Hornets,81.0,Dallas Mavericks,92.0,,"20,347",American Airlines Center,Sunday
+2015/02/22,9:00p,Memphis Grizzlies,98.0,Portland Trail Blazers,92.0,,"19,782",Moda Center,Sunday
+2015/02/22,9:30p,Boston Celtics,111.0,Los Angeles Lakers,118.0,OT,"18,997",STAPLES Center,Sunday
+2015/02/23,7:30p,Philadelphia 76ers,108.0,Miami Heat,119.0,,"19,802",AmericanAirlines Arena,Monday
+2015/02/23,8:00p,Milwaukee Bucks,71.0,Chicago Bulls,87.0,,"21,434",United Center,Monday
+2015/02/23,8:00p,Minnesota Timberwolves,102.0,Houston Rockets,113.0,,"18,240",Toyota Center,Monday
+2015/02/23,8:00p,Toronto Raptors,97.0,New Orleans Pelicans,100.0,,"16,514",Smoothie King Center,Monday
+2015/02/23,9:00p,Brooklyn Nets,110.0,Denver Nuggets,82.0,,"13,127",Pepsi Center,Monday
+2015/02/23,9:00p,Boston Celtics,115.0,Phoenix Suns,110.0,,"17,076",US Airways Center,Monday
+2015/02/23,9:00p,San Antonio Spurs,81.0,Utah Jazz,90.0,,"18,782",EnergySolutions Arena,Monday
+2015/02/23,10:30p,Memphis Grizzlies,90.0,Los Angeles Clippers,87.0,,"19,161",STAPLES Center,Monday
+2015/02/24,7:00p,Golden State Warriors,114.0,Washington Wizards,107.0,,"20,356",Verizon Center,Tuesday
+2015/02/24,7:30p,Cleveland Cavaliers,102.0,Detroit Pistons,93.0,,"19,087",The Palace of Auburn Hills,Tuesday
+2015/02/24,8:00p,Indiana Pacers,92.0,Oklahoma City Thunder,105.0,,"18,203",Chesapeake Energy Arena,Tuesday
+2015/02/24,8:30p,Toronto Raptors,92.0,Dallas Mavericks,99.0,,"20,151",American Airlines Center,Tuesday
+2015/02/25,7:00p,Miami Heat,93.0,Orlando Magic,90.0,OT,"18,309",Amway Center,Wednesday
+2015/02/25,7:30p,Dallas Mavericks,87.0,Atlanta Hawks,104.0,,"16,126",Philips Arena,Wednesday
+2015/02/25,7:30p,New York Knicks,94.0,Boston Celtics,115.0,,"16,899",TD Garden,Wednesday
+2015/02/25,8:00p,Charlotte Hornets,98.0,Chicago Bulls,86.0,,"21,509",United Center,Wednesday
+2015/02/25,8:00p,Los Angeles Clippers,105.0,Houston Rockets,110.0,,"18,154",Toyota Center,Wednesday
+2015/02/25,8:00p,Philadelphia 76ers,88.0,Milwaukee Bucks,104.0,,"12,763",BMO Harris Bradley Center,Wednesday
+2015/02/25,8:00p,Washington Wizards,77.0,Minnesota Timberwolves,97.0,,"19,856",Target Center,Wednesday
+2015/02/25,8:00p,Brooklyn Nets,96.0,New Orleans Pelicans,102.0,,"16,097",Smoothie King Center,Wednesday
+2015/02/25,9:00p,Phoenix Suns,110.0,Denver Nuggets,96.0,,"12,813",Pepsi Center,Wednesday
+2015/02/25,9:00p,Los Angeles Lakers,100.0,Utah Jazz,97.0,,"19,911",EnergySolutions Arena,Wednesday
+2015/02/25,10:00p,Memphis Grizzlies,90.0,Sacramento Kings,102.0,,"16,794",Sleep Train Arena,Wednesday
+2015/02/25,10:30p,San Antonio Spurs,95.0,Portland Trail Blazers,111.0,,"19,650",Moda Center,Wednesday
+2015/02/26,8:00p,Golden State Warriors,99.0,Cleveland Cavaliers,110.0,,"20,562",Quicken Loans Arena,Thursday
+2015/02/26,10:30p,Oklahoma City Thunder,113.0,Phoenix Suns,117.0,OT,"17,514",US Airways Center,Thursday
+2015/02/27,7:00p,Cleveland Cavaliers,86.0,Indiana Pacers,93.0,,"18,165",Bankers Life Fieldhouse,Friday
+2015/02/27,7:00p,Washington Wizards,81.0,Philadelphia 76ers,89.0,,"18,089",Wells Fargo Center,Friday
+2015/02/27,7:30p,Orlando Magic,88.0,Atlanta Hawks,95.0,,"18,968",Philips Arena,Friday
+2015/02/27,7:30p,Charlotte Hornets,98.0,Boston Celtics,106.0,,"18,624",TD Garden,Friday
+2015/02/27,7:30p,New York Knicks,121.0,Detroit Pistons,115.0,2OT,"16,182",The Palace of Auburn Hills,Friday
+2015/02/27,7:30p,Golden State Warriors,113.0,Toronto Raptors,89.0,,"19,800",Air Canada Centre,Friday
+2015/02/27,8:00p,Minnesota Timberwolves,89.0,Chicago Bulls,96.0,,"21,635",United Center,Friday
+2015/02/27,8:00p,Brooklyn Nets,98.0,Houston Rockets,102.0,,"18,139",Toyota Center,Friday
+2015/02/27,8:00p,Los Angeles Clippers,97.0,Memphis Grizzlies,79.0,,"18,119",FedEx Forum,Friday
+2015/02/27,8:00p,Miami Heat,102.0,New Orleans Pelicans,104.0,,"17,797",Smoothie King Center,Friday
+2015/02/27,9:00p,Utah Jazz,104.0,Denver Nuggets,82.0,,"15,002",Pepsi Center,Friday
+2015/02/27,10:00p,San Antonio Spurs,107.0,Sacramento Kings,96.0,,"17,317",Sleep Train Arena,Friday
+2015/02/27,10:30p,Milwaukee Bucks,93.0,Los Angeles Lakers,101.0,,"18,997",STAPLES Center,Friday
+2015/02/27,10:30p,Oklahoma City Thunder,112.0,Portland Trail Blazers,115.0,,"19,962",Moda Center,Friday
+2015/02/28,7:00p,Detroit Pistons,95.0,Washington Wizards,99.0,,"20,356",Verizon Center,Saturday
+2015/02/28,7:30p,Atlanta Hawks,93.0,Miami Heat,91.0,,"19,733",AmericanAirlines Arena,Saturday
+2015/02/28,7:30p,Toronto Raptors,98.0,New York Knicks,103.0,,"19,812",Madison Square Garden (IV),Saturday
+2015/02/28,8:00p,Memphis Grizzlies,101.0,Minnesota Timberwolves,97.0,,"19,356",Target Center,Saturday
+2015/02/28,8:30p,Brooklyn Nets,104.0,Dallas Mavericks,94.0,,"20,367",American Airlines Center,Saturday
+2015/02/28,9:00p,San Antonio Spurs,101.0,Phoenix Suns,74.0,,"18,055",US Airways Center,Saturday
+2015/02/28,9:00p,Milwaukee Bucks,75.0,Utah Jazz,82.0,,"19,515",EnergySolutions Arena,Saturday
+2015/03/01,1:00p,Los Angeles Clippers,96.0,Chicago Bulls,86.0,,"21,680",United Center,Sunday
+2015/03/01,3:30p,Cleveland Cavaliers,103.0,Houston Rockets,105.0,OT,"18,345",Toyota Center,Sunday
+2015/03/01,6:00p,Golden State Warriors,106.0,Boston Celtics,101.0,,"18,624",TD Garden,Sunday
+2015/03/01,6:00p,Philadelphia 76ers,74.0,Indiana Pacers,94.0,,"16,581",Bankers Life Fieldhouse,Sunday
+2015/03/01,6:00p,Charlotte Hornets,98.0,Orlando Magic,83.0,,"15,422",Amway Center,Sunday
+2015/03/01,6:00p,Portland Trail Blazers,110.0,Sacramento Kings,99.0,,"16,776",Sleep Train Arena,Sunday
+2015/03/01,6:30p,Oklahoma City Thunder,108.0,Los Angeles Lakers,101.0,,"18,997",STAPLES Center,Sunday
+2015/03/01,8:00p,New Orleans Pelicans,99.0,Denver Nuggets,92.0,,"13,109",Pepsi Center,Sunday
+2015/03/02,7:00p,Toronto Raptors,114.0,Philadelphia 76ers,103.0,,"10,742",Wells Fargo Center,Monday
+2015/03/02,7:30p,Golden State Warriors,108.0,Brooklyn Nets,110.0,,"17,732",Barclays Center,Monday
+2015/03/02,7:30p,Phoenix Suns,98.0,Miami Heat,115.0,,"19,600",AmericanAirlines Arena,Monday
+2015/03/02,8:00p,Los Angeles Clippers,110.0,Minnesota Timberwolves,105.0,,"18,239",Target Center,Monday
+2015/03/02,8:30p,New Orleans Pelicans,93.0,Dallas Mavericks,102.0,,"20,367",American Airlines Center,Monday
+2015/03/03,7:00p,Los Angeles Lakers,103.0,Charlotte Hornets,104.0,,"16,947",Time Warner Cable Arena,Tuesday
+2015/03/03,7:00p,Boston Celtics,79.0,Cleveland Cavaliers,110.0,,"20,562",Quicken Loans Arena,Tuesday
+2015/03/03,7:00p,Sacramento Kings,124.0,New York Knicks,86.0,,"19,812",Madison Square Garden (IV),Tuesday
+2015/03/03,7:30p,Houston Rockets,96.0,Atlanta Hawks,104.0,,"18,968",Philips Arena,Tuesday
+2015/03/03,8:00p,Washington Wizards,92.0,Chicago Bulls,97.0,,"21,468",United Center,Tuesday
+2015/03/03,8:00p,Utah Jazz,93.0,Memphis Grizzlies,82.0,,"16,779",FedEx Forum,Tuesday
+2015/03/03,9:00p,Milwaukee Bucks,95.0,Denver Nuggets,106.0,,"12,234",Pepsi Center,Tuesday
+2015/03/04,7:00p,New York Knicks,82.0,Indiana Pacers,105.0,,"15,981",Bankers Life Fieldhouse,Wednesday
+2015/03/04,7:00p,Phoenix Suns,105.0,Orlando Magic,100.0,,"15,822",Amway Center,Wednesday
+2015/03/04,7:30p,Utah Jazz,84.0,Boston Celtics,85.0,,"16,354",TD Garden,Wednesday
+2015/03/04,7:30p,Charlotte Hornets,115.0,Brooklyn Nets,91.0,,"16,691",Barclays Center,Wednesday
+2015/03/04,7:30p,Cleveland Cavaliers,120.0,Toronto Raptors,112.0,,"19,800",Air Canada Centre,Wednesday
+2015/03/04,8:00p,Memphis Grizzlies,102.0,Houston Rockets,100.0,,"18,224",Toyota Center,Wednesday
+2015/03/04,8:00p,Los Angeles Lakers,94.0,Miami Heat,100.0,,"19,600",AmericanAirlines Arena,Wednesday
+2015/03/04,8:00p,Denver Nuggets,100.0,Minnesota Timberwolves,85.0,,"13,848",Target Center,Wednesday
+2015/03/04,8:00p,Detroit Pistons,85.0,New Orleans Pelicans,88.0,,"16,925",Smoothie King Center,Wednesday
+2015/03/04,8:00p,Philadelphia 76ers,118.0,Oklahoma City Thunder,123.0,OT,"18,203",Chesapeake Energy Arena,Wednesday
+2015/03/04,8:30p,Sacramento Kings,85.0,San Antonio Spurs,112.0,,"18,581",AT&T Center,Wednesday
+2015/03/04,10:30p,Milwaukee Bucks,93.0,Golden State Warriors,102.0,,"19,596",Oracle Arena,Wednesday
+2015/03/04,10:30p,Portland Trail Blazers,98.0,Los Angeles Clippers,93.0,OT,"19,060",STAPLES Center,Wednesday
+2015/03/05,8:00p,Oklahoma City Thunder,105.0,Chicago Bulls,108.0,,"21,696",United Center,Thursday
+2015/03/05,10:30p,Dallas Mavericks,75.0,Portland Trail Blazers,94.0,,"19,499",Moda Center,Thursday
+2015/03/06,7:00p,Toronto Raptors,94.0,Charlotte Hornets,103.0,,"19,080",Time Warner Cable Arena,Friday
+2015/03/06,7:00p,Chicago Bulls,84.0,Indiana Pacers,98.0,,"18,165",Bankers Life Fieldhouse,Friday
+2015/03/06,7:00p,Sacramento Kings,114.0,Orlando Magic,119.0,,"15,112",Amway Center,Friday
+2015/03/06,7:00p,Utah Jazz,89.0,Philadelphia 76ers,83.0,,"15,811",Wells Fargo Center,Friday
+2015/03/06,7:00p,Miami Heat,97.0,Washington Wizards,99.0,,"20,356",Verizon Center,Friday
+2015/03/06,7:30p,Cleveland Cavaliers,97.0,Atlanta Hawks,106.0,,"19,244",Philips Arena,Friday
+2015/03/06,8:00p,Phoenix Suns,108.0,Brooklyn Nets,100.0,OT,"16,445",Barclays Center,Friday
+2015/03/06,8:00p,Detroit Pistons,93.0,Houston Rockets,103.0,,"18,193",Toyota Center,Friday
+2015/03/06,8:00p,Los Angeles Lakers,90.0,Memphis Grizzlies,97.0,,"17,399",FedEx Forum,Friday
+2015/03/06,8:00p,Boston Celtics,104.0,New Orleans Pelicans,98.0,,"17,274",Smoothie King Center,Friday
+2015/03/06,8:30p,Denver Nuggets,111.0,San Antonio Spurs,120.0,,"18,581",AT&T Center,Friday
+2015/03/06,10:30p,Dallas Mavericks,89.0,Golden State Warriors,104.0,,"19,596",Oracle Arena,Friday
+2015/03/07,7:00p,Memphis Grizzlies,89.0,New Orleans Pelicans,95.0,,"17,346",Smoothie King Center,Saturday
+2015/03/07,7:30p,Phoenix Suns,79.0,Cleveland Cavaliers,89.0,,"20,562",Quicken Loans Arena,Saturday
+2015/03/07,7:30p,Sacramento Kings,109.0,Miami Heat,114.0,OT,"19,600",AmericanAirlines Arena,Saturday
+2015/03/07,7:30p,Indiana Pacers,92.0,New York Knicks,86.0,,"19,812",Madison Square Garden (IV),Saturday
+2015/03/07,7:30p,Atlanta Hawks,84.0,Philadelphia 76ers,92.0,,"17,624",Wells Fargo Center,Saturday
+2015/03/07,8:00p,Portland Trail Blazers,113.0,Minnesota Timberwolves,121.0,,"19,356",Target Center,Saturday
+2015/03/07,8:30p,Washington Wizards,85.0,Milwaukee Bucks,91.0,,"16,216",BMO Harris Bradley Center,Saturday
+2015/03/07,9:00p,Houston Rockets,114.0,Denver Nuggets,100.0,,"15,231",Pepsi Center,Saturday
+2015/03/08,1:00p,Chicago Bulls,105.0,San Antonio Spurs,116.0,,"18,581",AT&T Center,Sunday
+2015/03/08,3:30p,Los Angeles Clippers,98.0,Golden State Warriors,106.0,,"19,596",Oracle Arena,Sunday
+2015/03/08,6:00p,Utah Jazz,95.0,Brooklyn Nets,88.0,,"17,041",Barclays Center,Sunday
+2015/03/08,6:00p,Charlotte Hornets,108.0,Detroit Pistons,101.0,,"15,673",The Palace of Auburn Hills,Sunday
+2015/03/08,6:00p,Boston Celtics,98.0,Orlando Magic,103.0,,"17,041",Amway Center,Sunday
+2015/03/08,7:00p,Toronto Raptors,104.0,Oklahoma City Thunder,108.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/03/08,9:30p,Dallas Mavericks,100.0,Los Angeles Lakers,93.0,,"18,997",STAPLES Center,Sunday
+2015/03/09,7:00p,Washington Wizards,95.0,Charlotte Hornets,69.0,,"15,119",Time Warner Cable Arena,Monday
+2015/03/09,7:30p,Sacramento Kings,105.0,Atlanta Hawks,130.0,,"18,418",Philips Arena,Monday
+2015/03/09,7:30p,Boston Celtics,100.0,Miami Heat,90.0,,"19,600",AmericanAirlines Arena,Monday
+2015/03/09,8:00p,Memphis Grizzlies,101.0,Chicago Bulls,91.0,,"21,815",United Center,Monday
+2015/03/09,8:00p,New Orleans Pelicans,114.0,Milwaukee Bucks,103.0,,"12,218",BMO Harris Bradley Center,Monday
+2015/03/09,9:00p,New York Knicks,78.0,Denver Nuggets,106.0,,"14,153",Pepsi Center,Monday
+2015/03/09,10:00p,Golden State Warriors,98.0,Phoenix Suns,80.0,,"18,055",US Airways Center,Monday
+2015/03/09,10:30p,Minnesota Timberwolves,76.0,Los Angeles Clippers,89.0,,"19,060",STAPLES Center,Monday
+2015/03/10,7:00p,Orlando Magic,86.0,Indiana Pacers,118.0,,"17,295",Bankers Life Fieldhouse,Tuesday
+2015/03/10,7:30p,New Orleans Pelicans,111.0,Brooklyn Nets,91.0,,"16,422",Barclays Center,Tuesday
+2015/03/10,8:30p,Cleveland Cavaliers,127.0,Dallas Mavericks,94.0,,"20,501",American Airlines Center,Tuesday
+2015/03/10,8:30p,Toronto Raptors,107.0,San Antonio Spurs,117.0,,"18,581",AT&T Center,Tuesday
+2015/03/10,9:00p,New York Knicks,82.0,Utah Jazz,87.0,,"17,121",EnergySolutions Arena,Tuesday
+2015/03/10,10:30p,Detroit Pistons,85.0,Los Angeles Lakers,93.0,,"17,771",STAPLES Center,Tuesday
+2015/03/11,7:00p,Sacramento Kings,113.0,Charlotte Hornets,106.0,,"15,885",Time Warner Cable Arena,Wednesday
+2015/03/11,7:00p,Chicago Bulls,104.0,Philadelphia 76ers,95.0,OT,"12,400",Wells Fargo Center,Wednesday
+2015/03/11,7:30p,Memphis Grizzlies,92.0,Boston Celtics,95.0,,"17,135",TD Garden,Wednesday
+2015/03/11,7:30p,Brooklyn Nets,98.0,Miami Heat,104.0,,"19,600",AmericanAirlines Arena,Wednesday
+2015/03/11,8:00p,Orlando Magic,91.0,Milwaukee Bucks,97.0,,"12,593",BMO Harris Bradley Center,Wednesday
+2015/03/11,8:00p,Los Angeles Clippers,120.0,Oklahoma City Thunder,108.0,,"18,203",Chesapeake Energy Arena,Wednesday
+2015/03/11,9:00p,Atlanta Hawks,102.0,Denver Nuggets,115.0,,"13,217",Pepsi Center,Wednesday
+2015/03/11,10:00p,Minnesota Timberwolves,97.0,Phoenix Suns,106.0,,"17,367",US Airways Center,Wednesday
+2015/03/11,10:30p,Detroit Pistons,98.0,Golden State Warriors,105.0,,"19,596",Oracle Arena,Wednesday
+2015/03/11,10:30p,Houston Rockets,100.0,Portland Trail Blazers,105.0,,"19,279",Moda Center,Wednesday
+2015/03/12,7:00p,Milwaukee Bucks,103.0,Indiana Pacers,109.0,OT,"15,729",Bankers Life Fieldhouse,Thursday
+2015/03/12,7:00p,Memphis Grizzlies,87.0,Washington Wizards,107.0,,"18,186",Verizon Center,Thursday
+2015/03/12,9:00p,Houston Rockets,91.0,Utah Jazz,109.0,,"18,781",EnergySolutions Arena,Thursday
+2015/03/12,9:30p,Cleveland Cavaliers,128.0,San Antonio Spurs,125.0,OT,"18,581",AT&T Center,Thursday
+2015/03/12,10:30p,New York Knicks,101.0,Los Angeles Lakers,94.0,,"18,997",STAPLES Center,Thursday
+2015/03/13,7:00p,Chicago Bulls,91.0,Charlotte Hornets,101.0,,"19,183",Time Warner Cable Arena,Friday
+2015/03/13,7:00p,Sacramento Kings,107.0,Philadelphia 76ers,114.0,,"12,331",Wells Fargo Center,Friday
+2015/03/13,7:30p,Orlando Magic,88.0,Boston Celtics,95.0,,"18,624",TD Garden,Friday
+2015/03/13,7:30p,Miami Heat,92.0,Toronto Raptors,102.0,,"19,800",Air Canada Centre,Friday
+2015/03/13,8:00p,Minnesota Timberwolves,99.0,Oklahoma City Thunder,113.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/03/13,8:30p,Los Angeles Clippers,99.0,Dallas Mavericks,129.0,,"20,444",American Airlines Center,Friday
+2015/03/13,9:00p,Golden State Warriors,103.0,Denver Nuggets,114.0,,"19,155",Pepsi Center,Friday
+2015/03/13,10:00p,Atlanta Hawks,96.0,Phoenix Suns,87.0,,"17,136",US Airways Center,Friday
+2015/03/13,10:00p,Detroit Pistons,99.0,Portland Trail Blazers,118.0,,"19,486",Moda Center,Friday
+2015/03/14,7:00p,Boston Celtics,93.0,Indiana Pacers,89.0,,"18,165",Bankers Life Fieldhouse,Saturday
+2015/03/14,7:00p,Sacramento Kings,97.0,Washington Wizards,113.0,,"20,356",Verizon Center,Saturday
+2015/03/14,7:30p,Brooklyn Nets,94.0,Philadelphia 76ers,87.0,,"14,865",Wells Fargo Center,Saturday
+2015/03/14,8:00p,Milwaukee Bucks,83.0,Memphis Grizzlies,96.0,,"18,119",FedEx Forum,Saturday
+2015/03/14,9:00p,Detroit Pistons,85.0,Utah Jazz,88.0,,"19,911",EnergySolutions Arena,Saturday
+2015/03/14,10:30p,New York Knicks,94.0,Golden State Warriors,125.0,,"19,596",Oracle Arena,Saturday
+2015/03/15,1:00p,Chicago Bulls,100.0,Oklahoma City Thunder,109.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/03/15,3:30p,Houston Rockets,100.0,Los Angeles Clippers,98.0,,"19,211",STAPLES Center,Sunday
+2015/03/15,6:00p,Denver Nuggets,118.0,New Orleans Pelicans,111.0,2OT,"17,248",Smoothie King Center,Sunday
+2015/03/15,6:00p,Cleveland Cavaliers,123.0,Orlando Magic,108.0,,"17,786",Amway Center,Sunday
+2015/03/15,7:00p,Minnesota Timberwolves,97.0,San Antonio Spurs,123.0,,"18,581",AT&T Center,Sunday
+2015/03/15,7:00p,Portland Trail Blazers,113.0,Toronto Raptors,97.0,,"19,800",Air Canada Centre,Sunday
+2015/03/15,9:00p,New York Knicks,89.0,Phoenix Suns,102.0,,"17,264",US Airways Center,Sunday
+2015/03/15,9:30p,Atlanta Hawks,91.0,Los Angeles Lakers,86.0,,"17,422",STAPLES Center,Sunday
+2015/03/16,7:00p,Toronto Raptors,117.0,Indiana Pacers,98.0,,"17,060",Bankers Life Fieldhouse,Monday
+2015/03/16,7:00p,Portland Trail Blazers,97.0,Washington Wizards,105.0,,"17,324",Verizon Center,Monday
+2015/03/16,7:30p,Philadelphia 76ers,89.0,Boston Celtics,108.0,,"16,553",TD Garden,Monday
+2015/03/16,8:00p,Denver Nuggets,81.0,Memphis Grizzlies,92.0,,"16,614",FedEx Forum,Monday
+2015/03/16,8:00p,Cleveland Cavaliers,92.0,Miami Heat,106.0,,"19,626",AmericanAirlines Arena,Monday
+2015/03/16,8:00p,Brooklyn Nets,122.0,Minnesota Timberwolves,106.0,,"14,234",Target Center,Monday
+2015/03/16,8:30p,Oklahoma City Thunder,115.0,Dallas Mavericks,119.0,,"20,231",American Airlines Center,Monday
+2015/03/16,9:00p,Charlotte Hornets,66.0,Utah Jazz,94.0,,"16,743",EnergySolutions Arena,Monday
+2015/03/16,10:00p,Atlanta Hawks,110.0,Sacramento Kings,103.0,,"16,835",Sleep Train Arena,Monday
+2015/03/16,10:30p,Los Angeles Lakers,105.0,Golden State Warriors,108.0,,"19,596",Oracle Arena,Monday
+2015/03/17,7:30p,Memphis Grizzlies,95.0,Detroit Pistons,105.0,,"14,399",The Palace of Auburn Hills,Tuesday
+2015/03/17,7:30p,San Antonio Spurs,100.0,New York Knicks,104.0,OT,"19,812",Madison Square Garden (IV),Tuesday
+2015/03/17,8:00p,Orlando Magic,94.0,Houston Rockets,107.0,,"18,235",Toyota Center,Tuesday
+2015/03/17,8:00p,Milwaukee Bucks,84.0,New Orleans Pelicans,85.0,,"17,881",Smoothie King Center,Tuesday
+2015/03/17,10:30p,Charlotte Hornets,92.0,Los Angeles Clippers,99.0,,"19,060",STAPLES Center,Tuesday
+2015/03/18,7:00p,Brooklyn Nets,92.0,Cleveland Cavaliers,117.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/03/18,7:00p,Detroit Pistons,83.0,Philadelphia 76ers,94.0,,"10,776",Wells Fargo Center,Wednesday
+2015/03/18,7:30p,Portland Trail Blazers,104.0,Miami Heat,108.0,,"19,621",AmericanAirlines Arena,Wednesday
+2015/03/18,7:30p,Minnesota Timberwolves,100.0,Toronto Raptors,105.0,,"19,800",Air Canada Centre,Wednesday
+2015/03/18,8:00p,Indiana Pacers,86.0,Chicago Bulls,103.0,,"21,753",United Center,Wednesday
+2015/03/18,8:00p,Orlando Magic,102.0,Dallas Mavericks,107.0,,"20,294",American Airlines Center,Wednesday
+2015/03/18,8:00p,San Antonio Spurs,114.0,Milwaukee Bucks,103.0,,"14,831",BMO Harris Bradley Center,Wednesday
+2015/03/18,8:00p,Boston Celtics,118.0,Oklahoma City Thunder,122.0,,"18,203",Chesapeake Energy Arena,Wednesday
+2015/03/18,10:00p,Los Angeles Clippers,116.0,Sacramento Kings,105.0,,"16,785",Sleep Train Arena,Wednesday
+2015/03/18,10:30p,Atlanta Hawks,95.0,Golden State Warriors,114.0,,"19,596",Oracle Arena,Wednesday
+2015/03/18,10:30p,Washington Wizards,88.0,Utah Jazz,84.0,,"19,498",EnergySolutions Arena,Wednesday
+2015/03/19,7:30p,Minnesota Timberwolves,95.0,New York Knicks,92.0,OT,"19,812",Madison Square Garden (IV),Thursday
+2015/03/19,8:00p,Denver Nuggets,108.0,Houston Rockets,118.0,,"18,456",Toyota Center,Thursday
+2015/03/19,10:00p,New Orleans Pelicans,72.0,Phoenix Suns,74.0,,"18,055",US Airways Center,Thursday
+2015/03/19,10:30p,Utah Jazz,80.0,Los Angeles Lakers,73.0,,"17,407",STAPLES Center,Thursday
+2015/03/20,7:00p,Portland Trail Blazers,104.0,Orlando Magic,111.0,,"16,203",Amway Center,Friday
+2015/03/20,7:00p,New York Knicks,81.0,Philadelphia 76ers,97.0,,"10,079",Wells Fargo Center,Friday
+2015/03/20,7:30p,Milwaukee Bucks,127.0,Brooklyn Nets,129.0,3OT,"16,272",Barclays Center,Friday
+2015/03/20,7:30p,Indiana Pacers,92.0,Cleveland Cavaliers,95.0,,"20,562",Quicken Loans Arena,Friday
+2015/03/20,7:30p,Denver Nuggets,91.0,Miami Heat,108.0,,"19,710",AmericanAirlines Arena,Friday
+2015/03/20,8:00p,Toronto Raptors,92.0,Chicago Bulls,108.0,,"21,998",United Center,Friday
+2015/03/20,8:00p,Atlanta Hawks,115.0,Oklahoma City Thunder,123.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/03/20,8:30p,Memphis Grizzlies,112.0,Dallas Mavericks,101.0,,"20,399",American Airlines Center,Friday
+2015/03/20,8:30p,Boston Celtics,89.0,San Antonio Spurs,101.0,,"18,581",AT&T Center,Friday
+2015/03/20,10:00p,Charlotte Hornets,91.0,Sacramento Kings,101.0,,"16,799",Sleep Train Arena,Friday
+2015/03/20,10:30p,New Orleans Pelicans,96.0,Golden State Warriors,112.0,,"19,596",Oracle Arena,Friday
+2015/03/20,10:30p,Washington Wizards,99.0,Los Angeles Clippers,113.0,,"19,218",STAPLES Center,Friday
+2015/03/21,7:00p,Brooklyn Nets,123.0,Indiana Pacers,111.0,,"16,453",Bankers Life Fieldhouse,Saturday
+2015/03/21,7:30p,Chicago Bulls,91.0,Detroit Pistons,107.0,,"20,347",The Palace of Auburn Hills,Saturday
+2015/03/21,8:00p,Phoenix Suns,117.0,Houston Rockets,102.0,,"18,340",Toyota Center,Saturday
+2015/03/21,8:00p,Portland Trail Blazers,86.0,Memphis Grizzlies,97.0,,"17,898",FedEx Forum,Saturday
+2015/03/21,10:30p,Utah Jazz,91.0,Golden State Warriors,106.0,,"19,596",Oracle Arena,Saturday
+2015/03/22,3:00p,San Antonio Spurs,114.0,Atlanta Hawks,95.0,,"19,193",Philips Arena,Sunday
+2015/03/22,3:00p,Cleveland Cavaliers,108.0,Milwaukee Bucks,90.0,,"16,687",BMO Harris Bradley Center,Sunday
+2015/03/22,3:00p,Miami Heat,75.0,Oklahoma City Thunder,93.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/03/22,3:30p,New Orleans Pelicans,100.0,Los Angeles Clippers,107.0,,"19,299",STAPLES Center,Sunday
+2015/03/22,4:00p,New York Knicks,89.0,Toronto Raptors,106.0,,"19,800",Air Canada Centre,Sunday
+2015/03/22,6:00p,Detroit Pistons,105.0,Boston Celtics,97.0,OT,"18,624",TD Garden,Sunday
+2015/03/22,6:00p,Denver Nuggets,119.0,Orlando Magic,100.0,,"15,788",Amway Center,Sunday
+2015/03/22,6:00p,Washington Wizards,86.0,Sacramento Kings,109.0,,"17,008",Sleep Train Arena,Sunday
+2015/03/22,7:00p,Charlotte Hornets,109.0,Minnesota Timberwolves,98.0,,"15,262",Target Center,Sunday
+2015/03/22,9:00p,Dallas Mavericks,92.0,Phoenix Suns,98.0,,"17,435",US Airways Center,Sunday
+2015/03/22,9:30p,Philadelphia 76ers,87.0,Los Angeles Lakers,101.0,,"17,891",STAPLES Center,Sunday
+2015/03/23,7:00p,Houston Rockets,110.0,Indiana Pacers,100.0,,"16,201",Bankers Life Fieldhouse,Monday
+2015/03/23,7:30p,Boston Celtics,110.0,Brooklyn Nets,91.0,,"16,814",Barclays Center,Monday
+2015/03/23,7:30p,Memphis Grizzlies,103.0,New York Knicks,82.0,,"19,812",Madison Square Garden (IV),Monday
+2015/03/23,8:00p,Charlotte Hornets,86.0,Chicago Bulls,98.0,,"21,646",United Center,Monday
+2015/03/23,9:00p,Minnesota Timberwolves,106.0,Utah Jazz,104.0,OT,"19,911",EnergySolutions Arena,Monday
+2015/03/23,10:30p,Washington Wizards,76.0,Golden State Warriors,107.0,,"19,596",Oracle Arena,Monday
+2015/03/24,7:30p,Toronto Raptors,104.0,Detroit Pistons,108.0,,"14,420",The Palace of Auburn Hills,Tuesday
+2015/03/24,8:00p,San Antonio Spurs,94.0,Dallas Mavericks,101.0,,"20,328",American Airlines Center,Tuesday
+2015/03/24,8:00p,Miami Heat,88.0,Milwaukee Bucks,89.0,,"12,313",BMO Harris Bradley Center,Tuesday
+2015/03/24,8:00p,Los Angeles Lakers,117.0,Oklahoma City Thunder,127.0,,"18,203",Chesapeake Energy Arena,Tuesday
+2015/03/24,10:00p,Philadelphia 76ers,106.0,Sacramento Kings,107.0,,"16,636",Sleep Train Arena,Tuesday
+2015/03/24,10:30p,Golden State Warriors,122.0,Portland Trail Blazers,108.0,,"19,985",Moda Center,Tuesday
+2015/03/25,7:00p,Brooklyn Nets,91.0,Charlotte Hornets,88.0,,"15,091",Time Warner Cable Arena,Wednesday
+2015/03/25,7:00p,Los Angeles Clippers,111.0,New York Knicks,80.0,,"19,812",Madison Square Garden (IV),Wednesday
+2015/03/25,7:00p,Atlanta Hawks,95.0,Orlando Magic,83.0,,"17,224",Amway Center,Wednesday
+2015/03/25,7:00p,Chicago Bulls,116.0,Toronto Raptors,103.0,,"19,800",Air Canada Centre,Wednesday
+2015/03/25,7:00p,Indiana Pacers,103.0,Washington Wizards,101.0,,"18,514",Verizon Center,Wednesday
+2015/03/25,7:30p,Miami Heat,93.0,Boston Celtics,86.0,,"18,624",TD Garden,Wednesday
+2015/03/25,8:00p,Cleveland Cavaliers,111.0,Memphis Grizzlies,89.0,,"18,119",FedEx Forum,Wednesday
+2015/03/25,8:00p,Los Angeles Lakers,101.0,Minnesota Timberwolves,99.0,OT,"13,438",Target Center,Wednesday
+2015/03/25,8:00p,Houston Rockets,95.0,New Orleans Pelicans,93.0,,"17,077",Smoothie King Center,Wednesday
+2015/03/25,9:00p,Philadelphia 76ers,99.0,Denver Nuggets,85.0,,"14,068",Pepsi Center,Wednesday
+2015/03/25,9:00p,Portland Trail Blazers,92.0,Utah Jazz,89.0,,"19,911",EnergySolutions Arena,Wednesday
+2015/03/25,9:30p,Oklahoma City Thunder,91.0,San Antonio Spurs,130.0,,"18,581",AT&T Center,Wednesday
+2015/03/25,10:00p,Sacramento Kings,108.0,Phoenix Suns,99.0,,"17,589",US Airways Center,Wednesday
+2015/03/26,8:00p,Indiana Pacers,107.0,Milwaukee Bucks,111.0,,"15,366",BMO Harris Bradley Center,Thursday
+2015/03/27,7:00p,Detroit Pistons,111.0,Orlando Magic,97.0,,"16,427",Amway Center,Friday
+2015/03/27,7:00p,Los Angeles Clippers,119.0,Philadelphia 76ers,98.0,,"16,070",Wells Fargo Center,Friday
+2015/03/27,7:00p,Charlotte Hornets,107.0,Washington Wizards,110.0,2OT,"18,441",Verizon Center,Friday
+2015/03/27,7:30p,Miami Heat,86.0,Atlanta Hawks,99.0,,"19,233",Philips Arena,Friday
+2015/03/27,7:30p,Cleveland Cavaliers,98.0,Brooklyn Nets,106.0,,"17,732",Barclays Center,Friday
+2015/03/27,7:30p,Boston Celtics,96.0,New York Knicks,92.0,,"19,812",Madison Square Garden (IV),Friday
+2015/03/27,7:30p,Los Angeles Lakers,83.0,Toronto Raptors,94.0,,"19,800",Air Canada Centre,Friday
+2015/03/27,8:00p,Minnesota Timberwolves,110.0,Houston Rockets,120.0,,"18,322",Toyota Center,Friday
+2015/03/27,8:00p,Golden State Warriors,107.0,Memphis Grizzlies,84.0,,"18,119",FedEx Forum,Friday
+2015/03/27,8:00p,Sacramento Kings,88.0,New Orleans Pelicans,102.0,,"17,669",Smoothie King Center,Friday
+2015/03/27,8:30p,Dallas Mavericks,76.0,San Antonio Spurs,94.0,,"18,581",AT&T Center,Friday
+2015/03/27,9:00p,Utah Jazz,91.0,Denver Nuggets,107.0,,"15,312",Pepsi Center,Friday
+2015/03/27,10:00p,Portland Trail Blazers,87.0,Phoenix Suns,81.0,,"17,219",US Airways Center,Friday
+2015/03/28,7:00p,Atlanta Hawks,100.0,Charlotte Hornets,115.0,,"19,122",Time Warner Cable Arena,Saturday
+2015/03/28,8:00p,New York Knicks,80.0,Chicago Bulls,111.0,,"22,152",United Center,Saturday
+2015/03/28,8:30p,Golden State Warriors,108.0,Milwaukee Bucks,95.0,,"18,717",BMO Harris Bradley Center,Saturday
+2015/03/28,9:00p,Oklahoma City Thunder,89.0,Utah Jazz,94.0,,"19,911",EnergySolutions Arena,Saturday
+2015/03/28,10:00p,Denver Nuggets,114.0,Portland Trail Blazers,120.0,,"19,769",Moda Center,Saturday
+2015/03/29,12:30p,Houston Rockets,99.0,Washington Wizards,91.0,,"20,356",Verizon Center,Sunday
+2015/03/29,3:30p,Los Angeles Lakers,99.0,Brooklyn Nets,107.0,,"17,732",Barclays Center,Sunday
+2015/03/29,4:00p,Minnesota Timberwolves,88.0,New Orleans Pelicans,110.0,,"17,576",Smoothie King Center,Sunday
+2015/03/29,4:30p,Philadelphia 76ers,86.0,Cleveland Cavaliers,87.0,,"20,562",Quicken Loans Arena,Sunday
+2015/03/29,6:00p,Los Angeles Clippers,119.0,Boston Celtics,106.0,,"18,624",TD Garden,Sunday
+2015/03/29,6:00p,Detroit Pistons,102.0,Miami Heat,109.0,,"19,685",AmericanAirlines Arena,Sunday
+2015/03/29,7:00p,Dallas Mavericks,99.0,Indiana Pacers,104.0,,"17,358",Bankers Life Fieldhouse,Sunday
+2015/03/29,7:00p,Memphis Grizzlies,89.0,San Antonio Spurs,103.0,,"18,581",AT&T Center,Sunday
+2015/03/29,9:00p,Oklahoma City Thunder,109.0,Phoenix Suns,97.0,,"17,538",US Airways Center,Sunday
+2015/03/30,7:00p,Boston Celtics,116.0,Charlotte Hornets,104.0,,"15,140",Time Warner Cable Arena,Monday
+2015/03/30,7:00p,Los Angeles Lakers,113.0,Philadelphia 76ers,111.0,OT,"13,501",Wells Fargo Center,Monday
+2015/03/30,7:30p,Milwaukee Bucks,88.0,Atlanta Hawks,101.0,,"18,453",Philips Arena,Monday
+2015/03/30,7:30p,Houston Rockets,96.0,Toronto Raptors,99.0,,"19,800",Air Canada Centre,Monday
+2015/03/30,8:00p,Sacramento Kings,83.0,Memphis Grizzlies,97.0,,"17,218",FedEx Forum,Monday
+2015/03/30,8:00p,Utah Jazz,104.0,Minnesota Timberwolves,84.0,,"12,229",Target Center,Monday
+2015/03/30,10:00p,Phoenix Suns,86.0,Portland Trail Blazers,109.0,,"19,441",Moda Center,Monday
+2015/03/31,7:30p,Indiana Pacers,106.0,Brooklyn Nets,111.0,,"16,756",Barclays Center,Tuesday
+2015/03/31,7:30p,Atlanta Hawks,95.0,Detroit Pistons,105.0,,"14,242",The Palace of Auburn Hills,Tuesday
+2015/03/31,8:00p,San Antonio Spurs,95.0,Miami Heat,81.0,,"20,047",AmericanAirlines Arena,Tuesday
+2015/03/31,10:30p,Golden State Warriors,110.0,Los Angeles Clippers,106.0,,"19,601",STAPLES Center,Tuesday
+2015/04/01,7:00p,Detroit Pistons,78.0,Charlotte Hornets,102.0,,"15,372",Time Warner Cable Arena,Wednesday
+2015/04/01,7:00p,San Antonio Spurs,103.0,Orlando Magic,91.0,,"17,229",Amway Center,Wednesday
+2015/04/01,7:00p,Philadelphia 76ers,93.0,Washington Wizards,106.0,,"17,501",Verizon Center,Wednesday
+2015/04/01,7:30p,Indiana Pacers,87.0,Boston Celtics,100.0,,"18,624",TD Garden,Wednesday
+2015/04/01,7:30p,Brooklyn Nets,100.0,New York Knicks,98.0,,"19,812",Madison Square Garden (IV),Wednesday
+2015/04/01,8:00p,Sacramento Kings,111.0,Houston Rockets,115.0,,"18,312",Toyota Center,Wednesday
+2015/04/01,8:00p,Chicago Bulls,91.0,Milwaukee Bucks,95.0,,"15,215",BMO Harris Bradley Center,Wednesday
+2015/04/01,8:00p,Toronto Raptors,113.0,Minnesota Timberwolves,99.0,,"12,699",Target Center,Wednesday
+2015/04/01,8:00p,Dallas Mavericks,135.0,Oklahoma City Thunder,131.0,,"18,203",Chesapeake Energy Arena,Wednesday
+2015/04/01,9:00p,Denver Nuggets,84.0,Utah Jazz,98.0,,"18,275",EnergySolutions Arena,Wednesday
+2015/04/01,10:00p,Los Angeles Clippers,126.0,Portland Trail Blazers,122.0,,"19,639",Moda Center,Wednesday
+2015/04/01,10:30p,New Orleans Pelicans,113.0,Los Angeles Lakers,92.0,,"17,165",STAPLES Center,Wednesday
+2015/04/02,8:00p,Miami Heat,88.0,Cleveland Cavaliers,114.0,,"20,562",Quicken Loans Arena,Thursday
+2015/04/02,8:30p,Houston Rockets,108.0,Dallas Mavericks,101.0,,"20,062",American Airlines Center,Thursday
+2015/04/02,10:30p,Phoenix Suns,106.0,Golden State Warriors,107.0,,"19,596",Oracle Arena,Thursday
+2015/04/03,7:00p,Charlotte Hornets,74.0,Indiana Pacers,93.0,,"18,165",Bankers Life Fieldhouse,Friday
+2015/04/03,7:00p,New York Knicks,87.0,Washington Wizards,101.0,,"19,389",Verizon Center,Friday
+2015/04/03,7:30p,Milwaukee Bucks,110.0,Boston Celtics,101.0,,"18,624",TD Garden,Friday
+2015/04/03,7:30p,Toronto Raptors,109.0,Brooklyn Nets,114.0,,"17,732",Barclays Center,Friday
+2015/04/03,8:00p,Detroit Pistons,82.0,Chicago Bulls,88.0,,"22,058",United Center,Friday
+2015/04/03,8:00p,Oklahoma City Thunder,92.0,Memphis Grizzlies,100.0,,"18,119",FedEx Forum,Friday
+2015/04/03,8:00p,Orlando Magic,97.0,Minnesota Timberwolves,84.0,,"18,334",Target Center,Friday
+2015/04/03,8:30p,Denver Nuggets,93.0,San Antonio Spurs,123.0,,"18,581",AT&T Center,Friday
+2015/04/03,10:00p,New Orleans Pelicans,101.0,Sacramento Kings,95.0,,"17,021",Sleep Train Arena,Friday
+2015/04/03,10:30p,Portland Trail Blazers,107.0,Los Angeles Lakers,77.0,,"18,997",STAPLES Center,Friday
+2015/04/04,7:00p,Philadelphia 76ers,91.0,Charlotte Hornets,92.0,,"17,286",Time Warner Cable Arena,Saturday
+2015/04/04,7:30p,Brooklyn Nets,99.0,Atlanta Hawks,131.0,,"18,769",Philips Arena,Saturday
+2015/04/04,7:30p,Miami Heat,98.0,Detroit Pistons,99.0,,"16,133",The Palace of Auburn Hills,Saturday
+2015/04/04,7:30p,Boston Celtics,117.0,Toronto Raptors,116.0,OT,"19,800",Air Canada Centre,Saturday
+2015/04/04,8:00p,Washington Wizards,92.0,Memphis Grizzlies,83.0,,"18,119",FedEx Forum,Saturday
+2015/04/04,8:30p,Golden State Warriors,123.0,Dallas Mavericks,110.0,,"20,407",American Airlines Center,Saturday
+2015/04/04,8:30p,Orlando Magic,97.0,Milwaukee Bucks,90.0,,"14,090",BMO Harris Bradley Center,Saturday
+2015/04/04,9:00p,Los Angeles Clippers,107.0,Denver Nuggets,92.0,,"15,566",Pepsi Center,Saturday
+2015/04/04,10:00p,Utah Jazz,85.0,Phoenix Suns,87.0,,"18,055",US Airways Center,Saturday
+2015/04/04,10:00p,New Orleans Pelicans,90.0,Portland Trail Blazers,99.0,,"19,781",Moda Center,Saturday
+2015/04/05,1:00p,Houston Rockets,115.0,Oklahoma City Thunder,112.0,,"18,203",Chesapeake Energy Arena,Sunday
+2015/04/05,3:30p,Chicago Bulls,94.0,Cleveland Cavaliers,99.0,,"20,562",Quicken Loans Arena,Sunday
+2015/04/05,6:00p,Miami Heat,89.0,Indiana Pacers,112.0,,"18,165",Bankers Life Fieldhouse,Sunday
+2015/04/05,7:00p,Golden State Warriors,92.0,San Antonio Spurs,107.0,,"18,581",AT&T Center,Sunday
+2015/04/05,7:30p,Philadelphia 76ers,91.0,New York Knicks,101.0,,"19,812",Madison Square Garden (IV),Sunday
+2015/04/05,9:00p,Utah Jazz,101.0,Sacramento Kings,95.0,,"16,716",Sleep Train Arena,Sunday
+2015/04/05,9:30p,Los Angeles Clippers,106.0,Los Angeles Lakers,78.0,,"18,997",STAPLES Center,Sunday
+2015/04/06,7:00p,Portland Trail Blazers,96.0,Brooklyn Nets,106.0,,"17,416",Barclays Center,Monday
+2015/04/07,7:30p,Phoenix Suns,69.0,Atlanta Hawks,96.0,,"18,650",Philips Arena,Tuesday
+2015/04/07,7:30p,Charlotte Hornets,100.0,Miami Heat,105.0,,"19,694",AmericanAirlines Arena,Tuesday
+2015/04/07,8:00p,Golden State Warriors,100.0,New Orleans Pelicans,103.0,,"18,097",Smoothie King Center,Tuesday
+2015/04/07,8:00p,San Antonio Spurs,113.0,Oklahoma City Thunder,88.0,,"18,203",Chesapeake Energy Arena,Tuesday
+2015/04/07,10:00p,Minnesota Timberwolves,111.0,Sacramento Kings,116.0,,"16,770",Sleep Train Arena,Tuesday
+2015/04/07,10:30p,Los Angeles Lakers,100.0,Los Angeles Clippers,105.0,,"19,438",STAPLES Center,Tuesday
+2015/04/08,7:00p,Toronto Raptors,92.0,Charlotte Hornets,74.0,,"15,593",Time Warner Cable Arena,Wednesday
+2015/04/08,7:00p,Boston Celtics,113.0,Detroit Pistons,103.0,,"14,284",The Palace of Auburn Hills,Wednesday
+2015/04/08,7:00p,Chicago Bulls,103.0,Orlando Magic,105.0,,"18,249",Amway Center,Wednesday
+2015/04/08,7:00p,Washington Wizards,119.0,Philadelphia 76ers,90.0,,"12,611",Wells Fargo Center,Wednesday
+2015/04/08,7:30p,Atlanta Hawks,114.0,Brooklyn Nets,111.0,,"17,732",Barclays Center,Wednesday
+2015/04/08,7:30p,Indiana Pacers,102.0,New York Knicks,86.0,,"19,812",Madison Square Garden (IV),Wednesday
+2015/04/08,8:00p,New Orleans Pelicans,74.0,Memphis Grizzlies,110.0,,"17,518",FedEx Forum,Wednesday
+2015/04/08,8:00p,Cleveland Cavaliers,104.0,Milwaukee Bucks,99.0,,"14,629",BMO Harris Bradley Center,Wednesday
+2015/04/08,8:30p,Houston Rockets,98.0,San Antonio Spurs,110.0,,"18,581",AT&T Center,Wednesday
+2015/04/08,9:00p,Los Angeles Lakers,101.0,Denver Nuggets,119.0,,"13,338",Pepsi Center,Wednesday
+2015/04/08,9:00p,Sacramento Kings,91.0,Utah Jazz,103.0,,"18,351",EnergySolutions Arena,Wednesday
+2015/04/08,9:30p,Phoenix Suns,104.0,Dallas Mavericks,107.0,,"20,262",American Airlines Center,Wednesday
+2015/04/08,10:00p,Minnesota Timberwolves,91.0,Portland Trail Blazers,116.0,,"19,499",Moda Center,Wednesday
+2015/04/09,8:00p,Chicago Bulls,89.0,Miami Heat,78.0,,"19,641",AmericanAirlines Arena,Thursday
+2015/04/09,10:30p,Portland Trail Blazers,105.0,Golden State Warriors,116.0,,"19,596",Oracle Arena,Thursday
+2015/04/10,7:00p,Toronto Raptors,101.0,Orlando Magic,99.0,,"16,227",Amway Center,Friday
+2015/04/10,7:30p,Charlotte Hornets,80.0,Atlanta Hawks,104.0,,"18,462",Philips Arena,Friday
+2015/04/10,7:30p,Washington Wizards,80.0,Brooklyn Nets,117.0,,"17,732",Barclays Center,Friday
+2015/04/10,7:30p,Boston Celtics,99.0,Cleveland Cavaliers,90.0,,"20,562",Quicken Loans Arena,Friday
+2015/04/10,7:30p,Indiana Pacers,107.0,Detroit Pistons,103.0,,"18,561",The Palace of Auburn Hills,Friday
+2015/04/10,7:30p,Milwaukee Bucks,99.0,New York Knicks,91.0,,"19,812",Madison Square Garden (IV),Friday
+2015/04/10,8:00p,San Antonio Spurs,104.0,Houston Rockets,103.0,,"18,457",Toyota Center,Friday
+2015/04/10,8:00p,Phoenix Suns,75.0,New Orleans Pelicans,90.0,,"17,954",Smoothie King Center,Friday
+2015/04/10,8:00p,Sacramento Kings,103.0,Oklahoma City Thunder,116.0,,"18,203",Chesapeake Energy Arena,Friday
+2015/04/10,9:00p,Dallas Mavericks,144.0,Denver Nuggets,143.0,2OT,"14,041",Pepsi Center,Friday
+2015/04/10,9:00p,Memphis Grizzlies,89.0,Utah Jazz,88.0,,"18,873",EnergySolutions Arena,Friday
+2015/04/10,10:30p,Minnesota Timberwolves,98.0,Los Angeles Lakers,106.0,,"17,880",STAPLES Center,Friday
+2015/04/11,7:00p,New York Knicks,80.0,Orlando Magic,79.0,,"17,207",Amway Center,Saturday
+2015/04/11,7:30p,Toronto Raptors,107.0,Miami Heat,104.0,,"19,689",AmericanAirlines Arena,Saturday
+2015/04/11,8:00p,Philadelphia 76ers,107.0,Chicago Bulls,114.0,,"22,273",United Center,Saturday
+2015/04/11,10:00p,Memphis Grizzlies,86.0,Los Angeles Clippers,94.0,,"19,401",STAPLES Center,Saturday
+2015/04/11,10:00p,Utah Jazz,111.0,Portland Trail Blazers,105.0,,"19,908",Moda Center,Saturday
+2015/04/11,10:30p,Minnesota Timberwolves,101.0,Golden State Warriors,110.0,,"19,596",Oracle Arena,Saturday
+2015/04/12,3:00p,Cleveland Cavaliers,78.0,Boston Celtics,117.0,,"18,624",TD Garden,Sunday
+2015/04/12,3:00p,Brooklyn Nets,73.0,Milwaukee Bucks,96.0,,"16,504",BMO Harris Bradley Center,Sunday
+2015/04/12,3:30p,Charlotte Hornets,77.0,Detroit Pistons,116.0,,"17,297",The Palace of Auburn Hills,Sunday
+2015/04/12,5:00p,Sacramento Kings,111.0,Denver Nuggets,122.0,,"14,004",Pepsi Center,Sunday
+2015/04/12,6:00p,Oklahoma City Thunder,104.0,Indiana Pacers,116.0,,"18,165",Bankers Life Fieldhouse,Sunday
+2015/04/12,6:00p,Atlanta Hawks,99.0,Washington Wizards,108.0,,"19,041",Verizon Center,Sunday
+2015/04/12,7:00p,New Orleans Pelicans,114.0,Houston Rockets,121.0,,"18,318",Toyota Center,Sunday
+2015/04/12,7:00p,Phoenix Suns,91.0,San Antonio Spurs,107.0,,"18,581",AT&T Center,Sunday
+2015/04/12,9:30p,Dallas Mavericks,120.0,Los Angeles Lakers,106.0,,"18,071",STAPLES Center,Sunday
+2015/04/13,7:00p,Houston Rockets,100.0,Charlotte Hornets,90.0,,"15,797",Time Warner Cable Arena,Monday
+2015/04/13,7:00p,Detroit Pistons,97.0,Cleveland Cavaliers,109.0,,"20,562",Quicken Loans Arena,Monday
+2015/04/13,7:00p,Milwaukee Bucks,107.0,Philadelphia 76ers,97.0,,"10,598",Wells Fargo Center,Monday
+2015/04/13,7:30p,New York Knicks,112.0,Atlanta Hawks,108.0,,"18,265",Philips Arena,Monday
+2015/04/13,7:30p,Chicago Bulls,113.0,Brooklyn Nets,86.0,,"17,732",Barclays Center,Monday
+2015/04/13,7:30p,Orlando Magic,93.0,Miami Heat,100.0,,"19,600",AmericanAirlines Arena,Monday
+2015/04/13,8:00p,New Orleans Pelicans,100.0,Minnesota Timberwolves,88.0,,"13,009",Target Center,Monday
+2015/04/13,8:00p,Portland Trail Blazers,90.0,Oklahoma City Thunder,101.0,,"18,203",Chesapeake Energy Arena,Monday
+2015/04/13,9:00p,Dallas Mavericks,92.0,Utah Jazz,109.0,,"19,911",EnergySolutions Arena,Monday
+2015/04/13,10:00p,Los Angeles Lakers,92.0,Sacramento Kings,102.0,,"17,317",Sleep Train Arena,Monday
+2015/04/13,10:30p,Memphis Grizzlies,107.0,Golden State Warriors,111.0,,"19,596",Oracle Arena,Monday
+2015/04/13,10:30p,Denver Nuggets,103.0,Los Angeles Clippers,110.0,,"19,060",STAPLES Center,Monday
+2015/04/14,7:30p,Toronto Raptors,93.0,Boston Celtics,95.0,,"18,624",TD Garden,Tuesday
+2015/04/14,8:00p,Washington Wizards,95.0,Indiana Pacers,99.0,2OT,"18,165",Bankers Life Fieldhouse,Tuesday
+2015/04/14,10:30p,Los Angeles Clippers,112.0,Phoenix Suns,101.0,,"18,055",US Airways Center,Tuesday
+2015/04/15,7:00p,Charlotte Hornets,87.0,Toronto Raptors,92.0,,"19,800",Air Canada Centre,Wednesday
+2015/04/15,8:00p,Orlando Magic,88.0,Brooklyn Nets,101.0,,"17,098",Barclays Center,Wednesday
+2015/04/15,8:00p,Atlanta Hawks,85.0,Chicago Bulls,91.0,,"22,172",United Center,Wednesday
+2015/04/15,8:00p,Washington Wizards,108.0,Cleveland Cavaliers,113.0,OT,"20,562",Quicken Loans Arena,Wednesday
+2015/04/15,8:00p,Portland Trail Blazers,98.0,Dallas Mavericks,114.0,,"20,352",American Airlines Center,Wednesday
+2015/04/15,8:00p,Utah Jazz,91.0,Houston Rockets,117.0,,"18,320",Toyota Center,Wednesday
+2015/04/15,8:00p,Boston Celtics,105.0,Milwaukee Bucks,100.0,,"17,316",BMO Harris Bradley Center,Wednesday
+2015/04/15,8:00p,Oklahoma City Thunder,138.0,Minnesota Timberwolves,113.0,,"18,250",Target Center,Wednesday
+2015/04/15,8:00p,San Antonio Spurs,103.0,New Orleans Pelicans,108.0,,"18,524",Smoothie King Center,Wednesday
+2015/04/15,8:00p,Detroit Pistons,112.0,New York Knicks,90.0,,"19,812",Madison Square Garden (IV),Wednesday
+2015/04/15,8:00p,Miami Heat,105.0,Philadelphia 76ers,101.0,,"14,476",Wells Fargo Center,Wednesday
+2015/04/15,9:30p,Indiana Pacers,83.0,Memphis Grizzlies,95.0,,"17,109",FedEx Forum,Wednesday
+2015/04/15,10:30p,Denver Nuggets,126.0,Golden State Warriors,133.0,,"19,596",Oracle Arena,Wednesday
+2015/04/15,10:30p,Sacramento Kings,122.0,Los Angeles Lakers,99.0,,"18,997",STAPLES Center,Wednesday
+2015/04/18,12:30p,Washington Wizards,93.0,Toronto Raptors,86.0,OT,"19,800",Air Canada Centre,Saturday
+2015/04/18,3:30p,New Orleans Pelicans,99.0,Golden State Warriors,106.0,,"19,596",Oracle Arena,Saturday
+2015/04/18,7:00p,Milwaukee Bucks,91.0,Chicago Bulls,103.0,,"21,812",United Center,Saturday
+2015/04/18,9:30p,Dallas Mavericks,108.0,Houston Rockets,118.0,,"18,231",Toyota Center,Saturday
+2015/04/19,3:00p,Boston Celtics,100.0,Cleveland Cavaliers,113.0,,"20,562",Quicken Loans Arena,Sunday
+2015/04/19,5:30p,Brooklyn Nets,92.0,Atlanta Hawks,99.0,,"18,440",Philips Arena,Sunday
+2015/04/19,8:00p,Portland Trail Blazers,86.0,Memphis Grizzlies,100.0,,"18,119",FedEx Forum,Sunday
+2015/04/19,10:30p,San Antonio Spurs,92.0,Los Angeles Clippers,107.0,,"19,309",STAPLES Center,Sunday
+2015/04/20,8:00p,Milwaukee Bucks,82.0,Chicago Bulls,91.0,,"21,661",United Center,Monday
+2015/04/20,10:30p,New Orleans Pelicans,87.0,Golden State Warriors,97.0,,"19,596",Oracle Arena,Monday
+2015/04/21,7:00p,Boston Celtics,91.0,Cleveland Cavaliers,99.0,,"20,562",Quicken Loans Arena,Tuesday
+2015/04/21,8:00p,Washington Wizards,117.0,Toronto Raptors,106.0,,"19,800",Air Canada Centre,Tuesday
+2015/04/21,9:30p,Dallas Mavericks,99.0,Houston Rockets,111.0,,"18,243",Toyota Center,Tuesday
+2015/04/22,7:00p,Brooklyn Nets,91.0,Atlanta Hawks,96.0,,"18,207",Philips Arena,Wednesday
+2015/04/22,8:00p,Portland Trail Blazers,82.0,Memphis Grizzlies,97.0,,"18,119",FedEx Forum,Wednesday
+2015/04/22,10:30p,San Antonio Spurs,111.0,Los Angeles Clippers,107.0,OT,"19,482",STAPLES Center,Wednesday
+2015/04/23,7:00p,Cleveland Cavaliers,103.0,Boston Celtics,95.0,,"18,624",TD Garden,Thursday
+2015/04/23,8:00p,Chicago Bulls,113.0,Milwaukee Bucks,106.0,2OT,"18,717",BMO Harris Bradley Center,Thursday
+2015/04/23,9:30p,Golden State Warriors,123.0,New Orleans Pelicans,119.0,OT,"18,444",Smoothie King Center,Thursday
+2015/04/24,7:00p,Houston Rockets,130.0,Dallas Mavericks,128.0,,"20,651",American Airlines Center,Friday
+2015/04/24,8:00p,Toronto Raptors,99.0,Washington Wizards,106.0,,"20,356",Verizon Center,Friday
+2015/04/24,9:30p,Los Angeles Clippers,73.0,San Antonio Spurs,100.0,,"18,581",AT&T Center,Friday
+2015/04/25,3:00p,Atlanta Hawks,83.0,Brooklyn Nets,91.0,,"17,732",Barclays Center,Saturday
+2015/04/25,5:30p,Chicago Bulls,90.0,Milwaukee Bucks,92.0,,"18,717",BMO Harris Bradley Center,Saturday
+2015/04/25,8:00p,Golden State Warriors,109.0,New Orleans Pelicans,98.0,,"18,443",Smoothie King Center,Saturday
+2015/04/25,10:30p,Memphis Grizzlies,115.0,Portland Trail Blazers,109.0,,"19,945",Moda Center,Saturday
+2015/04/26,1:00p,Cleveland Cavaliers,101.0,Boston Celtics,93.0,,"18,624",TD Garden,Sunday
+2015/04/26,3:30p,Los Angeles Clippers,114.0,San Antonio Spurs,105.0,,"18,581",AT&T Center,Sunday
+2015/04/26,6:30p,Toronto Raptors,94.0,Washington Wizards,125.0,,"20,356",Verizon Center,Sunday
+2015/04/26,9:00p,Houston Rockets,109.0,Dallas Mavericks,121.0,,"20,589",American Airlines Center,Sunday
+2015/04/27,7:00p,Atlanta Hawks,115.0,Brooklyn Nets,120.0,OT,"17,732",Barclays Center,Monday
+2015/04/27,8:00p,Milwaukee Bucks,94.0,Chicago Bulls,88.0,,"21,814",United Center,Monday
+2015/04/27,10:30p,Memphis Grizzlies,92.0,Portland Trail Blazers,99.0,,"19,541",Moda Center,Monday
+2015/04/28,8:00p,Dallas Mavericks,94.0,Houston Rockets,103.0,,"18,231",Toyota Center,Tuesday
+2015/04/28,10:30p,San Antonio Spurs,111.0,Los Angeles Clippers,107.0,,"19,571",STAPLES Center,Tuesday
+2015/04/29,7:00p,Brooklyn Nets,97.0,Atlanta Hawks,107.0,,"18,105",Philips Arena,Wednesday
+2015/04/29,9:30p,Portland Trail Blazers,93.0,Memphis Grizzlies,99.0,,"18,119",FedEx Forum,Wednesday
+2015/04/30,7:00p,Chicago Bulls,120.0,Milwaukee Bucks,66.0,,"18,717",BMO Harris Bradley Center,Thursday
+2015/04/30,9:30p,Los Angeles Clippers,102.0,San Antonio Spurs,96.0,,"18,581",AT&T Center,Thursday
+2015/05/01,8:00p,Atlanta Hawks,111.0,Brooklyn Nets,87.0,,"17,732",Barclays Center,Friday
+2015/05/02,8:00p,San Antonio Spurs,109.0,Los Angeles Clippers,111.0,,"19,588",STAPLES Center,Saturday
+2015/05/03,1:00p,Washington Wizards,104.0,Atlanta Hawks,98.0,,"18,148",Philips Arena,Sunday
+2015/05/03,3:30p,Memphis Grizzlies,86.0,Golden State Warriors,101.0,,"19,596",Oracle Arena,Sunday
+2015/05/04,7:00p,Chicago Bulls,99.0,Cleveland Cavaliers,92.0,,"20,562",Quicken Loans Arena,Monday
+2015/05/04,9:30p,Los Angeles Clippers,117.0,Houston Rockets,101.0,,"18,231",Toyota Center,Monday
+2015/05/05,8:00p,Washington Wizards,90.0,Atlanta Hawks,106.0,,"18,131",Philips Arena,Tuesday
+2015/05/05,10:30p,Memphis Grizzlies,97.0,Golden State Warriors,90.0,,"19,596",Oracle Arena,Tuesday
+2015/05/06,7:00p,Chicago Bulls,91.0,Cleveland Cavaliers,106.0,,"20,562",Quicken Loans Arena,Wednesday
+2015/05/06,9:30p,Los Angeles Clippers,109.0,Houston Rockets,115.0,,"18,310",Toyota Center,Wednesday
+2015/05/08,8:00p,Cleveland Cavaliers,96.0,Chicago Bulls,99.0,,"22,246",United Center,Friday
+2015/05/08,10:30p,Houston Rockets,99.0,Los Angeles Clippers,124.0,,"19,367",STAPLES Center,Friday
+2015/05/09,5:00p,Atlanta Hawks,101.0,Washington Wizards,103.0,,"20,356",Verizon Center,Saturday
+2015/05/09,8:00p,Golden State Warriors,89.0,Memphis Grizzlies,99.0,,"18,119",FedEx Forum,Saturday
+2015/05/10,3:30p,Cleveland Cavaliers,86.0,Chicago Bulls,84.0,,"22,256",United Center,Sunday
+2015/05/10,8:30p,Houston Rockets,95.0,Los Angeles Clippers,128.0,,"19,490",STAPLES Center,Sunday
+2015/05/11,7:00p,Atlanta Hawks,106.0,Washington Wizards,101.0,,"20,356",Verizon Center,Monday
+2015/05/11,9:30p,Golden State Warriors,101.0,Memphis Grizzlies,84.0,,"18,119",FedEx Forum,Monday
+2015/05/12,7:00p,Chicago Bulls,101.0,Cleveland Cavaliers,106.0,,"20,562",Quicken Loans Arena,Tuesday
+2015/05/12,9:30p,Los Angeles Clippers,103.0,Houston Rockets,124.0,,"18,142",Toyota Center,Tuesday
+2015/05/13,8:00p,Washington Wizards,81.0,Atlanta Hawks,82.0,,"18,854",Philips Arena,Wednesday
+2015/05/13,10:30p,Memphis Grizzlies,78.0,Golden State Warriors,98.0,,"19,596",Oracle Arena,Wednesday
+2015/05/14,8:00p,Cleveland Cavaliers,94.0,Chicago Bulls,73.0,,"22,695",United Center,Thursday
+2015/05/14,10:30p,Houston Rockets,119.0,Los Angeles Clippers,107.0,,"19,417",STAPLES Center,Thursday
+2015/05/15,7:00p,Atlanta Hawks,94.0,Washington Wizards,91.0,,"20,356",Verizon Center,Friday
+2015/05/15,9:30p,Golden State Warriors,108.0,Memphis Grizzlies,95.0,,"18,119",FedEx Forum,Friday
+2015/05/17,3:30p,Los Angeles Clippers,100.0,Houston Rockets,113.0,,"18,463",Toyota Center,Sunday
+2015/05/19,9:00p,Houston Rockets,106.0,Golden State Warriors,110.0,,"19,596",Oracle Arena,Tuesday
+2015/05/20,8:30p,Cleveland Cavaliers,97.0,Atlanta Hawks,89.0,,"18,489",Philips Arena,Wednesday
+2015/05/21,9:00p,Houston Rockets,98.0,Golden State Warriors,99.0,,"19,596",Oracle Arena,Thursday
+2015/05/22,8:30p,Cleveland Cavaliers,94.0,Atlanta Hawks,82.0,,"18,670",Philips Arena,Friday
+2015/05/23,9:00p,Golden State Warriors,115.0,Houston Rockets,80.0,,"18,282",Toyota Center,Saturday
+2015/05/24,8:30p,Atlanta Hawks,111.0,Cleveland Cavaliers,114.0,OT,"20,562",Quicken Loans Arena,Sunday
+2015/05/25,9:00p,Golden State Warriors,115.0,Houston Rockets,128.0,,"18,239",Toyota Center,Monday
+2015/05/26,8:30p,Atlanta Hawks,88.0,Cleveland Cavaliers,118.0,,"20,562",Quicken Loans Arena,Tuesday
+2015/05/27,9:00p,Houston Rockets,90.0,Golden State Warriors,104.0,,"19,596",Oracle Arena,Wednesday
+2015/06/04,9:00p,Cleveland Cavaliers,100.0,Golden State Warriors,108.0,OT,"19,596",Oracle Arena,Thursday
+2015/06/07,8:00p,Cleveland Cavaliers,95.0,Golden State Warriors,93.0,OT,"19,596",Oracle Arena,Sunday
+2015/06/09,9:00p,Golden State Warriors,91.0,Cleveland Cavaliers,96.0,,"20,562",Quicken Loans Arena,Tuesday
+2015/06/11,9:00p,Golden State Warriors,103.0,Cleveland Cavaliers,82.0,,"20,562",Quicken Loans Arena,Thursday
+2015/06/14,8:00p,Cleveland Cavaliers,91.0,Golden State Warriors,104.0,,"19,596",Oracle Arena,Sunday
+2015/06/16,9:00p,Golden State Warriors,105.0,Cleveland Cavaliers,97.0,,"20,562",Quicken Loans Arena,Tuesday
