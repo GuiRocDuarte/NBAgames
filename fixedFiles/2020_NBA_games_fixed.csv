@@ -1,0 +1,1144 @@
+Date,Start_time,Visitor,PTS (V),Home,PTS (H),OT,Attendance,Arena,Week_Day
+2019/10/22,8:00p,New Orleans Pelicans,122,Toronto Raptors,130,OT,"20,787",Scotiabank Arena,Tuesday
+2019/10/22,10:30p,Los Angeles Lakers,102,Los Angeles Clippers,112,,"19,068",STAPLES Center,Tuesday
+2019/10/23,7:00p,Chicago Bulls,125,Charlotte Hornets,126,,"15,424",Spectrum Center,Wednesday
+2019/10/23,7:00p,Detroit Pistons,119,Indiana Pacers,110,,"17,923",Bankers Life Fieldhouse,Wednesday
+2019/10/23,7:00p,Cleveland Cavaliers,85,Orlando Magic,94,,"18,846",Amway Center,Wednesday
+2019/10/23,7:30p,Minnesota Timberwolves,127,Brooklyn Nets,126,OT,"17,732",Barclays Center,Wednesday
+2019/10/23,7:30p,Memphis Grizzlies,101,Miami Heat,120,,"19,600",AmericanAirlines Arena,Wednesday
+2019/10/23,7:30p,Boston Celtics,93,Philadelphia 76ers,107,,"20,422",Wells Fargo Center,Wednesday
+2019/10/23,8:30p,Washington Wizards,100,Dallas Mavericks,108,,"19,816",American Airlines Center,Wednesday
+2019/10/23,8:30p,New York Knicks,111,San Antonio Spurs,120,,"18,354",AT&T Center,Wednesday
+2019/10/23,9:00p,Oklahoma City Thunder,95,Utah Jazz,100,,"18,306",Vivint Smart Home Arena,Wednesday
+2019/10/23,10:00p,Sacramento Kings,95,Phoenix Suns,124,,"18,055",Talking Stick Resort Arena,Wednesday
+2019/10/23,10:00p,Denver Nuggets,108,Portland Trail Blazers,100,,"19,991",Moda Center,Wednesday
+2019/10/24,7:00p,Atlanta Hawks,117,Detroit Pistons,100,,"20,338",Little Caesars Arena,Thursday
+2019/10/24,8:00p,Milwaukee Bucks,117,Houston Rockets,111,,"18,055",Toyota Center,Thursday
+2019/10/24,10:30p,Los Angeles Clippers,141,Golden State Warriors,122,,"18,064",Chase Center,Thursday
+2019/10/25,7:00p,Toronto Raptors,106,Boston Celtics,112,,"18,624",TD Garden,Friday
+2019/10/25,7:00p,Minnesota Timberwolves,121,Charlotte Hornets,99,,"14,879",Spectrum Center,Friday
+2019/10/25,7:30p,New York Knicks,109,Brooklyn Nets,113,,"17,732",Barclays Center,Friday
+2019/10/25,8:00p,Chicago Bulls,110,Memphis Grizzlies,102,,"17,794",FedEx Forum,Friday
+2019/10/25,8:00p,Dallas Mavericks,123,New Orleans Pelicans,116,,"17,027",Smoothie King Center,Friday
+2019/10/25,8:00p,Washington Wizards,97,Oklahoma City Thunder,85,,"18,203",Chesapeake Energy Arena,Friday
+2019/10/25,9:00p,Phoenix Suns,107,Denver Nuggets,108,OT,"19,557",Pepsi Center,Friday
+2019/10/25,10:00p,Portland Trail Blazers,122,Sacramento Kings,112,,"17,583",Golden 1 Center,Friday
+2019/10/25,10:30p,Utah Jazz,86,Los Angeles Lakers,95,,"18,997",STAPLES Center,Friday
+2019/10/26,5:00p,Miami Heat,131,Milwaukee Bucks,126,OT,"17,467",Fiserv Forum,Saturday
+2019/10/26,7:00p,Philadelphia 76ers,117,Detroit Pistons,111,,"16,207",Little Caesars Arena,Saturday
+2019/10/26,7:30p,Orlando Magic,99,Atlanta Hawks,103,,"17,078",State Farm Arena,Saturday
+2019/10/26,7:30p,Boston Celtics,118,New York Knicks,95,,"19,812",Madison Square Garden (IV),Saturday
+2019/10/26,8:00p,Toronto Raptors,108,Chicago Bulls,84,,"21,498",United Center,Saturday
+2019/10/26,8:00p,Indiana Pacers,99,Cleveland Cavaliers,110,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2019/10/26,8:00p,New Orleans Pelicans,123,Houston Rockets,126,,"18,055",Toyota Center,Saturday
+2019/10/26,8:30p,Washington Wizards,122,San Antonio Spurs,124,,"18,354",AT&T Center,Saturday
+2019/10/26,9:00p,Sacramento Kings,81,Utah Jazz,113,,"18,306",Vivint Smart Home Arena,Saturday
+2019/10/26,10:00p,Los Angeles Clippers,122,Phoenix Suns,130,,"15,802",Talking Stick Resort Arena,Saturday
+2019/10/27,3:30p,Golden State Warriors,92,Oklahoma City Thunder,120,,"18,203",Chesapeake Energy Arena,Sunday
+2019/10/27,6:00p,Brooklyn Nets,133,Memphis Grizzlies,134,OT,"15,517",FedEx Forum,Sunday
+2019/10/27,7:00p,Portland Trail Blazers,121,Dallas Mavericks,119,,"19,707",American Airlines Center,Sunday
+2019/10/27,7:00p,Miami Heat,109,Minnesota Timberwolves,116,,"17,049",Target Center,Sunday
+2019/10/27,9:30p,Charlotte Hornets,101,Los Angeles Lakers,120,,"18,997",STAPLES Center,Sunday
+2019/10/28,7:00p,Chicago Bulls,98,New York Knicks,105,,"19,812",Madison Square Garden (IV),Monday
+2019/10/28,7:00p,Indiana Pacers,94,Detroit Pistons,96,,"13,565",Little Caesars Arena,Monday
+2019/10/28,7:30p,Orlando Magic,95,Toronto Raptors,104,,"19,800",Scotiabank Arena,Monday
+2019/10/28,7:30p,Philadelphia 76ers,105,Atlanta Hawks,103,,"14,094",State Farm Arena,Monday
+2019/10/28,8:00p,Oklahoma City Thunder,112,Houston Rockets,116,,"18,055",Toyota Center,Monday
+2019/10/28,8:00p,Cleveland Cavaliers,112,Milwaukee Bucks,129,,"17,385",Fiserv Forum,Monday
+2019/10/28,8:00p,Golden State Warriors,134,New Orleans Pelicans,123,,"17,307",Smoothie King Center,Monday
+2019/10/28,8:30p,Portland Trail Blazers,110,San Antonio Spurs,113,,"18,083",AT&T Center,Monday
+2019/10/28,10:00p,Utah Jazz,96,Phoenix Suns,95,,"14,805",Talking Stick Resort Arena,Monday
+2019/10/28,10:00p,Denver Nuggets,101,Sacramento Kings,94,,"15,870",Golden 1 Center,Monday
+2019/10/28,10:30p,Charlotte Hornets,96,Los Angeles Clippers,111,,"19,068",STAPLES Center,Monday
+2019/10/29,7:30p,Atlanta Hawks,97,Miami Heat,112,,"19,600",AmericanAirlines Arena,Tuesday
+2019/10/29,9:00p,Dallas Mavericks,109,Denver Nuggets,106,,"16,605",Pepsi Center,Tuesday
+2019/10/29,10:30p,Memphis Grizzlies,91,Los Angeles Lakers,120,,"18,997",STAPLES Center,Tuesday
+2019/10/30,7:00p,Chicago Bulls,111,Cleveland Cavaliers,117,,"17,595",Rocket Mortgage Fieldhouse,Wednesday
+2019/10/30,7:00p,New York Knicks,83,Orlando Magic,95,,"17,456",Amway Center,Wednesday
+2019/10/30,7:00p,Minnesota Timberwolves,95,Philadelphia 76ers,117,,"20,204",Wells Fargo Center,Wednesday
+2019/10/30,7:30p,Milwaukee Bucks,105,Boston Celtics,116,,"18,624",TD Garden,Wednesday
+2019/10/30,7:30p,Indiana Pacers,118,Brooklyn Nets,108,,"17,083",Barclays Center,Wednesday
+2019/10/30,7:30p,Detroit Pistons,113,Toronto Raptors,125,,"19,800",Scotiabank Arena,Wednesday
+2019/10/30,8:00p,Portland Trail Blazers,102,Oklahoma City Thunder,99,,"18,203",Chesapeake Energy Arena,Wednesday
+2019/10/30,8:00p,Houston Rockets,159,Washington Wizards,158,,"20,476",Capital One Arena,Wednesday
+2019/10/30,10:00p,Charlotte Hornets,118,Sacramento Kings,111,,"15,416",Golden 1 Center,Wednesday
+2019/10/30,10:00p,Los Angeles Clippers,96,Utah Jazz,110,,"18,306",Vivint Smart Home Arena,Wednesday
+2019/10/30,10:30p,Phoenix Suns,121,Golden State Warriors,110,,"18,064",Chase Center,Wednesday
+2019/10/31,7:00p,Miami Heat,106,Atlanta Hawks,97,,"16,539",State Farm Arena,Thursday
+2019/10/31,9:30p,Denver Nuggets,107,New Orleans Pelicans,122,,"16,613",Smoothie King Center,Thursday
+2019/10/31,10:30p,San Antonio Spurs,97,Los Angeles Clippers,103,,"19,068",STAPLES Center,Thursday
+2019/11/01,7:00p,Houston Rockets,116,Brooklyn Nets,123,,"17,732",Barclays Center,Friday
+2019/11/01,7:00p,Cleveland Cavaliers,95,Indiana Pacers,102,,"16,079",Bankers Life Fieldhouse,Friday
+2019/11/01,7:00p,Milwaukee Bucks,123,Orlando Magic,91,,"15,105",Amway Center,Friday
+2019/11/01,7:30p,New York Knicks,102,Boston Celtics,104,,"18,624",TD Garden,Friday
+2019/11/01,8:00p,Detroit Pistons,106,Chicago Bulls,112,,"20,671",United Center,Friday
+2019/11/01,9:30p,Los Angeles Lakers,119,Dallas Mavericks,110,OT,"20,358",American Airlines Center,Friday
+2019/11/01,10:00p,Utah Jazz,101,Sacramento Kings,102,,"16,273",Golden 1 Center,Friday
+2019/11/01,10:30p,San Antonio Spurs,127,Golden State Warriors,110,,"18,064",Chase Center,Friday
+2019/11/02,5:00p,New Orleans Pelicans,104,Oklahoma City Thunder,115,,"18,203",Chesapeake Energy Arena,Saturday
+2019/11/02,7:00p,Brooklyn Nets,109,Detroit Pistons,113,,"17,222",Little Caesars Arena,Saturday
+2019/11/02,7:00p,Denver Nuggets,91,Orlando Magic,87,,"17,025",Amway Center,Saturday
+2019/11/02,8:00p,Phoenix Suns,114,Memphis Grizzlies,105,,"14,144",FedEx Forum,Saturday
+2019/11/02,8:00p,Toronto Raptors,105,Milwaukee Bucks,115,,"17,637",Fiserv Forum,Saturday
+2019/11/02,8:00p,Minnesota Timberwolves,131,Washington Wizards,109,,"15,150",Capital One Arena,Saturday
+2019/11/02,8:30p,Charlotte Hornets,93,Golden State Warriors,87,,"18,064",Chase Center,Saturday
+2019/11/02,10:00p,Philadelphia 76ers,129,Portland Trail Blazers,128,,"19,669",Moda Center,Saturday
+2019/11/03,5:00p,Chicago Bulls,95,Indiana Pacers,108,,"17,073",Bankers Life Fieldhouse,Sunday
+2019/11/03,6:00p,Houston Rockets,100,Miami Heat,129,,"19,724",AmericanAirlines Arena,Sunday
+2019/11/03,6:00p,Sacramento Kings,113,New York Knicks,92,,"19,812",Madison Square Garden (IV),Sunday
+2019/11/03,7:00p,Los Angeles Lakers,103,San Antonio Spurs,96,,"18,610",AT&T Center,Sunday
+2019/11/03,7:30p,Dallas Mavericks,131,Cleveland Cavaliers,111,,"18,078",Rocket Mortgage Fieldhouse,Sunday
+2019/11/03,9:00p,Utah Jazz,94,Los Angeles Clippers,105,,"19,068",STAPLES Center,Sunday
+2019/11/04,7:00p,Detroit Pistons,99,Washington Wizards,115,,"13,052",Capital One Arena,Monday
+2019/11/04,7:30p,New Orleans Pelicans,125,Brooklyn Nets,135,,"17,194",Barclays Center,Monday
+2019/11/04,8:00p,Houston Rockets,107,Memphis Grizzlies,100,,"14,197",FedEx Forum,Monday
+2019/11/04,8:00p,Milwaukee Bucks,134,Minnesota Timberwolves,106,,"16,271",Target Center,Monday
+2019/11/04,9:00p,Philadelphia 76ers,109,Phoenix Suns,114,,"14,285",Talking Stick Resort Arena,Monday
+2019/11/04,10:30p,Portland Trail Blazers,118,Golden State Warriors,127,,"18,064",Chase Center,Monday
+2019/11/05,7:00p,Indiana Pacers,120,Charlotte Hornets,122,OT,"13,341",Spectrum Center,Tuesday
+2019/11/05,7:00p,Boston Celtics,119,Cleveland Cavaliers,113,,"17,709",Rocket Mortgage Fieldhouse,Tuesday
+2019/11/05,7:30p,San Antonio Spurs,100,Atlanta Hawks,108,,"14,025",State Farm Arena,Tuesday
+2019/11/05,8:00p,Los Angeles Lakers,118,Chicago Bulls,112,,"21,193",United Center,Tuesday
+2019/11/05,8:00p,Orlando Magic,94,Oklahoma City Thunder,102,,"18,203",Chesapeake Energy Arena,Tuesday
+2019/11/05,9:00p,Miami Heat,89,Denver Nuggets,109,,"18,010",Pepsi Center,Tuesday
+2019/11/06,7:00p,New York Knicks,102,Detroit Pistons,122,,"15,463",Little Caesars Arena,Wednesday
+2019/11/06,7:00p,Washington Wizards,106,Indiana Pacers,121,,"16,171",Bankers Life Fieldhouse,Wednesday
+2019/11/06,7:30p,Chicago Bulls,113,Atlanta Hawks,93,,"15,049",State Farm Arena,Wednesday
+2019/11/06,7:30p,Golden State Warriors,112,Houston Rockets,129,,"18,055",Toyota Center,Wednesday
+2019/11/06,7:30p,Sacramento Kings,120,Toronto Raptors,124,,"19,800",Scotiabank Arena,Wednesday
+2019/11/06,8:00p,Minnesota Timberwolves,121,Memphis Grizzlies,137,,"13,503",FedEx Forum,Wednesday
+2019/11/06,8:30p,Orlando Magic,106,Dallas Mavericks,107,,"19,487",American Airlines Center,Wednesday
+2019/11/06,9:00p,Philadelphia 76ers,104,Utah Jazz,106,,"18,306",Vivint Smart Home Arena,Wednesday
+2019/11/06,10:00p,Milwaukee Bucks,129,Los Angeles Clippers,124,,"19,068",STAPLES Center,Wednesday
+2019/11/07,8:00p,Boston Celtics,108,Charlotte Hornets,87,,"18,487",Spectrum Center,Thursday
+2019/11/07,8:30p,Oklahoma City Thunder,112,San Antonio Spurs,121,,"18,354",AT&T Center,Thursday
+2019/11/07,9:00p,Miami Heat,124,Phoenix Suns,108,,"15,498",Talking Stick Resort Arena,Thursday
+2019/11/07,10:30p,Portland Trail Blazers,101,Los Angeles Clippers,107,,"19,068",STAPLES Center,Thursday
+2019/11/08,7:00p,Detroit Pistons,106,Indiana Pacers,112,,"15,544",Bankers Life Fieldhouse,Friday
+2019/11/08,7:00p,Memphis Grizzlies,86,Orlando Magic,118,,"17,021",Amway Center,Friday
+2019/11/08,7:00p,Cleveland Cavaliers,113,Washington Wizards,100,,"16,946",Capital One Arena,Friday
+2019/11/08,7:30p,Sacramento Kings,121,Atlanta Hawks,109,,"16,447",State Farm Arena,Friday
+2019/11/08,8:00p,Golden State Warriors,119,Minnesota Timberwolves,125,OT,"15,647",Target Center,Friday
+2019/11/08,8:00p,Toronto Raptors,122,New Orleans Pelicans,104,,"16,337",Smoothie King Center,Friday
+2019/11/08,8:30p,New York Knicks,106,Dallas Mavericks,102,,"20,257",American Airlines Center,Friday
+2019/11/08,9:00p,Philadelphia 76ers,97,Denver Nuggets,100,,"19,520",Pepsi Center,Friday
+2019/11/08,9:00p,Milwaukee Bucks,100,Utah Jazz,103,,"18,306",Vivint Smart Home Arena,Friday
+2019/11/08,10:00p,Brooklyn Nets,119,Portland Trail Blazers,115,,"20,089",Moda Center,Friday
+2019/11/08,10:30p,Miami Heat,80,Los Angeles Lakers,95,,"18,997",STAPLES Center,Friday
+2019/11/09,5:00p,Boston Celtics,135,San Antonio Spurs,115,,"18,354",AT&T Center,Saturday
+2019/11/09,7:00p,New Orleans Pelicans,115,Charlotte Hornets,110,,"18,513",Spectrum Center,Saturday
+2019/11/09,8:00p,Houston Rockets,117,Chicago Bulls,94,,"20,482",United Center,Saturday
+2019/11/09,8:00p,Dallas Mavericks,138,Memphis Grizzlies,122,,"15,753",FedEx Forum,Saturday
+2019/11/09,8:00p,Golden State Warriors,108,Oklahoma City Thunder,114,,"18,203",Chesapeake Energy Arena,Saturday
+2019/11/10,3:30p,Denver Nuggets,100,Minnesota Timberwolves,98,OT,"13,553",Target Center,Sunday
+2019/11/10,6:00p,Indiana Pacers,109,Orlando Magic,102,,"17,118",Amway Center,Sunday
+2019/11/10,6:00p,Charlotte Hornets,106,Philadelphia 76ers,114,,"20,311",Wells Fargo Center,Sunday
+2019/11/10,7:00p,Milwaukee Bucks,121,Oklahoma City Thunder,119,,"18,203",Chesapeake Energy Arena,Sunday
+2019/11/10,7:30p,Cleveland Cavaliers,108,New York Knicks,87,,"19,812",Madison Square Garden (IV),Sunday
+2019/11/10,8:00p,Brooklyn Nets,112,Phoenix Suns,138,,"17,290",Talking Stick Resort Arena,Sunday
+2019/11/10,9:00p,Atlanta Hawks,113,Portland Trail Blazers,124,OT,"20,041",Moda Center,Sunday
+2019/11/10,9:30p,Toronto Raptors,113,Los Angeles Lakers,104,,"18,997",STAPLES Center,Sunday
+2019/11/11,7:00p,Minnesota Timberwolves,120,Detroit Pistons,114,,"12,526",Little Caesars Arena,Monday
+2019/11/11,7:30p,Dallas Mavericks,106,Boston Celtics,116,,"18,624",TD Garden,Monday
+2019/11/11,7:30p,Memphis Grizzlies,113,San Antonio Spurs,109,,"18,627",AT&T Center,Monday
+2019/11/11,8:00p,Houston Rockets,122,New Orleans Pelicans,116,,"16,695",Smoothie King Center,Monday
+2019/11/11,10:30p,Utah Jazz,122,Golden State Warriors,108,,"18,064",Chase Center,Monday
+2019/11/11,10:30p,Toronto Raptors,88,Los Angeles Clippers,98,,"19,068",STAPLES Center,Monday
+2019/11/12,7:00p,Oklahoma City Thunder,85,Indiana Pacers,111,,"15,838",Bankers Life Fieldhouse,Tuesday
+2019/11/12,7:00p,Cleveland Cavaliers,97,Philadelphia 76ers,98,,"20,294",Wells Fargo Center,Tuesday
+2019/11/12,7:30p,Detroit Pistons,108,Miami Heat,117,,"19,600",AmericanAirlines Arena,Tuesday
+2019/11/12,8:00p,New York Knicks,102,Chicago Bulls,120,,"18,668",United Center,Tuesday
+2019/11/12,9:00p,Atlanta Hawks,125,Denver Nuggets,121,,"18,327",Pepsi Center,Tuesday
+2019/11/12,9:00p,Los Angeles Lakers,123,Phoenix Suns,115,,"18,055",Talking Stick Resort Arena,Tuesday
+2019/11/12,9:00p,Brooklyn Nets,114,Utah Jazz,119,,"18,306",Vivint Smart Home Arena,Tuesday
+2019/11/12,10:00p,Portland Trail Blazers,99,Sacramento Kings,107,,"16,358",Golden 1 Center,Tuesday
+2019/11/13,7:00p,Memphis Grizzlies,119,Charlotte Hornets,117,,"13,155",Spectrum Center,Wednesday
+2019/11/13,7:00p,Philadelphia 76ers,97,Orlando Magic,112,,"15,113",Amway Center,Wednesday
+2019/11/13,7:30p,Washington Wizards,133,Boston Celtics,140,,"19,156",TD Garden,Wednesday
+2019/11/13,7:30p,Los Angeles Clippers,93,Houston Rockets,102,,"18,055",Toyota Center,Wednesday
+2019/11/13,8:00p,San Antonio Spurs,114,Minnesota Timberwolves,129,,"11,581",Target Center,Wednesday
+2019/11/13,10:00p,Golden State Warriors,94,Los Angeles Lakers,120,,"18,997",STAPLES Center,Wednesday
+2019/11/13,10:00p,Toronto Raptors,114,Portland Trail Blazers,106,,"19,544",Moda Center,Wednesday
+2019/11/14,6:00p,Miami Heat,108,Cleveland Cavaliers,97,,"17,374",Rocket Mortgage Fieldhouse,Thursday
+2019/11/14,8:00p,Chicago Bulls,115,Milwaukee Bucks,124,,"17,627",Fiserv Forum,Thursday
+2019/11/14,8:00p,Los Angeles Clippers,127,New Orleans Pelicans,132,,"17,147",Smoothie King Center,Thursday
+2019/11/14,8:00p,Dallas Mavericks,103,New York Knicks,106,,"19,812",Madison Square Garden (IV),Thursday
+2019/11/14,9:00p,Atlanta Hawks,112,Phoenix Suns,128,,"15,143",Talking Stick Resort Arena,Thursday
+2019/11/14,10:30p,Brooklyn Nets,93,Denver Nuggets,101,,"18,394",Pepsi Center,Thursday
+2019/11/15,7:00p,Detroit Pistons,106,Charlotte Hornets,109,,"16,778",Spectrum Center,Friday
+2019/11/15,7:00p,San Antonio Spurs,109,Orlando Magic,111,,"16,296",Amway Center,Friday
+2019/11/15,8:00p,Indiana Pacers,102,Houston Rockets,111,,"18,055",Toyota Center,Friday
+2019/11/15,8:00p,Utah Jazz,106,Memphis Grizzlies,107,,"16,422",FedEx Forum,Friday
+2019/11/15,8:00p,Washington Wizards,137,Minnesota Timberwolves,116,,"12,716",Target Center,Friday
+2019/11/15,8:00p,Philadelphia 76ers,119,Oklahoma City Thunder,127,OT,"18,203",Chesapeake Energy Arena,Friday
+2019/11/15,10:30p,Boston Celtics,105,Golden State Warriors,100,,"18,064",Chase Center,Friday
+2019/11/15,10:30p,Sacramento Kings,97,Los Angeles Lakers,99,,"18,997",STAPLES Center,Friday
+2019/11/16,6:00p,Brooklyn Nets,117,Chicago Bulls,111,,"19,148",United Center,Saturday
+2019/11/16,7:00p,Milwaukee Bucks,102,Indiana Pacers,83,,"17,024",Bankers Life Fieldhouse,Saturday
+2019/11/16,7:30p,Charlotte Hornets,103,New York Knicks,102,,"19,401",Madison Square Garden (IV),Saturday
+2019/11/16,8:00p,New Orleans Pelicans,94,Miami Heat,109,,"19,600",AmericanAirlines Arena,Saturday
+2019/11/16,8:00p,Houston Rockets,125,Minnesota Timberwolves,105,,"18,978",Target Center,Saturday
+2019/11/16,8:30p,Toronto Raptors,102,Dallas Mavericks,110,,"19,926",American Airlines Center,Saturday
+2019/11/16,8:30p,Portland Trail Blazers,121,San Antonio Spurs,116,,"18,534",AT&T Center,Saturday
+2019/11/16,10:30p,Atlanta Hawks,101,Los Angeles Clippers,150,,"19,068",STAPLES Center,Saturday
+2019/11/17,3:00p,Philadelphia 76ers,114,Cleveland Cavaliers,95,,"19,432",Rocket Mortgage Fieldhouse,Sunday
+2019/11/17,3:30p,Boston Celtics,99,Sacramento Kings,100,,"16,633",Golden 1 Center,Sunday
+2019/11/17,6:00p,Denver Nuggets,131,Memphis Grizzlies,114,,"14,227",FedEx Forum,Sunday
+2019/11/17,6:00p,Washington Wizards,121,Orlando Magic,125,,"16,344",Amway Center,Sunday
+2019/11/17,7:00p,Golden State Warriors,100,New Orleans Pelicans,108,,"16,812",Smoothie King Center,Sunday
+2019/11/17,9:30p,Atlanta Hawks,101,Los Angeles Lakers,122,,"18,997",STAPLES Center,Sunday
+2019/11/18,7:00p,Cleveland Cavaliers,105,New York Knicks,123,,"17,097",Madison Square Garden (IV),Monday
+2019/11/18,7:30p,Indiana Pacers,115,Brooklyn Nets,86,,"14,140",Barclays Center,Monday
+2019/11/18,7:30p,Charlotte Hornets,96,Toronto Raptors,132,,"19,800",Scotiabank Arena,Monday
+2019/11/18,8:00p,Milwaukee Bucks,115,Chicago Bulls,101,,"17,565",United Center,Monday
+2019/11/18,8:00p,Portland Trail Blazers,108,Houston Rockets,132,,"18,055",Toyota Center,Monday
+2019/11/18,8:30p,San Antonio Spurs,110,Dallas Mavericks,117,,"19,637",American Airlines Center,Monday
+2019/11/18,9:00p,Boston Celtics,99,Phoenix Suns,85,,"15,193",Talking Stick Resort Arena,Monday
+2019/11/18,9:00p,Minnesota Timberwolves,112,Utah Jazz,102,,"18,306",Vivint Smart Home Arena,Monday
+2019/11/18,10:30p,Oklahoma City Thunder,88,Los Angeles Clippers,90,,"19,068",STAPLES Center,Monday
+2019/11/19,8:00p,Golden State Warriors,114,Memphis Grizzlies,95,,"14,511",FedEx Forum,Tuesday
+2019/11/19,8:00p,Portland Trail Blazers,104,New Orleans Pelicans,115,,"15,021",Smoothie King Center,Tuesday
+2019/11/19,10:00p,Phoenix Suns,116,Sacramento Kings,120,,"16,732",Golden 1 Center,Tuesday
+2019/11/19,10:30p,Oklahoma City Thunder,107,Los Angeles Lakers,112,,"18,997",STAPLES Center,Tuesday
+2019/11/20,7:00p,New York Knicks,104,Philadelphia 76ers,109,,"20,384",Wells Fargo Center,Wednesday
+2019/11/20,7:00p,San Antonio Spurs,132,Washington Wizards,138,,"14,579",Capital One Arena,Wednesday
+2019/11/20,7:30p,Milwaukee Bucks,135,Atlanta Hawks,127,,"16,441",State Farm Arena,Wednesday
+2019/11/20,7:30p,Charlotte Hornets,91,Brooklyn Nets,101,,"14,011",Barclays Center,Wednesday
+2019/11/20,7:30p,Golden State Warriors,94,Dallas Mavericks,142,,"19,569",American Airlines Center,Wednesday
+2019/11/20,7:30p,Cleveland Cavaliers,100,Miami Heat,124,,"19,600",AmericanAirlines Arena,Wednesday
+2019/11/20,7:30p,Orlando Magic,97,Toronto Raptors,113,,"19,800",Scotiabank Arena,Wednesday
+2019/11/20,8:00p,Detroit Pistons,89,Chicago Bulls,109,,"18,119",United Center,Wednesday
+2019/11/20,8:00p,Utah Jazz,103,Minnesota Timberwolves,95,,"13,177",Target Center,Wednesday
+2019/11/20,9:00p,Houston Rockets,95,Denver Nuggets,105,,"17,778",Pepsi Center,Wednesday
+2019/11/20,10:00p,Boston Celtics,104,Los Angeles Clippers,107,OT,"19,068",STAPLES Center,Wednesday
+2019/11/21,8:00p,Portland Trail Blazers,129,Milwaukee Bucks,137,,"17,385",Fiserv Forum,Thursday
+2019/11/21,10:30p,New Orleans Pelicans,124,Phoenix Suns,121,,"13,903",Talking Stick Resort Arena,Thursday
+2019/11/22,7:00p,Atlanta Hawks,103,Detroit Pistons,128,,"15,399",Little Caesars Arena,Friday
+2019/11/22,7:00p,Charlotte Hornets,118,Washington Wizards,125,,"15,053",Capital One Arena,Friday
+2019/11/22,7:30p,Sacramento Kings,97,Brooklyn Nets,116,,"15,619",Barclays Center,Friday
+2019/11/22,8:00p,Miami Heat,116,Chicago Bulls,108,,"18,953",United Center,Friday
+2019/11/22,8:00p,Los Angeles Lakers,130,Oklahoma City Thunder,127,,"18,203",Chesapeake Energy Arena,Friday
+2019/11/22,8:00p,San Antonio Spurs,104,Philadelphia 76ers,115,,"20,927",Wells Fargo Center,Friday
+2019/11/22,8:30p,Cleveland Cavaliers,101,Dallas Mavericks,143,,"19,639",American Airlines Center,Friday
+2019/11/22,9:00p,Boston Celtics,92,Denver Nuggets,96,,"19,520",Pepsi Center,Friday
+2019/11/22,9:00p,Golden State Warriors,109,Utah Jazz,113,,"18,306",Vivint Smart Home Arena,Friday
+2019/11/22,10:30p,Houston Rockets,119,Los Angeles Clippers,122,,"19,068",STAPLES Center,Friday
+2019/11/23,5:00p,Phoenix Suns,100,Minnesota Timberwolves,98,,"17,362",Target Center,Saturday
+2019/11/23,7:00p,Chicago Bulls,116,Charlotte Hornets,115,,"17,891",Spectrum Center,Saturday
+2019/11/23,7:00p,Orlando Magic,106,Indiana Pacers,111,,"16,446",Bankers Life Fieldhouse,Saturday
+2019/11/23,7:30p,Toronto Raptors,119,Atlanta Hawks,116,,"16,931",State Farm Arena,Saturday
+2019/11/23,7:30p,San Antonio Spurs,111,New York Knicks,104,,"19,320",Madison Square Garden (IV),Saturday
+2019/11/23,7:30p,Miami Heat,86,Philadelphia 76ers,113,,"21,017",Wells Fargo Center,Saturday
+2019/11/23,8:00p,Portland Trail Blazers,104,Cleveland Cavaliers,110,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2019/11/23,8:00p,Los Angeles Lakers,109,Memphis Grizzlies,108,,"17,794",FedEx Forum,Saturday
+2019/11/23,8:30p,Detroit Pistons,90,Milwaukee Bucks,104,,"17,585",Fiserv Forum,Saturday
+2019/11/23,9:00p,New Orleans Pelicans,120,Utah Jazz,128,,"18,306",Vivint Smart Home Arena,Saturday
+2019/11/24,3:30p,Dallas Mavericks,137,Houston Rockets,123,,"18,055",Toyota Center,Sunday
+2019/11/24,6:00p,Brooklyn Nets,103,New York Knicks,101,,"18,770",Madison Square Garden (IV),Sunday
+2019/11/24,6:00p,Sacramento Kings,113,Washington Wizards,106,,"15,885",Capital One Arena,Sunday
+2019/11/24,8:00p,Phoenix Suns,104,Denver Nuggets,116,,"19,520",Pepsi Center,Sunday
+2019/11/24,9:00p,New Orleans Pelicans,109,Los Angeles Clippers,134,,"19,068",STAPLES Center,Sunday
+2019/11/25,7:00p,Brooklyn Nets,108,Cleveland Cavaliers,106,,"17,143",Rocket Mortgage Fieldhouse,Monday
+2019/11/25,7:00p,Orlando Magic,88,Detroit Pistons,103,,"14,695",Little Caesars Arena,Monday
+2019/11/25,7:00p,Memphis Grizzlies,114,Indiana Pacers,126,,"15,141",Bankers Life Fieldhouse,Monday
+2019/11/25,7:30p,Minnesota Timberwolves,125,Atlanta Hawks,113,,"16,218",State Farm Arena,Monday
+2019/11/25,7:30p,Sacramento Kings,102,Boston Celtics,103,,"19,156",TD Garden,Monday
+2019/11/25,7:30p,Charlotte Hornets,100,Miami Heat,117,,"19,600",AmericanAirlines Arena,Monday
+2019/11/25,7:30p,Philadelphia 76ers,96,Toronto Raptors,101,,"19,800",Scotiabank Arena,Monday
+2019/11/25,8:00p,Portland Trail Blazers,117,Chicago Bulls,94,,"18,776",United Center,Monday
+2019/11/25,8:00p,Utah Jazz,118,Milwaukee Bucks,122,,"17,385",Fiserv Forum,Monday
+2019/11/25,8:30p,Los Angeles Lakers,114,San Antonio Spurs,104,,"18,498",AT&T Center,Monday
+2019/11/25,10:30p,Oklahoma City Thunder,100,Golden State Warriors,97,,"18,064",Chase Center,Monday
+2019/11/26,8:30p,Los Angeles Clippers,114,Dallas Mavericks,99,,"20,407",American Airlines Center,Tuesday
+2019/11/26,9:00p,Washington Wizards,104,Denver Nuggets,117,,"18,673",Pepsi Center,Tuesday
+2019/11/27,7:00p,Brooklyn Nets,110,Boston Celtics,121,,"19,156",TD Garden,Wednesday
+2019/11/27,7:00p,Detroit Pistons,101,Charlotte Hornets,102,,"15,535",Spectrum Center,Wednesday
+2019/11/27,7:00p,Orlando Magic,116,Cleveland Cavaliers,104,,"17,712",Rocket Mortgage Fieldhouse,Wednesday
+2019/11/27,7:00p,Utah Jazz,102,Indiana Pacers,121,,"17,027",Bankers Life Fieldhouse,Wednesday
+2019/11/27,7:00p,Sacramento Kings,91,Philadelphia 76ers,97,,"20,592",Wells Fargo Center,Wednesday
+2019/11/27,7:30p,New York Knicks,98,Toronto Raptors,126,,"19,800",Scotiabank Arena,Wednesday
+2019/11/27,8:00p,Miami Heat,108,Houston Rockets,117,,"18,055",Toyota Center,Wednesday
+2019/11/27,8:00p,Los Angeles Clippers,121,Memphis Grizzlies,119,,"16,721",FedEx Forum,Wednesday
+2019/11/27,8:00p,Atlanta Hawks,102,Milwaukee Bucks,111,,"17,525",Fiserv Forum,Wednesday
+2019/11/27,8:30p,Minnesota Timberwolves,113,San Antonio Spurs,101,,"18,354",AT&T Center,Wednesday
+2019/11/27,9:00p,Washington Wizards,140,Phoenix Suns,132,,"14,123",Talking Stick Resort Arena,Wednesday
+2019/11/27,9:30p,Los Angeles Lakers,114,New Orleans Pelicans,110,,"18,626",Smoothie King Center,Wednesday
+2019/11/27,10:00p,Oklahoma City Thunder,119,Portland Trail Blazers,136,,"19,870",Moda Center,Wednesday
+2019/11/27,10:30p,Chicago Bulls,90,Golden State Warriors,104,,"18,064",Chase Center,Wednesday
+2019/11/29,12:00p,Boston Celtics,107,Brooklyn Nets,112,,"17,732",Barclays Center,Friday
+2019/11/29,7:00p,Charlotte Hornets,110,Detroit Pistons,107,,"15,006",Little Caesars Arena,Friday
+2019/11/29,7:00p,Toronto Raptors,90,Orlando Magic,83,,"17,014",Amway Center,Friday
+2019/11/29,7:30p,Milwaukee Bucks,119,Cleveland Cavaliers,110,,"19,432",Rocket Mortgage Fieldhouse,Friday
+2019/11/29,7:30p,Philadelphia 76ers,101,New York Knicks,95,,"18,109",Madison Square Garden (IV),Friday
+2019/11/29,8:00p,Atlanta Hawks,104,Indiana Pacers,105,OT,"15,827",Bankers Life Fieldhouse,Friday
+2019/11/29,8:00p,Utah Jazz,103,Memphis Grizzlies,94,,"16,605",FedEx Forum,Friday
+2019/11/29,8:00p,Golden State Warriors,105,Miami Heat,122,,"19,600",AmericanAirlines Arena,Friday
+2019/11/29,8:00p,New Orleans Pelicans,104,Oklahoma City Thunder,109,,"18,203",Chesapeake Energy Arena,Friday
+2019/11/29,8:30p,Los Angeles Clippers,97,San Antonio Spurs,107,,"18,354",AT&T Center,Friday
+2019/11/29,9:00p,Dallas Mavericks,120,Phoenix Suns,113,,"18,055",Talking Stick Resort Arena,Friday
+2019/11/29,10:00p,Chicago Bulls,103,Portland Trail Blazers,107,,"20,139",Moda Center,Friday
+2019/11/29,10:30p,Washington Wizards,103,Los Angeles Lakers,125,,"18,997",STAPLES Center,Friday
+2019/11/30,5:00p,Denver Nuggets,97,Sacramento Kings,100,OT,"17,583",Golden 1 Center,Saturday
+2019/11/30,7:00p,Indiana Pacers,116,Philadelphia 76ers,119,,"20,517",Wells Fargo Center,Saturday
+2019/11/30,8:00p,Atlanta Hawks,111,Houston Rockets,158,,"18,055",Toyota Center,Saturday
+2019/11/30,8:00p,Charlotte Hornets,96,Milwaukee Bucks,137,,"17,550",Fiserv Forum,Saturday
+2019/12/01,3:00p,Miami Heat,109,Brooklyn Nets,106,,"17,026",Barclays Center,Sunday
+2019/12/01,3:30p,Memphis Grizzlies,115,Minnesota Timberwolves,107,,"12,276",Target Center,Sunday
+2019/12/01,3:30p,Boston Celtics,113,New York Knicks,104,,"18,005",Madison Square Garden (IV),Sunday
+2019/12/01,4:00p,Dallas Mavericks,114,Los Angeles Lakers,100,,"18,997",STAPLES Center,Sunday
+2019/12/01,5:00p,San Antonio Spurs,98,Detroit Pistons,132,,"14,270",Little Caesars Arena,Sunday
+2019/12/01,5:00p,Oklahoma City Thunder,107,New Orleans Pelicans,104,,"15,427",Smoothie King Center,Sunday
+2019/12/01,6:00p,Golden State Warriors,96,Orlando Magic,100,,"15,052",Amway Center,Sunday
+2019/12/01,6:00p,Utah Jazz,110,Toronto Raptors,130,,"18,132",Scotiabank Arena,Sunday
+2019/12/01,10:30p,Washington Wizards,125,Los Angeles Clippers,150,,"19,068",STAPLES Center,Sunday
+2019/12/02,7:00p,Phoenix Suns,109,Charlotte Hornets,104,,"11,221",Spectrum Center,Monday
+2019/12/02,7:00p,Utah Jazz,94,Philadelphia 76ers,103,,"20,208",Wells Fargo Center,Monday
+2019/12/02,7:30p,Golden State Warriors,79,Atlanta Hawks,104,,"14,278",State Farm Arena,Monday
+2019/12/02,8:00p,Indiana Pacers,117,Memphis Grizzlies,104,,"11,919",FedEx Forum,Monday
+2019/12/02,8:00p,New York Knicks,88,Milwaukee Bucks,132,,"17,385",Fiserv Forum,Monday
+2019/12/02,10:00p,Chicago Bulls,113,Sacramento Kings,106,,"17,257",Golden 1 Center,Monday
+2019/12/03,7:00p,Detroit Pistons,127,Cleveland Cavaliers,94,,"17,504",Rocket Mortgage Fieldhouse,Tuesday
+2019/12/03,7:00p,Orlando Magic,127,Washington Wizards,120,,"13,159",Capital One Arena,Tuesday
+2019/12/03,7:30p,Dallas Mavericks,118,New Orleans Pelicans,97,,"14,664",Smoothie King Center,Tuesday
+2019/12/03,7:30p,Miami Heat,121,Toronto Raptors,110,OT,"19,800",Scotiabank Arena,Tuesday
+2019/12/03,8:30p,Houston Rockets,133,San Antonio Spurs,135,2OT,"18,354",AT&T Center,Tuesday
+2019/12/03,9:00p,Los Angeles Lakers,105,Denver Nuggets,96,,"19,658",Pepsi Center,Tuesday
+2019/12/03,10:00p,Portland Trail Blazers,97,Los Angeles Clippers,117,,"19,068",STAPLES Center,Tuesday
+2019/12/04,7:00p,Golden State Warriors,91,Charlotte Hornets,106,,"14,355",Spectrum Center,Wednesday
+2019/12/04,7:00p,Milwaukee Bucks,127,Detroit Pistons,103,,"15,742",Little Caesars Arena,Wednesday
+2019/12/04,7:00p,Phoenix Suns,114,Orlando Magic,128,,"15,176",Amway Center,Wednesday
+2019/12/04,7:30p,Brooklyn Nets,130,Atlanta Hawks,118,,"15,694",State Farm Arena,Wednesday
+2019/12/04,7:30p,Miami Heat,93,Boston Celtics,112,,"19,156",TD Garden,Wednesday
+2019/12/04,8:00p,Memphis Grizzlies,99,Chicago Bulls,106,,"15,017",United Center,Wednesday
+2019/12/04,8:00p,Indiana Pacers,107,Oklahoma City Thunder,100,,"18,203",Chesapeake Energy Arena,Wednesday
+2019/12/04,8:30p,Minnesota Timberwolves,114,Dallas Mavericks,121,,"19,671",American Airlines Center,Wednesday
+2019/12/04,9:00p,Los Angeles Lakers,121,Utah Jazz,96,,"18,306",Vivint Smart Home Arena,Wednesday
+2019/12/04,10:00p,Sacramento Kings,116,Portland Trail Blazers,127,,"19,393",Moda Center,Wednesday
+2019/12/05,7:00p,Philadelphia 76ers,113,Washington Wizards,119,,"16,554",Capital One Arena,Thursday
+2019/12/05,7:30p,Denver Nuggets,129,New York Knicks,92,,"18,171",Madison Square Garden (IV),Thursday
+2019/12/05,7:30p,Houston Rockets,119,Toronto Raptors,109,,"19,800",Scotiabank Arena,Thursday
+2019/12/05,8:00p,Phoenix Suns,139,New Orleans Pelicans,132,OT,"15,607",Smoothie King Center,Thursday
+2019/12/06,7:00p,Brooklyn Nets,111,Charlotte Hornets,104,,"15,075",Spectrum Center,Friday
+2019/12/06,7:00p,Orlando Magic,93,Cleveland Cavaliers,87,,"18,446",Rocket Mortgage Fieldhouse,Friday
+2019/12/06,7:00p,Indiana Pacers,101,Detroit Pistons,108,,"14,894",Little Caesars Arena,Friday
+2019/12/06,8:00p,Denver Nuggets,95,Boston Celtics,108,,"19,156",TD Garden,Friday
+2019/12/06,8:00p,Golden State Warriors,100,Chicago Bulls,98,,"18,841",United Center,Friday
+2019/12/06,8:00p,Washington Wizards,103,Miami Heat,112,,"19,600",AmericanAirlines Arena,Friday
+2019/12/06,8:00p,Minnesota Timberwolves,127,Oklahoma City Thunder,139,OT,"18,203",Chesapeake Energy Arena,Friday
+2019/12/06,8:30p,Los Angeles Clippers,91,Milwaukee Bucks,119,,"17,732",Fiserv Forum,Friday
+2019/12/06,8:30p,Sacramento Kings,104,San Antonio Spurs,105,OT,"18,354",AT&T Center,Friday
+2019/12/06,10:30p,Los Angeles Lakers,136,Portland Trail Blazers,113,,"19,912",Moda Center,Friday
+2019/12/07,2:00p,New Orleans Pelicans,84,Dallas Mavericks,130,,"19,456",American Airlines Center,Saturday
+2019/12/07,7:30p,Indiana Pacers,104,New York Knicks,103,,"19,110",Madison Square Garden (IV),Saturday
+2019/12/07,7:30p,Cleveland Cavaliers,94,Philadelphia 76ers,141,,"20,844",Wells Fargo Center,Saturday
+2019/12/07,8:00p,Phoenix Suns,109,Houston Rockets,115,,"18,055",Toyota Center,Saturday
+2019/12/07,10:00p,Memphis Grizzlies,112,Utah Jazz,126,,"18,306",Vivint Smart Home Arena,Saturday
+2019/12/08,3:00p,Denver Nuggets,102,Brooklyn Nets,105,,"16,679",Barclays Center,Sunday
+2019/12/08,5:00p,Atlanta Hawks,122,Charlotte Hornets,107,,"15,489",Spectrum Center,Sunday
+2019/12/08,6:00p,Chicago Bulls,105,Miami Heat,110,OT,"19,600",AmericanAirlines Arena,Sunday
+2019/12/08,6:00p,Toronto Raptors,104,Philadelphia 76ers,110,,"20,313",Wells Fargo Center,Sunday
+2019/12/08,6:00p,Los Angeles Clippers,135,Washington Wizards,119,,"15,946",Capital One Arena,Sunday
+2019/12/08,7:00p,Sacramento Kings,110,Dallas Mavericks,106,,"19,566",American Airlines Center,Sunday
+2019/12/08,9:00p,Oklahoma City Thunder,108,Portland Trail Blazers,96,,"19,393",Moda Center,Sunday
+2019/12/08,9:30p,Minnesota Timberwolves,125,Los Angeles Lakers,142,,"18,997",STAPLES Center,Sunday
+2019/12/09,7:00p,Los Angeles Clippers,110,Indiana Pacers,99,,"14,644",Bankers Life Fieldhouse,Monday
+2019/12/09,7:30p,Cleveland Cavaliers,88,Boston Celtics,110,,"19,156",TD Garden,Monday
+2019/12/09,8:00p,Toronto Raptors,93,Chicago Bulls,92,,"14,775",United Center,Monday
+2019/12/09,8:00p,Sacramento Kings,119,Houston Rockets,118,,"18,055",Toyota Center,Monday
+2019/12/09,8:00p,Orlando Magic,101,Milwaukee Bucks,110,,"17,385",Fiserv Forum,Monday
+2019/12/09,8:00p,Detroit Pistons,105,New Orleans Pelicans,103,,"13,694",Smoothie King Center,Monday
+2019/12/09,9:00p,Minnesota Timberwolves,109,Phoenix Suns,125,,"13,230",Talking Stick Resort Arena,Monday
+2019/12/09,9:00p,Oklahoma City Thunder,104,Utah Jazz,90,,"18,306",Vivint Smart Home Arena,Monday
+2019/12/09,10:30p,Memphis Grizzlies,110,Golden State Warriors,102,,"18,064",Chase Center,Monday
+2019/12/10,7:00p,Washington Wizards,107,Charlotte Hornets,114,,"10,626",Spectrum Center,Tuesday
+2019/12/10,8:00p,Atlanta Hawks,121,Miami Heat,135,OT,"19,600",AmericanAirlines Arena,Tuesday
+2019/12/10,8:00p,Denver Nuggets,92,Philadelphia 76ers,97,,"20,591",Wells Fargo Center,Tuesday
+2019/12/10,10:00p,New York Knicks,87,Portland Trail Blazers,115,,"19,393",Moda Center,Tuesday
+2019/12/11,7:00p,Houston Rockets,116,Cleveland Cavaliers,110,,"17,122",Rocket Mortgage Fieldhouse,Wednesday
+2019/12/11,7:00p,Boston Celtics,117,Indiana Pacers,122,,"15,637",Bankers Life Fieldhouse,Wednesday
+2019/12/11,7:00p,Los Angeles Lakers,96,Orlando Magic,87,,"18,846",Amway Center,Wednesday
+2019/12/11,7:00p,Los Angeles Clippers,112,Toronto Raptors,92,,"20,144",Scotiabank Arena,Wednesday
+2019/12/11,7:30p,Charlotte Hornets,113,Brooklyn Nets,108,,"15,631",Barclays Center,Wednesday
+2019/12/11,8:00p,Atlanta Hawks,102,Chicago Bulls,136,,"15,084",United Center,Wednesday
+2019/12/11,8:00p,Utah Jazz,127,Minnesota Timberwolves,116,,"12,369",Target Center,Wednesday
+2019/12/11,9:00p,Memphis Grizzlies,115,Phoenix Suns,108,,"12,254",Talking Stick Resort Arena,Wednesday
+2019/12/11,9:30p,New Orleans Pelicans,112,Milwaukee Bucks,127,,"17,385",Fiserv Forum,Wednesday
+2019/12/11,10:00p,Oklahoma City Thunder,93,Sacramento Kings,94,,"16,723",Golden 1 Center,Wednesday
+2019/12/11,10:30p,New York Knicks,124,Golden State Warriors,122,OT,"18,064",Chase Center,Wednesday
+2019/12/12,8:00p,Philadelphia 76ers,115,Boston Celtics,109,,"19,156",TD Garden,Thursday
+2019/12/12,8:30p,Cleveland Cavaliers,117,San Antonio Spurs,109,OT,"18,354",AT&T Center,Thursday
+2019/12/12,9:00p,Dallas Mavericks,122,Detroit Pistons,111,,"20,064",Mexico City Arena,Thursday
+2019/12/12,10:30p,Portland Trail Blazers,99,Denver Nuggets,114,,"18,828",Pepsi Center,Thursday
+2019/12/13,7:00p,Los Angeles Lakers,113,Miami Heat,110,,"20,013",AmericanAirlines Arena,Friday
+2019/12/13,7:00p,Houston Rockets,130,Orlando Magic,107,,"16,335",Amway Center,Friday
+2019/12/13,7:00p,New Orleans Pelicans,109,Philadelphia 76ers,116,,"20,620",Wells Fargo Center,Friday
+2019/12/13,7:30p,Indiana Pacers,110,Atlanta Hawks,100,,"15,121",State Farm Arena,Friday
+2019/12/13,8:00p,Charlotte Hornets,83,Chicago Bulls,73,,"18,377",United Center,Friday
+2019/12/13,8:00p,Milwaukee Bucks,127,Memphis Grizzlies,114,,"16,109",FedEx Forum,Friday
+2019/12/13,9:00p,Golden State Warriors,106,Utah Jazz,114,,"18,306",Vivint Smart Home Arena,Friday
+2019/12/13,9:30p,Los Angeles Clippers,124,Minnesota Timberwolves,117,,"17,585",Target Center,Friday
+2019/12/13,10:00p,New York Knicks,103,Sacramento Kings,101,,"17,583",Golden 1 Center,Friday
+2019/12/14,5:00p,San Antonio Spurs,121,Phoenix Suns,119,OT,"20,013",Mexico City Arena,Saturday
+2019/12/14,7:30p,Brooklyn Nets,102,Toronto Raptors,110,,"19,800",Scotiabank Arena,Saturday
+2019/12/14,8:00p,Los Angeles Clippers,106,Chicago Bulls,109,,"18,426",United Center,Saturday
+2019/12/14,8:00p,Washington Wizards,111,Memphis Grizzlies,128,,"15,631",FedEx Forum,Saturday
+2019/12/14,8:30p,Miami Heat,122,Dallas Mavericks,118,OT,"20,333",American Airlines Center,Saturday
+2019/12/14,8:30p,Cleveland Cavaliers,108,Milwaukee Bucks,125,,"17,481",Fiserv Forum,Saturday
+2019/12/14,9:00p,Oklahoma City Thunder,102,Denver Nuggets,110,,"19,520",Pepsi Center,Saturday
+2019/12/14,9:00p,Detroit Pistons,115,Houston Rockets,107,,"18,055",Toyota Center,Saturday
+2019/12/15,3:30p,Orlando Magic,130,New Orleans Pelicans,119,,"15,388",Smoothie King Center,Sunday
+2019/12/15,5:00p,Charlotte Hornets,85,Indiana Pacers,107,,"16,061",Bankers Life Fieldhouse,Sunday
+2019/12/15,6:00p,Los Angeles Lakers,101,Atlanta Hawks,96,,"16,962",State Farm Arena,Sunday
+2019/12/15,6:00p,Philadelphia 76ers,89,Brooklyn Nets,109,,"17,732",Barclays Center,Sunday
+2019/12/15,8:00p,New York Knicks,105,Denver Nuggets,111,,"18,867",Pepsi Center,Sunday
+2019/12/15,8:30p,Sacramento Kings,100,Golden State Warriors,79,,"18,064",Chase Center,Sunday
+2019/12/16,7:00p,Washington Wizards,133,Detroit Pistons,119,,"14,632",Little Caesars Arena,Monday
+2019/12/16,7:30p,Cleveland Cavaliers,113,Toronto Raptors,133,,"19,800",Scotiabank Arena,Monday
+2019/12/16,8:00p,San Antonio Spurs,107,Houston Rockets,109,,"18,055",Toyota Center,Monday
+2019/12/16,8:00p,Miami Heat,111,Memphis Grizzlies,118,,"14,021",FedEx Forum,Monday
+2019/12/16,8:00p,Dallas Mavericks,120,Milwaukee Bucks,116,,"17,727",Fiserv Forum,Monday
+2019/12/16,8:00p,Chicago Bulls,106,Oklahoma City Thunder,109,,"18,203",Chesapeake Energy Arena,Monday
+2019/12/16,9:00p,Portland Trail Blazers,111,Phoenix Suns,110,,"14,193",Talking Stick Resort Arena,Monday
+2019/12/17,7:00p,Sacramento Kings,102,Charlotte Hornets,110,,"13,229",Spectrum Center,Tuesday
+2019/12/17,7:00p,Los Angeles Lakers,102,Indiana Pacers,105,,"17,923",Bankers Life Fieldhouse,Tuesday
+2019/12/17,7:30p,Atlanta Hawks,120,New York Knicks,143,,"18,268",Madison Square Garden (IV),Tuesday
+2019/12/17,8:00p,Brooklyn Nets,108,New Orleans Pelicans,101,OT,"15,177",Smoothie King Center,Tuesday
+2019/12/17,9:00p,Orlando Magic,102,Utah Jazz,109,,"18,306",Vivint Smart Home Arena,Tuesday
+2019/12/17,10:30p,Phoenix Suns,99,Los Angeles Clippers,120,,"19,068",STAPLES Center,Tuesday
+2019/12/18,7:00p,Charlotte Hornets,98,Cleveland Cavaliers,100,,"17,023",Rocket Mortgage Fieldhouse,Wednesday
+2019/12/18,7:00p,Toronto Raptors,112,Detroit Pistons,99,,"15,319",Little Caesars Arena,Wednesday
+2019/12/18,7:00p,Miami Heat,108,Philadelphia 76ers,104,,"20,715",Wells Fargo Center,Wednesday
+2019/12/18,7:00p,Chicago Bulls,110,Washington Wizards,109,OT,"14,987",Capital One Arena,Wednesday
+2019/12/18,8:00p,New Orleans Pelicans,107,Minnesota Timberwolves,99,,"12,490",Target Center,Wednesday
+2019/12/18,8:00p,Memphis Grizzlies,122,Oklahoma City Thunder,126,,"18,203",Chesapeake Energy Arena,Wednesday
+2019/12/18,9:00p,Orlando Magic,104,Denver Nuggets,113,,"18,182",Pepsi Center,Wednesday
+2019/12/18,9:30p,Boston Celtics,109,Dallas Mavericks,103,,"20,181",American Airlines Center,Wednesday
+2019/12/18,10:00p,Golden State Warriors,112,Portland Trail Blazers,122,,"19,393",Moda Center,Wednesday
+2019/12/19,7:30p,Utah Jazz,111,Atlanta Hawks,106,,"16,739",State Farm Arena,Thursday
+2019/12/19,8:00p,Los Angeles Lakers,104,Milwaukee Bucks,111,,"18,051",Fiserv Forum,Thursday
+2019/12/19,8:30p,Brooklyn Nets,105,San Antonio Spurs,118,,"18,354",AT&T Center,Thursday
+2019/12/19,10:30p,Houston Rockets,122,Los Angeles Clippers,117,,"19,068",STAPLES Center,Thursday
+2019/12/20,7:00p,Memphis Grizzlies,107,Cleveland Cavaliers,114,,"19,432",Rocket Mortgage Fieldhouse,Friday
+2019/12/20,7:00p,Sacramento Kings,105,Indiana Pacers,119,,"14,649",Bankers Life Fieldhouse,Friday
+2019/12/20,7:30p,Detroit Pistons,93,Boston Celtics,114,,"19,156",TD Garden,Friday
+2019/12/20,7:30p,Washington Wizards,118,Toronto Raptors,122,,"19,800",Scotiabank Arena,Friday
+2019/12/20,8:00p,New York Knicks,114,Miami Heat,129,,"19,704",AmericanAirlines Arena,Friday
+2019/12/20,8:00p,Phoenix Suns,108,Oklahoma City Thunder,126,,"18,203",Chesapeake Energy Arena,Friday
+2019/12/20,8:00p,Dallas Mavericks,117,Philadelphia 76ers,98,,"20,778",Wells Fargo Center,Friday
+2019/12/20,9:00p,Minnesota Timberwolves,100,Denver Nuggets,109,,"19,520",Pepsi Center,Friday
+2019/12/20,10:00p,Orlando Magic,103,Portland Trail Blazers,118,,"19,393",Moda Center,Friday
+2019/12/20,10:30p,New Orleans Pelicans,102,Golden State Warriors,106,,"18,064",Chase Center,Friday
+2019/12/21,5:00p,Utah Jazz,114,Charlotte Hornets,107,,"16,187",Spectrum Center,Saturday
+2019/12/21,6:00p,Atlanta Hawks,112,Brooklyn Nets,122,,"16,496",Barclays Center,Saturday
+2019/12/21,7:00p,Chicago Bulls,119,Detroit Pistons,107,,"15,948",Little Caesars Arena,Saturday
+2019/12/21,7:00p,Washington Wizards,108,Philadelphia 76ers,125,,"20,529",Wells Fargo Center,Saturday
+2019/12/21,7:30p,Milwaukee Bucks,123,New York Knicks,102,,"18,124",Madison Square Garden (IV),Saturday
+2019/12/21,8:00p,Sacramento Kings,115,Memphis Grizzlies,119,,"15,603",FedEx Forum,Saturday
+2019/12/21,8:30p,Los Angeles Clippers,134,San Antonio Spurs,109,,"18,354",AT&T Center,Saturday
+2019/12/21,9:00p,Houston Rockets,139,Phoenix Suns,125,,"16,061",Talking Stick Resort Arena,Saturday
+2019/12/21,10:00p,Minnesota Timberwolves,106,Portland Trail Blazers,113,,"19,393",Moda Center,Saturday
+2019/12/22,3:30p,Dallas Mavericks,107,Toronto Raptors,110,,"19,800",Scotiabank Arena,Sunday
+2019/12/22,6:00p,Charlotte Hornets,93,Boston Celtics,119,,"19,156",TD Garden,Sunday
+2019/12/22,7:00p,Indiana Pacers,89,Milwaukee Bucks,117,,"18,029",Fiserv Forum,Sunday
+2019/12/22,7:00p,Los Angeles Clippers,112,Oklahoma City Thunder,118,,"18,203",Chesapeake Energy Arena,Sunday
+2019/12/22,9:30p,Denver Nuggets,128,Los Angeles Lakers,104,,"18,997",STAPLES Center,Sunday
+2019/12/23,7:00p,Atlanta Hawks,118,Cleveland Cavaliers,121,,"18,007",Rocket Mortgage Fieldhouse,Monday
+2019/12/23,7:00p,Philadelphia 76ers,125,Detroit Pistons,109,,"16,476",Little Caesars Arena,Monday
+2019/12/23,7:00p,Toronto Raptors,115,Indiana Pacers,120,OT,"17,164",Bankers Life Fieldhouse,Monday
+2019/12/23,7:00p,Washington Wizards,121,New York Knicks,115,,"19,413",Madison Square Garden (IV),Monday
+2019/12/23,7:00p,Chicago Bulls,95,Orlando Magic,103,,"18,846",Amway Center,Monday
+2019/12/23,7:30p,Utah Jazz,104,Miami Heat,107,,"19,890",AmericanAirlines Arena,Monday
+2019/12/23,8:00p,San Antonio Spurs,145,Memphis Grizzlies,115,,"16,776",FedEx Forum,Monday
+2019/12/23,9:00p,Denver Nuggets,113,Phoenix Suns,111,,"16,041",Talking Stick Resort Arena,Monday
+2019/12/23,10:00p,New Orleans Pelicans,102,Portland Trail Blazers,94,,"19,499",Moda Center,Monday
+2019/12/23,10:00p,Houston Rockets,113,Sacramento Kings,104,,"17,583",Golden 1 Center,Monday
+2019/12/23,10:30p,Minnesota Timberwolves,104,Golden State Warriors,113,,"18,064",Chase Center,Monday
+2019/12/25,12:00p,Boston Celtics,118,Toronto Raptors,102,,"19,800",Scotiabank Arena,Wednesday
+2019/12/25,2:30p,Milwaukee Bucks,109,Philadelphia 76ers,121,,"21,028",Wells Fargo Center,Wednesday
+2019/12/25,5:00p,Houston Rockets,104,Golden State Warriors,116,,"18,064",Chase Center,Wednesday
+2019/12/25,8:00p,Los Angeles Clippers,111,Los Angeles Lakers,106,,"18,997",STAPLES Center,Wednesday
+2019/12/25,10:30p,New Orleans Pelicans,112,Denver Nuggets,100,,"19,520",Pepsi Center,Wednesday
+2019/12/26,7:00p,Washington Wizards,102,Detroit Pistons,132,,"17,188",Little Caesars Arena,Thursday
+2019/12/26,7:30p,New York Knicks,94,Brooklyn Nets,82,,"17,732",Barclays Center,Thursday
+2019/12/26,8:00p,San Antonio Spurs,98,Dallas Mavericks,102,,"20,427",American Airlines Center,Thursday
+2019/12/26,8:00p,Memphis Grizzlies,110,Oklahoma City Thunder,97,,"18,203",Chesapeake Energy Arena,Thursday
+2019/12/26,10:00p,Minnesota Timberwolves,105,Sacramento Kings,104,2OT,"17,583",Golden 1 Center,Thursday
+2019/12/26,10:30p,Portland Trail Blazers,115,Utah Jazz,121,,"18,306",Vivint Smart Home Arena,Thursday
+2019/12/27,4:00p,Cleveland Cavaliers,117,Boston Celtics,129,,"19,156",TD Garden,Friday
+2019/12/27,7:00p,Oklahoma City Thunder,104,Charlotte Hornets,102,OT,"18,418",Spectrum Center,Friday
+2019/12/27,7:00p,Philadelphia 76ers,97,Orlando Magic,98,,"17,311",Amway Center,Friday
+2019/12/27,7:30p,Milwaukee Bucks,112,Atlanta Hawks,86,,"17,358",State Farm Arena,Friday
+2019/12/27,8:00p,Indiana Pacers,112,Miami Heat,113,,"19,767",AmericanAirlines Arena,Friday
+2019/12/27,10:30p,Phoenix Suns,96,Golden State Warriors,105,,"18,064",Chase Center,Friday
+2019/12/28,5:00p,Memphis Grizzlies,110,Denver Nuggets,119,,"19,697",Pepsi Center,Saturday
+2019/12/28,7:00p,Toronto Raptors,113,Boston Celtics,97,,"19,156",TD Garden,Saturday
+2019/12/28,7:00p,Indiana Pacers,98,New Orleans Pelicans,120,,"15,391",Smoothie King Center,Saturday
+2019/12/28,8:00p,Atlanta Hawks,81,Chicago Bulls,116,,"21,496",United Center,Saturday
+2019/12/28,8:00p,Brooklyn Nets,98,Houston Rockets,108,,"18,306",Toyota Center,Saturday
+2019/12/28,8:00p,Philadelphia 76ers,116,Miami Heat,117,OT,"19,865",AmericanAirlines Arena,Saturday
+2019/12/28,8:00p,Cleveland Cavaliers,94,Minnesota Timberwolves,88,,"15,411",Target Center,Saturday
+2019/12/28,8:00p,New York Knicks,107,Washington Wizards,100,,"19,033",Capital One Arena,Saturday
+2019/12/28,8:30p,Dallas Mavericks,141,Golden State Warriors,121,,"18,064",Chase Center,Saturday
+2019/12/28,8:30p,Orlando Magic,100,Milwaukee Bucks,111,,"17,920",Fiserv Forum,Saturday
+2019/12/28,8:30p,Detroit Pistons,109,San Antonio Spurs,136,,"18,524",AT&T Center,Saturday
+2019/12/28,9:00p,Phoenix Suns,112,Sacramento Kings,110,,"17,583",Golden 1 Center,Saturday
+2019/12/28,10:00p,Los Angeles Lakers,128,Portland Trail Blazers,120,,"19,960",Moda Center,Saturday
+2019/12/28,10:30p,Utah Jazz,120,Los Angeles Clippers,107,,"19,068",STAPLES Center,Saturday
+2019/12/29,6:00p,Oklahoma City Thunder,98,Toronto Raptors,97,,"19,800",Scotiabank Arena,Sunday
+2019/12/29,8:00p,Sacramento Kings,115,Denver Nuggets,120,,"19,520",Pepsi Center,Sunday
+2019/12/29,8:00p,Charlotte Hornets,104,Memphis Grizzlies,117,,"16,842",FedEx Forum,Sunday
+2019/12/29,8:00p,Houston Rockets,112,New Orleans Pelicans,127,,"17,712",Smoothie King Center,Sunday
+2019/12/29,9:30p,Dallas Mavericks,95,Los Angeles Lakers,108,,"18,997",STAPLES Center,Sunday
+2019/12/30,7:00p,Atlanta Hawks,101,Orlando Magic,93,,"17,784",Amway Center,Monday
+2019/12/30,7:00p,Miami Heat,105,Washington Wizards,123,,"20,476",Capital One Arena,Monday
+2019/12/30,8:00p,Milwaukee Bucks,123,Chicago Bulls,102,,"21,954",United Center,Monday
+2019/12/30,8:00p,Brooklyn Nets,115,Minnesota Timberwolves,122,OT,"15,824",Target Center,Monday
+2019/12/30,9:00p,Detroit Pistons,81,Utah Jazz,104,,"18,306",Vivint Smart Home Arena,Monday
+2019/12/30,10:00p,Phoenix Suns,122,Portland Trail Blazers,116,,"19,896",Moda Center,Monday
+2019/12/31,3:00p,Boston Celtics,109,Charlotte Hornets,92,,"19,216",Spectrum Center,Tuesday
+2019/12/31,3:00p,Philadelphia 76ers,97,Indiana Pacers,115,,"17,923",Bankers Life Fieldhouse,Tuesday
+2019/12/31,5:00p,Los Angeles Clippers,105,Sacramento Kings,87,,"16,231",Golden 1 Center,Tuesday
+2019/12/31,7:00p,Denver Nuggets,104,Houston Rockets,130,,"18,055",Toyota Center,Tuesday
+2019/12/31,7:00p,Golden State Warriors,113,San Antonio Spurs,117,OT,"18,354",AT&T Center,Tuesday
+2019/12/31,7:00p,Cleveland Cavaliers,97,Toronto Raptors,117,,"19,800",Scotiabank Arena,Tuesday
+2019/12/31,8:00p,Dallas Mavericks,101,Oklahoma City Thunder,106,,"18,203",Chesapeake Energy Arena,Tuesday
+2020/01/01,6:00p,Orlando Magic,122,Washington Wizards,101,,"14,921",Capital One Arena,Wednesday
+2020/01/01,7:30p,Portland Trail Blazers,93,New York Knicks,117,,"19,812",Madison Square Garden (IV),Wednesday
+2020/01/01,8:00p,Minnesota Timberwolves,104,Milwaukee Bucks,106,,"17,819",Fiserv Forum,Wednesday
+2020/01/01,10:30p,Phoenix Suns,107,Los Angeles Lakers,117,,"18,997",STAPLES Center,Wednesday
+2020/01/02,7:00p,Charlotte Hornets,109,Cleveland Cavaliers,106,,"17,859",Rocket Mortgage Fieldhouse,Thursday
+2020/01/02,7:00p,Denver Nuggets,124,Indiana Pacers,116,,"16,688",Bankers Life Fieldhouse,Thursday
+2020/01/02,7:30p,Toronto Raptors,76,Miami Heat,84,,"19,939",AmericanAirlines Arena,Thursday
+2020/01/02,8:00p,Utah Jazz,102,Chicago Bulls,98,,"19,398",United Center,Thursday
+2020/01/02,8:00p,Golden State Warriors,84,Minnesota Timberwolves,99,,"15,477",Target Center,Thursday
+2020/01/02,8:30p,Brooklyn Nets,111,Dallas Mavericks,123,,"20,289",American Airlines Center,Thursday
+2020/01/02,8:30p,Oklahoma City Thunder,109,San Antonio Spurs,103,,"18,354",AT&T Center,Thursday
+2020/01/02,10:00p,Memphis Grizzlies,123,Sacramento Kings,128,,"17,351",Golden 1 Center,Thursday
+2020/01/02,10:30p,Detroit Pistons,112,Los Angeles Clippers,126,,"19,068",STAPLES Center,Thursday
+2020/01/03,7:00p,Atlanta Hawks,106,Boston Celtics,109,,"19,156",TD Garden,Friday
+2020/01/03,7:00p,Miami Heat,85,Orlando Magic,105,,"17,198",Amway Center,Friday
+2020/01/03,7:00p,Portland Trail Blazers,122,Washington Wizards,103,,"17,945",Capital One Arena,Friday
+2020/01/03,8:00p,Philadelphia 76ers,108,Houston Rockets,118,,"18,055",Toyota Center,Friday
+2020/01/03,9:00p,New York Knicks,112,Phoenix Suns,120,,"18,055",Talking Stick Resort Arena,Friday
+2020/01/03,10:30p,New Orleans Pelicans,113,Los Angeles Lakers,123,,"18,997",STAPLES Center,Friday
+2020/01/04,3:30p,Memphis Grizzlies,140,Los Angeles Clippers,114,,"19,068",STAPLES Center,Saturday
+2020/01/04,6:00p,Toronto Raptors,121,Brooklyn Nets,102,,"17,732",Barclays Center,Saturday
+2020/01/04,7:00p,Utah Jazz,109,Orlando Magic,96,,"16,913",Amway Center,Saturday
+2020/01/04,7:30p,Indiana Pacers,111,Atlanta Hawks,116,,"16,420",State Farm Arena,Saturday
+2020/01/04,7:30p,Oklahoma City Thunder,121,Cleveland Cavaliers,106,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2020/01/04,8:00p,Boston Celtics,111,Chicago Bulls,104,,"21,130",United Center,Saturday
+2020/01/04,8:00p,Denver Nuggets,114,Washington Wizards,128,,"16,233",Capital One Arena,Saturday
+2020/01/04,8:30p,Charlotte Hornets,123,Dallas Mavericks,120,OT,"20,327",American Airlines Center,Saturday
+2020/01/04,8:30p,Detroit Pistons,111,Golden State Warriors,104,,"18,064",Chase Center,Saturday
+2020/01/04,8:30p,San Antonio Spurs,118,Milwaukee Bucks,127,,"18,002",Fiserv Forum,Saturday
+2020/01/04,10:00p,New Orleans Pelicans,117,Sacramento Kings,115,,"16,808",Golden 1 Center,Saturday
+2020/01/05,3:30p,New York Knicks,132,Los Angeles Clippers,135,,"19,068",STAPLES Center,Sunday
+2020/01/05,6:00p,Portland Trail Blazers,111,Miami Heat,122,,"19,846",AmericanAirlines Arena,Sunday
+2020/01/05,7:30p,Minnesota Timberwolves,118,Cleveland Cavaliers,103,,"16,159",Rocket Mortgage Fieldhouse,Sunday
+2020/01/05,8:00p,Memphis Grizzlies,121,Phoenix Suns,114,,"14,181",Talking Stick Resort Arena,Sunday
+2020/01/05,10:00p,Detroit Pistons,99,Los Angeles Lakers,106,,"18,997",STAPLES Center,Sunday
+2020/01/06,7:00p,Indiana Pacers,115,Charlotte Hornets,104,,"13,009",Spectrum Center,Monday
+2020/01/06,7:00p,Brooklyn Nets,89,Orlando Magic,101,,"15,008",Amway Center,Monday
+2020/01/06,7:00p,Oklahoma City Thunder,113,Philadelphia 76ers,120,,"20,561",Wells Fargo Center,Monday
+2020/01/06,7:00p,Boston Celtics,94,Washington Wizards,99,,"17,963",Capital One Arena,Monday
+2020/01/06,7:30p,Denver Nuggets,123,Atlanta Hawks,115,,"15,286",State Farm Arena,Monday
+2020/01/06,8:00p,Utah Jazz,128,New Orleans Pelicans,126,,"14,138",Smoothie King Center,Monday
+2020/01/06,8:30p,Chicago Bulls,110,Dallas Mavericks,118,,"20,238",American Airlines Center,Monday
+2020/01/06,8:30p,Milwaukee Bucks,104,San Antonio Spurs,126,,"18,354",AT&T Center,Monday
+2020/01/06,10:00p,Golden State Warriors,98,Sacramento Kings,111,,"15,819",Golden 1 Center,Monday
+2020/01/07,7:00p,Detroit Pistons,115,Cleveland Cavaliers,113,,"17,274",Rocket Mortgage Fieldhouse,Tuesday
+2020/01/07,7:00p,Portland Trail Blazers,101,Toronto Raptors,99,,"19,800",Scotiabank Arena,Tuesday
+2020/01/07,7:30p,Oklahoma City Thunder,111,Brooklyn Nets,103,OT,"15,677",Barclays Center,Tuesday
+2020/01/07,8:00p,Minnesota Timberwolves,112,Memphis Grizzlies,119,,"14,117",FedEx Forum,Tuesday
+2020/01/07,9:00p,Sacramento Kings,114,Phoenix Suns,103,,"14,134",Talking Stick Resort Arena,Tuesday
+2020/01/07,10:30p,New York Knicks,87,Los Angeles Lakers,117,,"18,997",STAPLES Center,Tuesday
+2020/01/08,7:00p,San Antonio Spurs,129,Boston Celtics,114,,"19,156",TD Garden,Wednesday
+2020/01/08,7:00p,Toronto Raptors,112,Charlotte Hornets,110,OT,"13,965",Spectrum Center,Wednesday
+2020/01/08,7:00p,Miami Heat,122,Indiana Pacers,108,,"17,040",Bankers Life Fieldhouse,Wednesday
+2020/01/08,7:00p,Washington Wizards,89,Orlando Magic,123,,"16,013",Amway Center,Wednesday
+2020/01/08,7:30p,Houston Rockets,122,Atlanta Hawks,115,,"16,514",State Farm Arena,Wednesday
+2020/01/08,7:30p,Denver Nuggets,107,Dallas Mavericks,106,,"20,314",American Airlines Center,Wednesday
+2020/01/08,8:00p,Chicago Bulls,108,New Orleans Pelicans,123,,"15,324",Smoothie King Center,Wednesday
+2020/01/08,9:00p,New York Knicks,104,Utah Jazz,128,,"18,306",Vivint Smart Home Arena,Wednesday
+2020/01/08,10:00p,Milwaukee Bucks,107,Golden State Warriors,98,,"18,064",Chase Center,Wednesday
+2020/01/09,7:00p,Cleveland Cavaliers,115,Detroit Pistons,112,OT,"13,445",Little Caesars Arena,Thursday
+2020/01/09,7:00p,Boston Celtics,98,Philadelphia 76ers,109,,"20,822",Wells Fargo Center,Thursday
+2020/01/09,8:00p,Portland Trail Blazers,102,Minnesota Timberwolves,116,,"13,720",Target Center,Thursday
+2020/01/09,9:30p,Houston Rockets,92,Oklahoma City Thunder,113,,"18,203",Chesapeake Energy Arena,Thursday
+2020/01/10,7:00p,Atlanta Hawks,101,Washington Wizards,111,,"16,360",Capital One Arena,Friday
+2020/01/10,7:15p,New Orleans Pelicans,123,New York Knicks,111,,"18,003",Madison Square Garden (IV),Friday
+2020/01/10,7:30p,Miami Heat,113,Brooklyn Nets,117,,"16,011",Barclays Center,Friday
+2020/01/10,8:00p,Indiana Pacers,116,Chicago Bulls,105,,"20,229",United Center,Friday
+2020/01/10,8:00p,San Antonio Spurs,121,Memphis Grizzlies,134,,"16,448",FedEx Forum,Friday
+2020/01/10,9:00p,Orlando Magic,94,Phoenix Suns,98,,"14,562",Talking Stick Resort Arena,Friday
+2020/01/10,9:00p,Charlotte Hornets,92,Utah Jazz,109,,"18,306",Vivint Smart Home Arena,Friday
+2020/01/10,9:45p,Los Angeles Lakers,129,Dallas Mavericks,114,,"20,542",American Airlines Center,Friday
+2020/01/10,10:00p,Milwaukee Bucks,127,Sacramento Kings,106,,"17,583",Golden 1 Center,Friday
+2020/01/10,10:30p,Golden State Warriors,100,Los Angeles Clippers,109,,"19,068",STAPLES Center,Friday
+2020/01/11,5:00p,Minnesota Timberwolves,109,Houston Rockets,139,,"18,055",Toyota Center,Saturday
+2020/01/11,7:00p,New Orleans Pelicans,105,Boston Celtics,140,,"19,156",TD Garden,Saturday
+2020/01/11,7:00p,Chicago Bulls,108,Detroit Pistons,99,,"15,951",Little Caesars Arena,Saturday
+2020/01/11,8:00p,Los Angeles Lakers,125,Oklahoma City Thunder,110,,"18,203",Chesapeake Energy Arena,Saturday
+2020/01/11,8:30p,Philadelphia 76ers,91,Dallas Mavericks,109,,"20,244",American Airlines Center,Saturday
+2020/01/11,9:00p,Cleveland Cavaliers,111,Denver Nuggets,103,,"19,533",Pepsi Center,Saturday
+2020/01/11,10:00p,Milwaukee Bucks,122,Portland Trail Blazers,101,,"19,843",Moda Center,Saturday
+2020/01/12,3:30p,Miami Heat,121,New York Knicks,124,,"18,861",Madison Square Garden (IV),Sunday
+2020/01/12,3:30p,Utah Jazz,127,Washington Wizards,116,,"15,953",Capital One Arena,Sunday
+2020/01/12,6:00p,Atlanta Hawks,86,Brooklyn Nets,108,,"15,201",Barclays Center,Sunday
+2020/01/12,6:00p,Golden State Warriors,102,Memphis Grizzlies,122,,"16,408",FedEx Forum,Sunday
+2020/01/12,6:00p,San Antonio Spurs,105,Toronto Raptors,104,,"19,800",Scotiabank Arena,Sunday
+2020/01/12,8:00p,Los Angeles Clippers,104,Denver Nuggets,114,,"19,520",Pepsi Center,Sunday
+2020/01/12,8:00p,Charlotte Hornets,92,Phoenix Suns,100,,"14,751",Talking Stick Resort Arena,Sunday
+2020/01/13,7:00p,New Orleans Pelicans,117,Detroit Pistons,110,OT,"13,780",Little Caesars Arena,Monday
+2020/01/13,7:00p,Philadelphia 76ers,95,Indiana Pacers,101,,"15,257",Bankers Life Fieldhouse,Monday
+2020/01/13,7:30p,Chicago Bulls,101,Boston Celtics,113,,"19,156",TD Garden,Monday
+2020/01/13,8:00p,Oklahoma City Thunder,117,Minnesota Timberwolves,104,,"11,044",Target Center,Monday
+2020/01/13,10:00p,Charlotte Hornets,112,Portland Trail Blazers,115,,"19,111",Moda Center,Monday
+2020/01/13,10:00p,Orlando Magic,114,Sacramento Kings,112,,"16,299",Golden 1 Center,Monday
+2020/01/13,10:30p,Cleveland Cavaliers,99,Los Angeles Lakers,128,,"18,997",STAPLES Center,Monday
+2020/01/14,7:30p,Phoenix Suns,110,Atlanta Hawks,123,,"16,060",State Farm Arena,Tuesday
+2020/01/14,7:30p,Utah Jazz,118,Brooklyn Nets,107,,"15,381",Barclays Center,Tuesday
+2020/01/14,8:00p,Houston Rockets,110,Memphis Grizzlies,121,,"16,181",FedEx Forum,Tuesday
+2020/01/14,8:00p,New York Knicks,102,Milwaukee Bucks,128,,"17,590",Fiserv Forum,Tuesday
+2020/01/14,10:30p,Dallas Mavericks,124,Golden State Warriors,97,,"18,064",Chase Center,Tuesday
+2020/01/14,10:30p,Cleveland Cavaliers,103,Los Angeles Clippers,128,,"19,068",STAPLES Center,Tuesday
+2020/01/15,7:00p,Detroit Pistons,116,Boston Celtics,103,,"19,156",TD Garden,Wednesday
+2020/01/15,7:00p,Brooklyn Nets,106,Philadelphia 76ers,117,,"20,416",Wells Fargo Center,Wednesday
+2020/01/15,7:30p,San Antonio Spurs,100,Miami Heat,106,,"19,704",AmericanAirlines Arena,Wednesday
+2020/01/15,8:00p,Washington Wizards,106,Chicago Bulls,115,,"19,382",United Center,Wednesday
+2020/01/15,8:00p,Indiana Pacers,104,Minnesota Timberwolves,99,,"12,648",Target Center,Wednesday
+2020/01/15,8:00p,Toronto Raptors,130,Oklahoma City Thunder,121,,"18,203",Chesapeake Energy Arena,Wednesday
+2020/01/15,9:00p,Charlotte Hornets,86,Denver Nuggets,100,,"19,520",Pepsi Center,Wednesday
+2020/01/15,9:30p,Portland Trail Blazers,117,Houston Rockets,107,,"18,055",Toyota Center,Wednesday
+2020/01/15,10:00p,Dallas Mavericks,127,Sacramento Kings,123,,"17,029",Golden 1 Center,Wednesday
+2020/01/15,10:30p,Orlando Magic,119,Los Angeles Lakers,118,,"18,997",STAPLES Center,Wednesday
+2020/01/16,7:30p,Phoenix Suns,121,New York Knicks,98,,"18,215",Madison Square Garden (IV),Thursday
+2020/01/16,8:00p,Boston Celtics,123,Milwaukee Bucks,128,,"17,873",Fiserv Forum,Thursday
+2020/01/16,8:00p,Utah Jazz,132,New Orleans Pelicans,138,OT,"16,717",Smoothie King Center,Thursday
+2020/01/16,10:30p,Denver Nuggets,134,Golden State Warriors,131,OT,"18,064",Chase Center,Thursday
+2020/01/16,10:30p,Orlando Magic,95,Los Angeles Clippers,122,,"19,068",STAPLES Center,Thursday
+2020/01/17,7:00p,Minnesota Timberwolves,114,Indiana Pacers,116,,"16,248",Bankers Life Fieldhouse,Friday
+2020/01/17,7:00p,Chicago Bulls,89,Philadelphia 76ers,100,,"20,919",Wells Fargo Center,Friday
+2020/01/17,7:00p,Washington Wizards,111,Toronto Raptors,140,,"19,800",Scotiabank Arena,Friday
+2020/01/17,8:00p,Cleveland Cavaliers,109,Memphis Grizzlies,113,,"17,102",FedEx Forum,Friday
+2020/01/17,8:00p,Miami Heat,115,Oklahoma City Thunder,108,,"18,203",Chesapeake Energy Arena,Friday
+2020/01/17,8:30p,Atlanta Hawks,121,San Antonio Spurs,120,,"18,354",AT&T Center,Friday
+2020/01/17,9:30p,Portland Trail Blazers,112,Dallas Mavericks,120,,"20,283",American Airlines Center,Friday
+2020/01/18,3:30p,Los Angeles Clippers,133,New Orleans Pelicans,130,,"17,959",Smoothie King Center,Saturday
+2020/01/18,6:00p,Milwaukee Bucks,117,Brooklyn Nets,97,,"17,732",Barclays Center,Saturday
+2020/01/18,7:00p,Phoenix Suns,123,Boston Celtics,119,,"19,156",TD Garden,Saturday
+2020/01/18,7:30p,Detroit Pistons,136,Atlanta Hawks,103,,"17,056",State Farm Arena,Saturday
+2020/01/18,7:30p,Philadelphia 76ers,90,New York Knicks,87,,"17,812",Madison Square Garden (IV),Saturday
+2020/01/18,8:00p,Cleveland Cavaliers,116,Chicago Bulls,118,,"19,939",United Center,Saturday
+2020/01/18,8:00p,Toronto Raptors,122,Minnesota Timberwolves,112,,"16,520",Target Center,Saturday
+2020/01/18,8:30p,Orlando Magic,95,Golden State Warriors,109,,"18,064",Chase Center,Saturday
+2020/01/18,8:30p,Los Angeles Lakers,124,Houston Rockets,115,,"18,502",Toyota Center,Saturday
+2020/01/18,9:00p,Portland Trail Blazers,106,Oklahoma City Thunder,119,,"18,203",Chesapeake Energy Arena,Saturday
+2020/01/18,9:00p,Sacramento Kings,101,Utah Jazz,123,,"18,306",Vivint Smart Home Arena,Saturday
+2020/01/19,3:00p,Miami Heat,102,San Antonio Spurs,107,,"18,422",AT&T Center,Sunday
+2020/01/19,8:00p,Indiana Pacers,115,Denver Nuggets,107,,"19,520",Pepsi Center,Sunday
+2020/01/20,2:00p,Detroit Pistons,100,Washington Wizards,106,,"17,305",Capital One Arena,Monday
+2020/01/20,2:30p,Toronto Raptors,122,Atlanta Hawks,117,,"17,300",State Farm Arena,Monday
+2020/01/20,3:00p,Philadelphia 76ers,117,Brooklyn Nets,111,,"16,801",Barclays Center,Monday
+2020/01/20,5:00p,Orlando Magic,106,Charlotte Hornets,83,,"16,133",Spectrum Center,Monday
+2020/01/20,5:00p,New York Knicks,106,Cleveland Cavaliers,86,,"17,133",Rocket Mortgage Fieldhouse,Monday
+2020/01/20,5:00p,Oklahoma City Thunder,112,Houston Rockets,107,,"18,055",Toyota Center,Monday
+2020/01/20,5:00p,New Orleans Pelicans,126,Memphis Grizzlies,116,,"17,794",FedEx Forum,Monday
+2020/01/20,5:00p,Sacramento Kings,113,Miami Heat,118,OT,"19,600",AmericanAirlines Arena,Monday
+2020/01/20,5:00p,Chicago Bulls,98,Milwaukee Bucks,111,,"17,747",Fiserv Forum,Monday
+2020/01/20,7:30p,Los Angeles Lakers,107,Boston Celtics,139,,"19,156",TD Garden,Monday
+2020/01/20,8:00p,Denver Nuggets,107,Minnesota Timberwolves,100,,"12,172",Target Center,Monday
+2020/01/20,9:00p,San Antonio Spurs,120,Phoenix Suns,118,,"14,847",Talking Stick Resort Arena,Monday
+2020/01/20,9:00p,Indiana Pacers,88,Utah Jazz,118,,"18,306",Vivint Smart Home Arena,Monday
+2020/01/20,10:00p,Golden State Warriors,124,Portland Trail Blazers,129,OT,"19,493",Moda Center,Monday
+2020/01/21,8:30p,Los Angeles Clippers,110,Dallas Mavericks,107,,"19,783",American Airlines Center,Tuesday
+2020/01/22,7:00p,Sacramento Kings,106,Detroit Pistons,127,,"13,972",Little Caesars Arena,Wednesday
+2020/01/22,7:00p,Oklahoma City Thunder,120,Orlando Magic,114,,"18,846",Amway Center,Wednesday
+2020/01/22,7:00p,Philadelphia 76ers,95,Toronto Raptors,107,,"19,800",Scotiabank Arena,Wednesday
+2020/01/22,7:30p,Los Angeles Clippers,95,Atlanta Hawks,102,,"14,338",State Farm Arena,Wednesday
+2020/01/22,7:30p,Memphis Grizzlies,95,Boston Celtics,119,,"19,156",TD Garden,Wednesday
+2020/01/22,7:30p,Washington Wizards,129,Miami Heat,134,OT,"19,600",AmericanAirlines Arena,Wednesday
+2020/01/22,7:30p,Los Angeles Lakers,100,New York Knicks,92,,"19,812",Madison Square Garden (IV),Wednesday
+2020/01/22,8:00p,Minnesota Timberwolves,110,Chicago Bulls,117,,"18,875",United Center,Wednesday
+2020/01/22,8:00p,Denver Nuggets,105,Houston Rockets,121,,"18,055",Toyota Center,Wednesday
+2020/01/22,9:00p,Indiana Pacers,112,Phoenix Suns,87,,"14,691",Talking Stick Resort Arena,Wednesday
+2020/01/22,9:30p,San Antonio Spurs,121,New Orleans Pelicans,117,,"18,365",Smoothie King Center,Wednesday
+2020/01/22,10:00p,Utah Jazz,129,Golden State Warriors,96,,"18,064",Chase Center,Wednesday
+2020/01/23,7:00p,Washington Wizards,124,Cleveland Cavaliers,112,,"16,689",Rocket Mortgage Fieldhouse,Thursday
+2020/01/23,8:00p,Los Angeles Lakers,128,Brooklyn Nets,113,,"17,732",Barclays Center,Thursday
+2020/01/23,10:30p,Dallas Mavericks,133,Portland Trail Blazers,125,,"19,574",Moda Center,Thursday
+2020/01/24,3:00p,Milwaukee Bucks,116,Charlotte Hornets,103,,"15,758",AccorHotels Arena,Friday
+2020/01/24,7:00p,Memphis Grizzlies,125,Detroit Pistons,112,,"14,583",Little Caesars Arena,Friday
+2020/01/24,7:00p,Boston Celtics,109,Orlando Magic,98,,"18,846",Amway Center,Friday
+2020/01/24,7:30p,Toronto Raptors,118,New York Knicks,112,,"18,883",Madison Square Garden (IV),Friday
+2020/01/24,8:00p,Sacramento Kings,98,Chicago Bulls,81,,"17,661",United Center,Friday
+2020/01/24,8:00p,Los Angeles Clippers,122,Miami Heat,117,,"19,632",AmericanAirlines Arena,Friday
+2020/01/24,8:00p,Houston Rockets,131,Minnesota Timberwolves,124,,"16,101",Target Center,Friday
+2020/01/24,8:00p,Denver Nuggets,113,New Orleans Pelicans,106,,"16,398",Smoothie King Center,Friday
+2020/01/24,8:00p,Atlanta Hawks,111,Oklahoma City Thunder,140,,"18,203",Chesapeake Energy Arena,Friday
+2020/01/24,8:30p,Phoenix Suns,103,San Antonio Spurs,99,,"18,354",AT&T Center,Friday
+2020/01/24,10:30p,Indiana Pacers,129,Golden State Warriors,118,,"18,064",Chase Center,Friday
+2020/01/25,5:00p,Dallas Mavericks,107,Utah Jazz,112,,"18,306",Vivint Smart Home Arena,Saturday
+2020/01/25,7:00p,Brooklyn Nets,121,Detroit Pistons,111,OT,"15,890",Little Caesars Arena,Saturday
+2020/01/25,8:00p,Chicago Bulls,118,Cleveland Cavaliers,106,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2020/01/25,8:00p,Oklahoma City Thunder,113,Minnesota Timberwolves,104,,"16,236",Target Center,Saturday
+2020/01/25,8:30p,Los Angeles Lakers,91,Philadelphia 76ers,108,,"21,109",Wells Fargo Center,Saturday
+2020/01/26,3:30p,Houston Rockets,110,Denver Nuggets,117,,"19,520",Pepsi Center,Sunday
+2020/01/26,4:00p,Toronto Raptors,110,San Antonio Spurs,106,,"18,354",AT&T Center,Sunday
+2020/01/26,6:00p,Washington Wizards,133,Atlanta Hawks,152,,"15,567",State Farm Arena,Sunday
+2020/01/26,6:00p,Phoenix Suns,109,Memphis Grizzlies,114,,"17,214",FedEx Forum,Sunday
+2020/01/26,6:00p,Boston Celtics,108,New Orleans Pelicans,123,,"16,737",Smoothie King Center,Sunday
+2020/01/26,6:00p,Brooklyn Nets,97,New York Knicks,110,,"17,831",Madison Square Garden (IV),Sunday
+2020/01/26,6:00p,Los Angeles Clippers,112,Orlando Magic,97,,"15,427",Amway Center,Sunday
+2020/01/26,9:00p,Indiana Pacers,129,Portland Trail Blazers,139,,"19,663",Moda Center,Sunday
+2020/01/27,7:00p,Cleveland Cavaliers,115,Detroit Pistons,100,,"12,597",Little Caesars Arena,Monday
+2020/01/27,7:30p,Orlando Magic,92,Miami Heat,113,,"19,600",AmericanAirlines Arena,Monday
+2020/01/27,8:00p,San Antonio Spurs,109,Chicago Bulls,110,,"16,071",United Center,Monday
+2020/01/27,8:00p,Sacramento Kings,133,Minnesota Timberwolves,129,OT,"13,449",Target Center,Monday
+2020/01/27,8:00p,Dallas Mavericks,107,Oklahoma City Thunder,97,,"18,203",Chesapeake Energy Arena,Monday
+2020/01/27,9:00p,Houston Rockets,126,Utah Jazz,117,,"18,306",Vivint Smart Home Arena,Monday
+2020/01/28,7:00p,New York Knicks,92,Charlotte Hornets,97,,"14,342",Spectrum Center,Tuesday
+2020/01/28,7:00p,Golden State Warriors,104,Philadelphia 76ers,115,,"20,854",Wells Fargo Center,Tuesday
+2020/01/28,7:30p,New Orleans Pelicans,125,Cleveland Cavaliers,111,,"19,432",Rocket Mortgage Fieldhouse,Tuesday
+2020/01/28,7:30p,Atlanta Hawks,114,Toronto Raptors,130,,"19,800",Scotiabank Arena,Tuesday
+2020/01/28,8:00p,Denver Nuggets,96,Memphis Grizzlies,104,,"14,365",FedEx Forum,Tuesday
+2020/01/28,8:00p,Boston Celtics,109,Miami Heat,101,,"19,704",AmericanAirlines Arena,Tuesday
+2020/01/28,8:00p,Washington Wizards,131,Milwaukee Bucks,151,,"17,681",Fiserv Forum,Tuesday
+2020/01/28,8:30p,Phoenix Suns,133,Dallas Mavericks,104,,"20,216",American Airlines Center,Tuesday
+2020/01/29,7:00p,Chicago Bulls,106,Indiana Pacers,115,OT,"17,923",Bankers Life Fieldhouse,Wednesday
+2020/01/29,7:30p,Detroit Pistons,115,Brooklyn Nets,125,,"14,275",Barclays Center,Wednesday
+2020/01/29,7:30p,Memphis Grizzlies,127,New York Knicks,106,,"18,768",Madison Square Garden (IV),Wednesday
+2020/01/29,8:30p,Utah Jazz,120,San Antonio Spurs,127,,"17,887",AT&T Center,Wednesday
+2020/01/29,10:00p,Houston Rockets,112,Portland Trail Blazers,125,,"19,393",Moda Center,Wednesday
+2020/01/29,10:00p,Oklahoma City Thunder,120,Sacramento Kings,100,,"16,935",Golden 1 Center,Wednesday
+2020/01/30,7:00p,Toronto Raptors,115,Cleveland Cavaliers,109,,"17,695",Rocket Mortgage Fieldhouse,Thursday
+2020/01/30,7:00p,Charlotte Hornets,107,Washington Wizards,121,,"15,013",Capital One Arena,Thursday
+2020/01/30,7:30p,Philadelphia 76ers,117,Atlanta Hawks,127,,"15,227",State Farm Arena,Thursday
+2020/01/30,8:00p,Golden State Warriors,104,Boston Celtics,119,,"19,156",TD Garden,Thursday
+2020/01/30,10:30p,Utah Jazz,100,Denver Nuggets,106,,"19,520",Pepsi Center,Thursday
+2020/01/30,10:30p,Sacramento Kings,124,Los Angeles Clippers,103,,"19,068",STAPLES Center,Thursday
+2020/01/31,7:00p,Toronto Raptors,105,Detroit Pistons,92,,"17,356",Little Caesars Arena,Friday
+2020/01/31,7:30p,Chicago Bulls,118,Brooklyn Nets,133,,"17,732",Barclays Center,Friday
+2020/01/31,7:30p,Dallas Mavericks,121,Houston Rockets,128,,"18,055",Toyota Center,Friday
+2020/01/31,8:00p,Memphis Grizzlies,111,New Orleans Pelicans,139,,"18,362",Smoothie King Center,Friday
+2020/01/31,9:00p,Denver Nuggets,127,Milwaukee Bucks,115,,"18,141",Fiserv Forum,Friday
+2020/01/31,9:00p,Oklahoma City Thunder,111,Phoenix Suns,107,,"17,260",Talking Stick Resort Arena,Friday
+2020/01/31,10:30p,Portland Trail Blazers,127,Los Angeles Lakers,119,,"18,997",STAPLES Center,Friday
+2020/02/01,3:30p,Minnesota Timberwolves,106,Los Angeles Clippers,118,,"19,068",STAPLES Center,Saturday
+2020/02/01,7:00p,New York Knicks,92,Indiana Pacers,85,,"17,923",Bankers Life Fieldhouse,Saturday
+2020/02/01,7:00p,Miami Heat,102,Orlando Magic,89,,"18,846",Amway Center,Saturday
+2020/02/01,8:00p,Golden State Warriors,131,Cleveland Cavaliers,112,,"18,410",Rocket Mortgage Fieldhouse,Saturday
+2020/02/01,8:00p,Brooklyn Nets,107,Washington Wizards,113,,"18,196",Capital One Arena,Saturday
+2020/02/01,8:30p,Philadelphia 76ers,95,Boston Celtics,116,,"19,156",TD Garden,Saturday
+2020/02/01,8:30p,Atlanta Hawks,100,Dallas Mavericks,123,,"20,328",American Airlines Center,Saturday
+2020/02/01,9:00p,Charlotte Hornets,90,San Antonio Spurs,114,,"18,615",AT&T Center,Saturday
+2020/02/01,10:00p,Los Angeles Lakers,129,Sacramento Kings,113,,"17,583",Golden 1 Center,Saturday
+2020/02/01,10:30p,Utah Jazz,107,Portland Trail Blazers,124,,"19,603",Moda Center,Saturday
+2020/02/02,12:30p,Denver Nuggets,123,Detroit Pistons,128,OT,"15,488",Little Caesars Arena,Sunday
+2020/02/02,2:00p,New Orleans Pelicans,109,Houston Rockets,117,,"18,055",Toyota Center,Sunday
+2020/02/02,2:00p,Phoenix Suns,108,Milwaukee Bucks,129,,"17,754",Fiserv Forum,Sunday
+2020/02/02,3:00p,Chicago Bulls,102,Toronto Raptors,129,,"19,800",Scotiabank Arena,Sunday
+2020/02/03,7:00p,Orlando Magic,112,Charlotte Hornets,100,,"12,337",Spectrum Center,Monday
+2020/02/03,7:00p,New York Knicks,139,Cleveland Cavaliers,134,OT,"16,303",Rocket Mortgage Fieldhouse,Monday
+2020/02/03,7:00p,Dallas Mavericks,112,Indiana Pacers,103,,"15,086",Bankers Life Fieldhouse,Monday
+2020/02/03,7:00p,Golden State Warriors,125,Washington Wizards,117,,"17,120",Capital One Arena,Monday
+2020/02/03,7:30p,Boston Celtics,123,Atlanta Hawks,115,,"16,231",State Farm Arena,Monday
+2020/02/03,7:30p,Phoenix Suns,97,Brooklyn Nets,119,,"14,891",Barclays Center,Monday
+2020/02/03,7:30p,Philadelphia 76ers,106,Miami Heat,137,,"19,725",AmericanAirlines Arena,Monday
+2020/02/03,8:00p,Detroit Pistons,82,Memphis Grizzlies,96,,"14,597",FedEx Forum,Monday
+2020/02/03,10:00p,Minnesota Timberwolves,109,Sacramento Kings,113,,"15,819",Golden 1 Center,Monday
+2020/02/03,10:30p,San Antonio Spurs,105,Los Angeles Clippers,108,,"19,068",STAPLES Center,Monday
+2020/02/04,7:30p,Milwaukee Bucks,120,New Orleans Pelicans,108,,"15,424",Smoothie King Center,Tuesday
+2020/02/04,8:00p,Charlotte Hornets,110,Houston Rockets,125,,"18,055",Toyota Center,Tuesday
+2020/02/04,9:00p,Portland Trail Blazers,99,Denver Nuggets,127,,"19,520",Pepsi Center,Tuesday
+2020/02/04,10:00p,San Antonio Spurs,102,Los Angeles Lakers,129,,"18,997",STAPLES Center,Tuesday
+2020/02/05,7:00p,Phoenix Suns,108,Detroit Pistons,116,,"13,707",Little Caesars Arena,Wednesday
+2020/02/05,7:30p,Orlando Magic,100,Boston Celtics,116,,"19,156",TD Garden,Wednesday
+2020/02/05,7:30p,Golden State Warriors,88,Brooklyn Nets,129,,"14,352",Barclays Center,Wednesday
+2020/02/05,7:30p,Indiana Pacers,118,Toronto Raptors,119,,"19,800",Scotiabank Arena,Wednesday
+2020/02/05,8:00p,Atlanta Hawks,127,Minnesota Timberwolves,120,,"10,779",Target Center,Wednesday
+2020/02/05,8:00p,Cleveland Cavaliers,103,Oklahoma City Thunder,109,,"18,203",Chesapeake Energy Arena,Wednesday
+2020/02/05,8:30p,Memphis Grizzlies,121,Dallas Mavericks,107,,"20,069",American Airlines Center,Wednesday
+2020/02/05,9:00p,Denver Nuggets,98,Utah Jazz,95,,"18,306",Vivint Smart Home Arena,Wednesday
+2020/02/05,10:00p,Miami Heat,111,Los Angeles Clippers,128,,"19,068",STAPLES Center,Wednesday
+2020/02/06,7:30p,Orlando Magic,103,New York Knicks,105,,"18,895",Madison Square Garden (IV),Thursday
+2020/02/06,8:00p,New Orleans Pelicans,125,Chicago Bulls,119,,"18,247",United Center,Thursday
+2020/02/06,8:00p,Philadelphia 76ers,101,Milwaukee Bucks,112,,"17,928",Fiserv Forum,Thursday
+2020/02/06,10:00p,San Antonio Spurs,117,Portland Trail Blazers,125,,"19,653",Moda Center,Thursday
+2020/02/06,10:30p,Houston Rockets,121,Los Angeles Lakers,111,,"18,997",STAPLES Center,Thursday
+2020/02/07,7:00p,Memphis Grizzlies,107,Philadelphia 76ers,119,,"20,779",Wells Fargo Center,Friday
+2020/02/07,7:00p,Dallas Mavericks,118,Washington Wizards,119,,"20,476",Capital One Arena,Friday
+2020/02/07,7:30p,Atlanta Hawks,107,Boston Celtics,112,,"19,156",TD Garden,Friday
+2020/02/07,8:00p,Toronto Raptors,115,Indiana Pacers,106,,"17,028",Bankers Life Fieldhouse,Friday
+2020/02/07,8:00p,Detroit Pistons,101,Oklahoma City Thunder,108,,"18,203",Chesapeake Energy Arena,Friday
+2020/02/07,9:00p,Houston Rockets,91,Phoenix Suns,127,,"17,043",Talking Stick Resort Arena,Friday
+2020/02/07,10:00p,Miami Heat,97,Sacramento Kings,105,,"16,760",Golden 1 Center,Friday
+2020/02/07,10:30p,Portland Trail Blazers,114,Utah Jazz,117,,"18,306",Vivint Smart Home Arena,Friday
+2020/02/08,5:00p,Milwaukee Bucks,111,Orlando Magic,95,,"16,632",Amway Center,Saturday
+2020/02/08,7:00p,Dallas Mavericks,116,Charlotte Hornets,100,,"19,370",Spectrum Center,Saturday
+2020/02/08,7:00p,New York Knicks,95,Detroit Pistons,92,,"15,980",Little Caesars Arena,Saturday
+2020/02/08,7:30p,New Orleans Pelicans,124,Indiana Pacers,117,,"17,923",Bankers Life Fieldhouse,Saturday
+2020/02/08,7:30p,Brooklyn Nets,118,Toronto Raptors,119,,"19,800",Scotiabank Arena,Saturday
+2020/02/08,8:00p,Los Angeles Clippers,115,Minnesota Timberwolves,142,,"18,978",Target Center,Saturday
+2020/02/08,8:30p,Los Angeles Lakers,125,Golden State Warriors,120,,"18,064",Chase Center,Saturday
+2020/02/08,9:00p,Denver Nuggets,117,Phoenix Suns,108,,"16,843",Talking Stick Resort Arena,Saturday
+2020/02/08,10:00p,San Antonio Spurs,102,Sacramento Kings,122,,"16,756",Golden 1 Center,Saturday
+2020/02/09,3:30p,Boston Celtics,112,Oklahoma City Thunder,111,,"18,203",Chesapeake Energy Arena,Sunday
+2020/02/09,6:00p,New York Knicks,135,Atlanta Hawks,140,2OT,"16,309",State Farm Arena,Sunday
+2020/02/09,6:00p,Chicago Bulls,111,Philadelphia 76ers,118,,"21,018",Wells Fargo Center,Sunday
+2020/02/09,6:00p,Memphis Grizzlies,106,Washington Wizards,99,,"17,251",Capital One Arena,Sunday
+2020/02/09,7:00p,Utah Jazz,114,Houston Rockets,113,,"18,055",Toyota Center,Sunday
+2020/02/09,7:30p,Los Angeles Clippers,133,Cleveland Cavaliers,92,,"17,240",Rocket Mortgage Fieldhouse,Sunday
+2020/02/09,9:00p,Miami Heat,109,Portland Trail Blazers,115,,"19,726",Moda Center,Sunday
+2020/02/10,7:00p,Charlotte Hornets,87,Detroit Pistons,76,,"13,941",Little Caesars Arena,Monday
+2020/02/10,7:00p,Brooklyn Nets,106,Indiana Pacers,105,,"16,761",Bankers Life Fieldhouse,Monday
+2020/02/10,7:00p,Atlanta Hawks,126,Orlando Magic,135,,"17,076",Amway Center,Monday
+2020/02/10,7:30p,Minnesota Timberwolves,126,Toronto Raptors,137,,"19,800",Scotiabank Arena,Monday
+2020/02/10,8:00p,Sacramento Kings,111,Milwaukee Bucks,123,,"17,463",Fiserv Forum,Monday
+2020/02/10,8:30p,Utah Jazz,123,Dallas Mavericks,119,,"19,793",American Airlines Center,Monday
+2020/02/10,9:00p,San Antonio Spurs,120,Denver Nuggets,127,,"19,520",Pepsi Center,Monday
+2020/02/10,10:30p,Miami Heat,113,Golden State Warriors,101,,"18,064",Chase Center,Monday
+2020/02/10,10:30p,Phoenix Suns,100,Los Angeles Lakers,125,,"18,997",STAPLES Center,Monday
+2020/02/11,7:00p,Los Angeles Clippers,103,Philadelphia 76ers,110,,"20,730",Wells Fargo Center,Tuesday
+2020/02/11,7:00p,Chicago Bulls,114,Washington Wizards,126,,"15,135",Capital One Arena,Tuesday
+2020/02/11,8:00p,Portland Trail Blazers,117,New Orleans Pelicans,138,,"15,739",Smoothie King Center,Tuesday
+2020/02/11,8:00p,San Antonio Spurs,114,Oklahoma City Thunder,106,,"18,203",Chesapeake Energy Arena,Tuesday
+2020/02/11,9:30p,Boston Celtics,105,Houston Rockets,116,,"18,055",Toyota Center,Tuesday
+2020/02/12,7:00p,Atlanta Hawks,105,Cleveland Cavaliers,127,,"16,200",Rocket Mortgage Fieldhouse,Wednesday
+2020/02/12,7:00p,Detroit Pistons,112,Orlando Magic,116,OT,"16,607",Amway Center,Wednesday
+2020/02/12,7:30p,Toronto Raptors,91,Brooklyn Nets,101,,"15,823",Barclays Center,Wednesday
+2020/02/12,7:30p,Milwaukee Bucks,111,Indiana Pacers,118,,"17,018",Bankers Life Fieldhouse,Wednesday
+2020/02/12,7:30p,Washington Wizards,114,New York Knicks,96,,"18,835",Madison Square Garden (IV),Wednesday
+2020/02/12,8:00p,Portland Trail Blazers,104,Memphis Grizzlies,111,,"16,889",FedEx Forum,Wednesday
+2020/02/12,8:00p,Charlotte Hornets,115,Minnesota Timberwolves,108,,"18,978",Target Center,Wednesday
+2020/02/12,8:30p,Sacramento Kings,111,Dallas Mavericks,130,,"19,842",American Airlines Center,Wednesday
+2020/02/12,9:00p,Golden State Warriors,106,Phoenix Suns,112,,"15,216",Talking Stick Resort Arena,Wednesday
+2020/02/12,9:00p,Miami Heat,101,Utah Jazz,116,,"18,306",Vivint Smart Home Arena,Wednesday
+2020/02/12,10:00p,Los Angeles Lakers,120,Denver Nuggets,116,OT,"19,860",Pepsi Center,Wednesday
+2020/02/13,8:00p,Los Angeles Clippers,133,Boston Celtics,141,2OT,"19,156",TD Garden,Thursday
+2020/02/13,8:00p,Oklahoma City Thunder,123,New Orleans Pelicans,118,,"17,865",Smoothie King Center,Thursday
+2020/02/20,7:00p,Milwaukee Bucks,126,Detroit Pistons,106,,"16,097",Little Caesars Arena,Thursday
+2020/02/20,7:30p,Miami Heat,124,Atlanta Hawks,129,,"17,356",State Farm Arena,Thursday
+2020/02/20,8:00p,Charlotte Hornets,103,Chicago Bulls,93,,"17,463",United Center,Thursday
+2020/02/20,8:00p,Brooklyn Nets,104,Philadelphia 76ers,112,OT,"20,806",Wells Fargo Center,Thursday
+2020/02/20,10:00p,Memphis Grizzlies,125,Sacramento Kings,129,,"17,078",Golden 1 Center,Thursday
+2020/02/20,10:30p,Houston Rockets,135,Golden State Warriors,105,,"18,064",Chase Center,Thursday
+2020/02/21,7:00p,Dallas Mavericks,122,Orlando Magic,106,,"18,846",Amway Center,Friday
+2020/02/21,7:00p,Cleveland Cavaliers,113,Washington Wizards,108,,"18,895",Capital One Arena,Friday
+2020/02/21,7:30p,Indiana Pacers,106,New York Knicks,98,,"19,812",Madison Square Garden (IV),Friday
+2020/02/21,7:30p,Phoenix Suns,101,Toronto Raptors,118,,"19,800",Scotiabank Arena,Friday
+2020/02/21,8:00p,Boston Celtics,127,Minnesota Timberwolves,117,,"18,978",Target Center,Friday
+2020/02/21,8:00p,Denver Nuggets,101,Oklahoma City Thunder,113,,"18,203",Chesapeake Energy Arena,Friday
+2020/02/21,9:00p,San Antonio Spurs,113,Utah Jazz,104,,"18,306",Vivint Smart Home Arena,Friday
+2020/02/21,10:30p,Memphis Grizzlies,105,Los Angeles Lakers,117,,"18,997",STAPLES Center,Friday
+2020/02/21,10:30p,New Orleans Pelicans,128,Portland Trail Blazers,115,,"19,946",Moda Center,Friday
+2020/02/22,3:30p,Sacramento Kings,112,Los Angeles Clippers,103,,"19,068",STAPLES Center,Saturday
+2020/02/22,7:00p,Brooklyn Nets,115,Charlotte Hornets,86,,"19,079",Spectrum Center,Saturday
+2020/02/22,7:30p,Dallas Mavericks,107,Atlanta Hawks,111,,"17,050",State Farm Arena,Saturday
+2020/02/22,8:00p,Phoenix Suns,112,Chicago Bulls,104,,"20,506",United Center,Saturday
+2020/02/22,8:00p,Cleveland Cavaliers,105,Miami Heat,124,,"19,754",AmericanAirlines Arena,Saturday
+2020/02/22,8:30p,Philadelphia 76ers,98,Milwaukee Bucks,119,,"18,290",Fiserv Forum,Saturday
+2020/02/22,9:00p,Houston Rockets,120,Utah Jazz,110,,"18,306",Vivint Smart Home Arena,Saturday
+2020/02/23,3:30p,Boston Celtics,112,Los Angeles Lakers,114,,"18,997",STAPLES Center,Sunday
+2020/02/23,6:00p,Minnesota Timberwolves,116,Denver Nuggets,128,,"19,626",Pepsi Center,Sunday
+2020/02/23,6:00p,Indiana Pacers,81,Toronto Raptors,127,,"19,800",Scotiabank Arena,Sunday
+2020/02/23,7:00p,Washington Wizards,117,Chicago Bulls,126,,"18,024",United Center,Sunday
+2020/02/23,7:00p,San Antonio Spurs,103,Oklahoma City Thunder,131,,"18,203",Chesapeake Energy Arena,Sunday
+2020/02/23,8:30p,New Orleans Pelicans,115,Golden State Warriors,101,,"18,064",Chase Center,Sunday
+2020/02/23,9:00p,Detroit Pistons,104,Portland Trail Blazers,107,,"19,393",Moda Center,Sunday
+2020/02/24,7:00p,Miami Heat,119,Cleveland Cavaliers,125,OT,"17,336",Rocket Mortgage Fieldhouse,Monday
+2020/02/24,7:00p,Atlanta Hawks,112,Philadelphia 76ers,129,,"20,836",Wells Fargo Center,Monday
+2020/02/24,7:00p,Milwaukee Bucks,137,Washington Wizards,134,OT,"16,580",Capital One Arena,Monday
+2020/02/24,7:30p,Orlando Magic,115,Brooklyn Nets,113,,"16,162",Barclays Center,Monday
+2020/02/24,8:00p,New York Knicks,112,Houston Rockets,123,,"18,055",Toyota Center,Monday
+2020/02/24,8:30p,Minnesota Timberwolves,123,Dallas Mavericks,139,,"19,936",American Airlines Center,Monday
+2020/02/24,9:00p,Phoenix Suns,131,Utah Jazz,111,,"18,306",Vivint Smart Home Arena,Monday
+2020/02/24,10:30p,Memphis Grizzlies,97,Los Angeles Clippers,124,,"19,068",STAPLES Center,Monday
+2020/02/25,7:00p,Charlotte Hornets,80,Indiana Pacers,119,,"16,088",Bankers Life Fieldhouse,Tuesday
+2020/02/25,7:30p,Milwaukee Bucks,108,Toronto Raptors,97,,"19,993",Scotiabank Arena,Tuesday
+2020/02/25,8:00p,Oklahoma City Thunder,124,Chicago Bulls,122,,"16,911",United Center,Tuesday
+2020/02/25,9:00p,Detroit Pistons,98,Denver Nuggets,115,,"19,143",Pepsi Center,Tuesday
+2020/02/25,10:00p,New Orleans Pelicans,109,Los Angeles Lakers,118,,"18,997",STAPLES Center,Tuesday
+2020/02/25,10:00p,Boston Celtics,118,Portland Trail Blazers,106,,"19,460",Moda Center,Tuesday
+2020/02/25,10:30p,Sacramento Kings,112,Golden State Warriors,94,,"18,064",Chase Center,Tuesday
+2020/02/26,7:00p,New York Knicks,101,Charlotte Hornets,107,,"13,152",Spectrum Center,Wednesday
+2020/02/26,7:00p,Philadelphia 76ers,94,Cleveland Cavaliers,108,,"16,332",Rocket Mortgage Fieldhouse,Wednesday
+2020/02/26,7:00p,Brooklyn Nets,106,Washington Wizards,110,,"15,021",Capital One Arena,Wednesday
+2020/02/26,7:30p,Orlando Magic,130,Atlanta Hawks,120,,"14,967",State Farm Arena,Wednesday
+2020/02/26,7:30p,Minnesota Timberwolves,129,Miami Heat,126,,"19,600",AmericanAirlines Arena,Wednesday
+2020/02/26,8:00p,Memphis Grizzlies,112,Houston Rockets,140,,"18,055",Toyota Center,Wednesday
+2020/02/26,8:30p,Dallas Mavericks,109,San Antonio Spurs,103,,"18,354",AT&T Center,Wednesday
+2020/02/26,9:00p,Los Angeles Clippers,102,Phoenix Suns,92,,"15,157",Talking Stick Resort Arena,Wednesday
+2020/02/26,10:30p,Boston Celtics,114,Utah Jazz,103,,"18,306",Vivint Smart Home Arena,Wednesday
+2020/02/27,7:00p,New York Knicks,106,Philadelphia 76ers,115,,"20,175",Wells Fargo Center,Thursday
+2020/02/27,8:00p,Portland Trail Blazers,100,Indiana Pacers,106,,"16,872",Bankers Life Fieldhouse,Thursday
+2020/02/27,8:00p,Sacramento Kings,108,Oklahoma City Thunder,112,,"18,203",Chesapeake Energy Arena,Thursday
+2020/02/27,10:30p,Los Angeles Lakers,116,Golden State Warriors,86,,"18,064",Chase Center,Thursday
+2020/02/28,7:00p,Minnesota Timberwolves,125,Orlando Magic,136,,"18,846",Amway Center,Friday
+2020/02/28,7:30p,Brooklyn Nets,118,Atlanta Hawks,141,,"17,034",State Farm Arena,Friday
+2020/02/28,7:30p,Charlotte Hornets,99,Toronto Raptors,96,,"19,800",Scotiabank Arena,Friday
+2020/02/28,8:00p,Sacramento Kings,104,Memphis Grizzlies,101,,"17,794",FedEx Forum,Friday
+2020/02/28,8:00p,Dallas Mavericks,118,Miami Heat,126,,"19,704",AmericanAirlines Arena,Friday
+2020/02/28,8:00p,Oklahoma City Thunder,86,Milwaukee Bucks,133,,"18,412",Fiserv Forum,Friday
+2020/02/28,8:00p,Cleveland Cavaliers,104,New Orleans Pelicans,116,,"18,304",Smoothie King Center,Friday
+2020/02/28,9:00p,Detroit Pistons,113,Phoenix Suns,111,,"17,142",Talking Stick Resort Arena,Friday
+2020/02/28,9:00p,Washington Wizards,119,Utah Jazz,129,,"18,306",Vivint Smart Home Arena,Friday
+2020/02/28,10:30p,Denver Nuggets,103,Los Angeles Clippers,132,,"19,068",STAPLES Center,Friday
+2020/02/29,5:00p,Chicago Bulls,115,New York Knicks,125,,"19,812",Madison Square Garden (IV),Saturday
+2020/02/29,7:30p,Portland Trail Blazers,117,Atlanta Hawks,129,,"17,765",State Farm Arena,Saturday
+2020/02/29,7:30p,Brooklyn Nets,113,Miami Heat,116,,"19,600",AmericanAirlines Arena,Saturday
+2020/02/29,8:00p,Indiana Pacers,113,Cleveland Cavaliers,104,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2020/02/29,8:00p,Los Angeles Lakers,88,Memphis Grizzlies,105,,"17,794",FedEx Forum,Saturday
+2020/02/29,8:30p,Houston Rockets,111,Boston Celtics,110,OT,"19,156",TD Garden,Saturday
+2020/02/29,8:30p,Orlando Magic,113,San Antonio Spurs,114,,"18,354",AT&T Center,Saturday
+2020/02/29,9:00p,Golden State Warriors,115,Phoenix Suns,99,,"16,395",Talking Stick Resort Arena,Saturday
+2020/03/01,1:00p,Milwaukee Bucks,93,Charlotte Hornets,85,,"19,149",Spectrum Center,Sunday
+2020/03/01,3:30p,Philadelphia 76ers,130,Los Angeles Clippers,136,,"19,068",STAPLES Center,Sunday
+2020/03/01,3:30p,Dallas Mavericks,111,Minnesota Timberwolves,91,,"18,058",Target Center,Sunday
+2020/03/01,6:00p,Toronto Raptors,118,Denver Nuggets,133,,"19,777",Pepsi Center,Sunday
+2020/03/01,6:00p,Detroit Pistons,100,Sacramento Kings,106,,"17,499",Golden 1 Center,Sunday
+2020/03/01,8:00p,Los Angeles Lakers,122,New Orleans Pelicans,114,,"18,547",Smoothie King Center,Sunday
+2020/03/01,8:30p,Washington Wizards,124,Golden State Warriors,110,,"18,064",Chase Center,Sunday
+2020/03/02,7:00p,Utah Jazz,126,Cleveland Cavaliers,113,,"15,453",Rocket Mortgage Fieldhouse,Monday
+2020/03/02,7:00p,Houston Rockets,123,New York Knicks,125,,"18,142",Madison Square Garden (IV),Monday
+2020/03/02,7:00p,Portland Trail Blazers,130,Orlando Magic,107,,"18,078",Amway Center,Monday
+2020/03/02,7:30p,Memphis Grizzlies,127,Atlanta Hawks,88,,"16,207",State Farm Arena,Monday
+2020/03/02,7:30p,Milwaukee Bucks,89,Miami Heat,105,,"19,600",AmericanAirlines Arena,Monday
+2020/03/02,8:00p,Dallas Mavericks,107,Chicago Bulls,109,,"18,407",United Center,Monday
+2020/03/02,8:30p,Indiana Pacers,116,San Antonio Spurs,111,,"17,635",AT&T Center,Monday
+2020/03/03,7:00p,San Antonio Spurs,104,Charlotte Hornets,103,,"12,008",Spectrum Center,Tuesday
+2020/03/03,7:30p,Brooklyn Nets,129,Boston Celtics,120,OT,"19,156",TD Garden,Tuesday
+2020/03/03,8:00p,Minnesota Timberwolves,139,New Orleans Pelicans,134,,"15,264",Smoothie King Center,Tuesday
+2020/03/03,8:00p,Los Angeles Clippers,109,Oklahoma City Thunder,94,,"18,203",Chesapeake Energy Arena,Tuesday
+2020/03/03,9:00p,Golden State Warriors,116,Denver Nuggets,100,,"19,520",Pepsi Center,Tuesday
+2020/03/03,9:00p,Toronto Raptors,123,Phoenix Suns,114,,"15,553",Talking Stick Resort Arena,Tuesday
+2020/03/03,10:00p,Philadelphia 76ers,107,Los Angeles Lakers,120,,"18,997",STAPLES Center,Tuesday
+2020/03/03,10:00p,Washington Wizards,126,Sacramento Kings,133,,"16,419",Golden 1 Center,Tuesday
+2020/03/04,7:00p,Boston Celtics,112,Cleveland Cavaliers,106,,"16,897",Rocket Mortgage Fieldhouse,Wednesday
+2020/03/04,7:00p,Oklahoma City Thunder,114,Detroit Pistons,107,,"15,138",Little Caesars Arena,Wednesday
+2020/03/04,7:00p,Indiana Pacers,100,Milwaukee Bucks,119,,"17,695",Fiserv Forum,Wednesday
+2020/03/04,7:30p,Memphis Grizzlies,118,Brooklyn Nets,79,,"16,941",Barclays Center,Wednesday
+2020/03/04,7:30p,Utah Jazz,112,New York Knicks,104,,"16,588",Madison Square Garden (IV),Wednesday
+2020/03/04,7:30p,Orlando Magic,113,Miami Heat,116,,"19,600",AmericanAirlines Arena,Wednesday
+2020/03/04,8:00p,Chicago Bulls,108,Minnesota Timberwolves,115,,"13,392",Target Center,Wednesday
+2020/03/04,9:30p,New Orleans Pelicans,123,Dallas Mavericks,127,OT,"20,459",American Airlines Center,Wednesday
+2020/03/04,10:00p,Washington Wizards,104,Portland Trail Blazers,125,,"19,393",Moda Center,Wednesday
+2020/03/05,7:00p,Denver Nuggets,114,Charlotte Hornets,112,,"13,311",Spectrum Center,Thursday
+2020/03/05,8:00p,Los Angeles Clippers,120,Houston Rockets,105,,"18,055",Toyota Center,Thursday
+2020/03/05,10:00p,Philadelphia 76ers,125,Sacramento Kings,108,,"15,485",Golden 1 Center,Thursday
+2020/03/05,10:30p,Toronto Raptors,121,Golden State Warriors,113,,"18,064",Chase Center,Thursday
+2020/03/06,7:00p,Atlanta Hawks,112,Washington Wizards,118,,"17,856",Capital One Arena,Friday
+2020/03/06,7:30p,San Antonio Spurs,120,Brooklyn Nets,139,,"16,277",Barclays Center,Friday
+2020/03/06,7:30p,Oklahoma City Thunder,126,New York Knicks,103,,"19,499",Madison Square Garden (IV),Friday
+2020/03/06,8:00p,Indiana Pacers,108,Chicago Bulls,102,,"20,229",United Center,Friday
+2020/03/06,8:00p,Orlando Magic,132,Minnesota Timberwolves,118,,"14,315",Target Center,Friday
+2020/03/06,8:00p,Miami Heat,104,New Orleans Pelicans,110,,"18,384",Smoothie King Center,Friday
+2020/03/06,8:00p,Utah Jazz,99,Boston Celtics,94,,"19,156",TD Garden,Friday
+2020/03/06,8:30p,Memphis Grizzlies,96,Dallas Mavericks,121,,"20,370",American Airlines Center,Friday
+2020/03/06,9:00p,Portland Trail Blazers,117,Phoenix Suns,127,,"15,522",Talking Stick Resort Arena,Friday
+2020/03/06,10:30p,Milwaukee Bucks,103,Los Angeles Lakers,113,,"18,997",STAPLES Center,Friday
+2020/03/07,5:00p,Houston Rockets,99,Charlotte Hornets,108,,"19,159",Spectrum Center,Saturday
+2020/03/07,7:00p,Utah Jazz,111,Detroit Pistons,105,,"16,590",Little Caesars Arena,Saturday
+2020/03/07,7:30p,Denver Nuggets,102,Cleveland Cavaliers,104,,"19,432",Rocket Mortgage Fieldhouse,Saturday
+2020/03/07,8:00p,Atlanta Hawks,101,Memphis Grizzlies,118,,"17,117",FedEx Forum,Saturday
+2020/03/07,8:30p,Philadelphia 76ers,114,Golden State Warriors,118,,"18,064",Chase Center,Saturday
+2020/03/07,10:00p,Sacramento Kings,123,Portland Trail Blazers,111,,"19,691",Moda Center,Saturday
+2020/03/08,3:00p,Chicago Bulls,107,Brooklyn Nets,110,,"15,916",Barclays Center,Sunday
+2020/03/08,3:30p,New Orleans Pelicans,120,Minnesota Timberwolves,107,,"18,978",Target Center,Sunday
+2020/03/08,3:30p,Los Angeles Lakers,112,Los Angeles Clippers,103,,"19,068",STAPLES Center,Sunday
+2020/03/08,6:00p,Oklahoma City Thunder,105,Boston Celtics,104,,"19,156",TD Garden,Sunday
+2020/03/08,6:00p,Milwaukee Bucks,131,Phoenix Suns,140,,"17,282",Talking Stick Resort Arena,Sunday
+2020/03/08,7:00p,Miami Heat,100,Washington Wizards,89,,"18,135",Capital One Arena,Sunday
+2020/03/08,7:00p,Indiana Pacers,112,Dallas Mavericks,109,,"20,324",American Airlines Center,Sunday
+2020/03/08,7:00p,Orlando Magic,126,Houston Rockets,106,,"18,055",Toyota Center,Sunday
+2020/03/08,7:30p,Detroit Pistons,84,New York Knicks,96,,"18,361",Madison Square Garden (IV),Sunday
+2020/03/08,7:30p,San Antonio Spurs,129,Cleveland Cavaliers,132,OT,"17,995",Rocket Mortgage Fieldhouse,Sunday
+2020/03/08,9:00p,Toronto Raptors,118,Sacramento Kings,113,,"16,449",Golden 1 Center,Sunday
+2020/03/09,7:30p,Charlotte Hornets,138,Atlanta Hawks,143,2OT,"14,399",State Farm Arena,Monday
+2020/03/09,9:00p,Milwaukee Bucks,95,Denver Nuggets,109,,"19,838",Pepsi Center,Monday
+2020/03/09,9:00p,Toronto Raptors,101,Utah Jazz,92,,"18,306",Vivint Smart Home Arena,Monday
+2020/03/10,7:00p,New York Knicks,115,Washington Wizards,122,,"15,048",Capital One Arena,Tuesday
+2020/03/10,7:00p,Boston Celtics,114,Indiana Pacers,111,,"17,053",Bankers Life Fieldhouse,Tuesday
+2020/03/10,8:00p,Minnesota Timberwolves,111,Houston Rockets,117,,"18,055",Toyota Center,Tuesday
+2020/03/10,8:00p,Dallas Mavericks,109,San Antonio Spurs,119,,"18,354",AT&T Center,Tuesday
+2020/03/10,8:00p,Orlando Magic,120,Memphis Grizzlies,115,,"15,388",FedEx Forum,Tuesday
+2020/03/10,8:00p,Cleveland Cavaliers,103,Chicago Bulls,108,,"17,837",United Center,Tuesday
+2020/03/10,10:00p,Phoenix Suns,105,Portland Trail Blazers,121,,"19,393",Moda Center,Tuesday
+2020/03/10,10:30p,Brooklyn Nets,104,Los Angeles Lakers,102,,"18,997",STAPLES Center,Tuesday
+2020/03/10,10:30p,Los Angeles Clippers,131,Golden State Warriors,107,,"18,064",Chase Center,Tuesday
+2020/03/11,7:00p,Detroit Pistons,106,Philadelphia 76ers,124,,"20,172",Wells Fargo Center,Wednesday
+2020/03/11,7:30p,New York Knicks,136,Atlanta Hawks,131,OT,"15,393",State Farm Arena,Wednesday
+2020/03/11,7:30p,Charlotte Hornets,109,Miami Heat,98,,"19,600",AmericanAirlines Arena,Wednesday
+2020/03/11,8:00p,Denver Nuggets,97,Dallas Mavericks,113,,"20,302",American Airlines Center,Wednesday
+2020/07/30,6:30p,Utah Jazz,106,New Orleans Pelicans,104,,,HP Field House,Thursday
+2020/07/30,9:00p,Los Angeles Clippers,101,Los Angeles Lakers,103,,,The Arena,Thursday
+2020/07/31,2:30p,Orlando Magic,128,Brooklyn Nets,118,,0,HP Field House,Friday
+2020/07/31,4:00p,Memphis Grizzlies,135,Portland Trail Blazers,140,OT,,The Arena,Friday
+2020/07/31,4:00p,Phoenix Suns,125,Washington Wizards,112,,,Visa Athletic Center,Friday
+2020/07/31,6:30p,Boston Celtics,112,Milwaukee Bucks,119,,,HP Field House,Friday
+2020/07/31,8:00p,Sacramento Kings,120,San Antonio Spurs,129,,,Visa Athletic Center,Friday
+2020/07/31,9:00p,Houston Rockets,153,Dallas Mavericks,149,OT,,The Arena,Friday
+2020/08/01,1:00p,Miami Heat,125,Denver Nuggets,105,,,HP Field House,Saturday
+2020/08/01,3:30p,Utah Jazz,94,Oklahoma City Thunder,110,,,The Arena,Saturday
+2020/08/01,6:00p,New Orleans Pelicans,103,Los Angeles Clippers,126,,,HP Field House,Saturday
+2020/08/01,7:00p,Philadelphia 76ers,121,Indiana Pacers,127,,,Visa Athletic Center,Saturday
+2020/08/01,8:30p,Los Angeles Lakers,92,Toronto Raptors,107,,,The Arena,Saturday
+2020/08/02,2:00p,Washington Wizards,110,Brooklyn Nets,118,,,HP Field House,Sunday
+2020/08/02,3:30p,Portland Trail Blazers,124,Boston Celtics,128,,,The Arena,Sunday
+2020/08/02,4:00p,San Antonio Spurs,108,Memphis Grizzlies,106,,,Visa Athletic Center,Sunday
+2020/08/02,6:00p,Sacramento Kings,116,Orlando Magic,132,,,HP Field House,Sunday
+2020/08/02,8:30p,Milwaukee Bucks,116,Houston Rockets,120,,,The Arena,Sunday
+2020/08/02,9:00p,Dallas Mavericks,115,Phoenix Suns,117,,,Visa Athletic Center,Sunday
+2020/08/03,1:30p,Toronto Raptors,107,Miami Heat,103,,,HP Field House,Monday
+2020/08/03,4:00p,Denver Nuggets,121,Oklahoma City Thunder,113,OT,,The Arena,Monday
+2020/08/03,4:00p,Indiana Pacers,111,Washington Wizards,100,,,Visa Athletic Center,Monday
+2020/08/03,6:30p,Memphis Grizzlies,99,New Orleans Pelicans,109,,,HP Field House,Monday
+2020/08/03,8:00p,San Antonio Spurs,130,Philadelphia 76ers,132,,,Visa Athletic Center,Monday
+2020/08/03,9:00p,Los Angeles Lakers,116,Utah Jazz,108,,,The Arena,Monday
+2020/08/04,1:30p,Brooklyn Nets,119,Milwaukee Bucks,116,,,Visa Athletic Center,Tuesday
+2020/08/04,2:30p,Dallas Mavericks,114,Sacramento Kings,110,OT,,HP Field House,Tuesday
+2020/08/04,4:00p,Phoenix Suns,117,Los Angeles Clippers,115,,,The Arena,Tuesday
+2020/08/04,6:00p,Orlando Magic,109,Indiana Pacers,120,,,Visa Athletic Center,Tuesday
+2020/08/04,6:30p,Boston Celtics,106,Miami Heat,112,,,HP Field House,Tuesday
+2020/08/04,9:00p,Houston Rockets,102,Portland Trail Blazers,110,,,The Arena,Tuesday
+2020/08/05,2:30p,Memphis Grizzlies,115,Utah Jazz,124,,,HP Field House,Wednesday
+2020/08/05,4:00p,Denver Nuggets,132,San Antonio Spurs,126,,,Visa Athletic Center,Wednesday
+2020/08/05,4:00p,Philadelphia 76ers,107,Washington Wizards,98,,,The Arena,Wednesday
+2020/08/05,6:30p,Oklahoma City Thunder,105,Los Angeles Lakers,86,,,HP Field House,Wednesday
+2020/08/05,8:00p,Toronto Raptors,109,Orlando Magic,99,,,Visa Athletic Center,Wednesday
+2020/08/05,9:00p,Brooklyn Nets,115,Boston Celtics,149,,,The Arena,Wednesday
+2020/08/06,1:30p,New Orleans Pelicans,125,Sacramento Kings,140,,,HP Field House,Thursday
+2020/08/06,4:00p,Miami Heat,116,Milwaukee Bucks,130,,,The Arena,Thursday
+2020/08/06,4:00p,Indiana Pacers,99,Phoenix Suns,114,,,Visa Athletic Center,Thursday
+2020/08/06,6:30p,Los Angeles Clippers,126,Dallas Mavericks,111,,,HP Field House,Thursday
+2020/08/06,8:00p,Portland Trail Blazers,125,Denver Nuggets,115,,,Visa Athletic Center,Thursday
+2020/08/06,9:00p,Los Angeles Lakers,97,Houston Rockets,113,,,The Arena,Thursday
+2020/08/07,1:00p,Utah Jazz,111,San Antonio Spurs,119,,,HP Field House,Friday
+2020/08/07,4:00p,Oklahoma City Thunder,92,Memphis Grizzlies,121,,,Visa Athletic Center,Friday
+2020/08/07,5:00p,Sacramento Kings,106,Brooklyn Nets,119,,,The Arena,Friday
+2020/08/07,6:30p,Orlando Magic,101,Philadelphia 76ers,108,,,HP Field House,Friday
+2020/08/07,8:00p,Washington Wizards,107,New Orleans Pelicans,118,,,Visa Athletic Center,Friday
+2020/08/07,9:00p,Boston Celtics,122,Toronto Raptors,100,,,The Arena,Friday
+2020/08/08,1:00p,Los Angeles Clippers,122,Portland Trail Blazers,117,,,HP Field House,Saturday
+2020/08/08,3:30p,Utah Jazz,132,Denver Nuggets,134,2OT,,The Arena,Saturday
+2020/08/08,6:00p,Los Angeles Lakers,111,Indiana Pacers,116,,,HP Field House,Saturday
+2020/08/08,7:30p,Phoenix Suns,119,Miami Heat,112,,,Visa Athletic Center,Saturday
+2020/08/08,8:30p,Milwaukee Bucks,132,Dallas Mavericks,136,OT,,The Arena,Saturday
+2020/08/09,12:30p,Washington Wizards,103,Oklahoma City Thunder,121,,,The Arena,Sunday
+2020/08/09,2:00p,Memphis Grizzlies,99,Toronto Raptors,108,,,Visa Athletic Center,Sunday
+2020/08/09,3:00p,San Antonio Spurs,122,New Orleans Pelicans,113,,,HP Field House,Sunday
+2020/08/09,5:00p,Orlando Magic,119,Boston Celtics,122,OT,,The Arena,Sunday
+2020/08/09,6:30p,Philadelphia 76ers,121,Portland Trail Blazers,124,,,Visa Athletic Center,Sunday
+2020/08/09,8:00p,Houston Rockets,129,Sacramento Kings,112,,,HP Field House,Sunday
+2020/08/09,9:00p,Brooklyn Nets,129,Los Angeles Clippers,120,,,The Arena,Sunday
+2020/08/10,2:30p,Oklahoma City Thunder,101,Phoenix Suns,128,,,HP Field House,Monday
+2020/08/10,3:00p,Dallas Mavericks,122,Utah Jazz,114,,,The Arena,Monday
+2020/08/10,6:30p,Toronto Raptors,114,Milwaukee Bucks,106,,,HP Field House,Monday
+2020/08/10,8:00p,Indiana Pacers,92,Miami Heat,114,,,Visa Athletic Center,Monday
+2020/08/10,9:00p,Denver Nuggets,121,Los Angeles Lakers,124,,,The Arena,Monday
+2020/08/11,1:00p,Brooklyn Nets,108,Orlando Magic,96,,,The Arena,Tuesday
+2020/08/11,2:00p,Houston Rockets,105,San Antonio Spurs,123,,,HP Field House,Tuesday
+2020/08/11,4:30p,Phoenix Suns,130,Philadelphia 76ers,117,,,Visa Athletic Center,Tuesday
+2020/08/11,5:00p,Boston Celtics,122,Memphis Grizzlies,107,,,The Arena,Tuesday
+2020/08/11,6:30p,Portland Trail Blazers,134,Dallas Mavericks,131,,,HP Field House,Tuesday
+2020/08/11,9:00p,New Orleans Pelicans,106,Sacramento Kings,112,,,The Arena,Tuesday
+2020/08/11,9:00p,Milwaukee Bucks,126,Washington Wizards,113,,,Visa Athletic Center,Tuesday
+2020/08/12,4:00p,Indiana Pacers,108,Houston Rockets,104,,,The Arena,Wednesday
+2020/08/12,6:30p,Toronto Raptors,125,Philadelphia 76ers,121,,,HP Field House,Wednesday
+2020/08/12,8:00p,Miami Heat,115,Oklahoma City Thunder,116,,,Visa Athletic Center,Wednesday
+2020/08/12,9:00p,Los Angeles Clippers,124,Denver Nuggets,111,,,The Arena,Wednesday
+2020/08/13,12:00p,Washington Wizards,96,Boston Celtics,90,,,The Arena,Thursday
+2020/08/13,1:30p,Sacramento Kings,136,Los Angeles Lakers,122,,,HP Field House,Thursday
+2020/08/13,4:00p,Milwaukee Bucks,106,Memphis Grizzlies,119,,,Visa Athletic Center,Thursday
+2020/08/13,4:00p,Dallas Mavericks,102,Phoenix Suns,128,,,The Arena,Thursday
+2020/08/13,6:30p,San Antonio Spurs,112,Utah Jazz,118,,,HP Field House,Thursday
+2020/08/13,9:00p,Portland Trail Blazers,134,Brooklyn Nets,133,,,The Arena,Thursday
+2020/08/13,9:00p,New Orleans Pelicans,127,Orlando Magic,133,,,Visa Athletic Center,Thursday
+2020/08/14,1:30p,Denver Nuggets,109,Toronto Raptors,117,,,HP Field House,Friday
+2020/08/14,4:00p,Miami Heat,92,Indiana Pacers,109,,,The Arena,Friday
+2020/08/14,6:30p,Oklahoma City Thunder,103,Los Angeles Clippers,107,OT,,HP Field House,Friday
+2020/08/14,9:00p,Philadelphia 76ers,134,Houston Rockets,96,,,The Arena,Friday
+2020/08/15,2:30p,Memphis Grizzlies,122,Portland Trail Blazers,126,,,HP Field House,Saturday
+2020/08/17,1:30p,Utah Jazz,125,Denver Nuggets,135,OT,,HP Field House,Monday
+2020/08/17,4:00p,Brooklyn Nets,110,Toronto Raptors,134,,,The Arena,Monday
+2020/08/17,6:30p,Philadelphia 76ers,101,Boston Celtics,109,,,HP Field House,Monday
+2020/08/17,9:00p,Dallas Mavericks,110,Los Angeles Clippers,118,,,The Arena,Monday
+2020/08/18,1:30p,Orlando Magic,122,Milwaukee Bucks,110,,,HP Field House,Tuesday
+2020/08/18,4:00p,Miami Heat,113,Indiana Pacers,101,,,The Arena,Tuesday
+2020/08/18,6:30p,Oklahoma City Thunder,108,Houston Rockets,123,,,HP Field House,Tuesday
+2020/08/18,9:00p,Portland Trail Blazers,100,Los Angeles Lakers,93,,,The Arena,Tuesday
+2020/08/19,1:30p,Brooklyn Nets,99,Toronto Raptors,104,,,HP Field House,Wednesday
+2020/08/19,4:00p,Utah Jazz,124,Denver Nuggets,105,,,The Arena,Wednesday
+2020/08/19,6:30p,Philadelphia 76ers,101,Boston Celtics,128,,,HP Field House,Wednesday
+2020/08/19,9:00p,Dallas Mavericks,127,Los Angeles Clippers,114,,,The Arena,Wednesday
+2020/08/20,1:00p,Miami Heat,109,Indiana Pacers,100,,,HP Field House,Thursday
+2020/08/20,3:30p,Oklahoma City Thunder,98,Houston Rockets,111,,,The Arena,Thursday
+2020/08/20,6:00p,Orlando Magic,96,Milwaukee Bucks,111,,,HP Field House,Thursday
+2020/08/20,9:00p,Portland Trail Blazers,88,Los Angeles Lakers,111,,,The Arena,Thursday
+2020/08/21,1:30p,Toronto Raptors,117,Brooklyn Nets,92,,,HP Field House,Friday
+2020/08/21,4:00p,Denver Nuggets,87,Utah Jazz,124,,,The Arena,Friday
+2020/08/21,6:30p,Boston Celtics,102,Philadelphia 76ers,94,,,HP Field House,Friday
+2020/08/21,9:00p,Los Angeles Clippers,130,Dallas Mavericks,122,,,The Arena,Friday
+2020/08/22,1:00p,Milwaukee Bucks,121,Orlando Magic,107,,,HP Field House,Saturday
+2020/08/22,3:30p,Indiana Pacers,115,Miami Heat,124,,,The Arena,Saturday
+2020/08/22,6:00p,Houston Rockets,107,Oklahoma City Thunder,119,OT,,HP Field House,Saturday
+2020/08/22,8:30p,Los Angeles Lakers,116,Portland Trail Blazers,108,,,The Arena,Saturday
+2020/08/23,1:00p,Boston Celtics,110,Philadelphia 76ers,106,,,HP Field House,Sunday
+2020/08/23,3:30p,Los Angeles Clippers,133,Dallas Mavericks,135,OT,,The Arena,Sunday
+2020/08/23,6:30p,Toronto Raptors,150,Brooklyn Nets,122,,,HP Field House,Sunday
+2020/08/23,9:00p,Denver Nuggets,127,Utah Jazz,129,,,The Arena,Sunday
+2020/08/24,1:30p,Milwaukee Bucks,121,Orlando Magic,106,,,HP Field House,Monday
+2020/08/24,4:00p,Houston Rockets,114,Oklahoma City Thunder,117,,,The Arena,Monday
+2020/08/24,6:30p,Indiana Pacers,87,Miami Heat,99,,,HP Field House,Monday
+2020/08/24,9:00p,Los Angeles Lakers,135,Portland Trail Blazers,115,,,The Arena,Monday
+2020/08/25,6:30p,Utah Jazz,107,Denver Nuggets,117,,,HP Field House,Tuesday
+2020/08/25,9:00p,Dallas Mavericks,111,Los Angeles Clippers,154,,,The Arena,Tuesday
+2020/08/29,3:30p,Orlando Magic,104,Milwaukee Bucks,118,,,The Arena,Saturday
+2020/08/29,6:30p,Oklahoma City Thunder,80,Houston Rockets,114,,,HP Field House,Saturday
+2020/08/29,9:00p,Portland Trail Blazers,122,Los Angeles Lakers,131,,,The Arena,Saturday
+2020/08/30,1:00p,Boston Celtics,112,Toronto Raptors,94,,,HP Field House,Sunday
+2020/08/30,3:30p,Los Angeles Clippers,111,Dallas Mavericks,97,,,The Arena,Sunday
+2020/08/30,8:30p,Denver Nuggets,119,Utah Jazz,107,,,The Arena,Sunday
+2020/08/31,6:30p,Miami Heat,115,Milwaukee Bucks,104,,,HP Field House,Monday
+2020/08/31,9:00p,Houston Rockets,100,Oklahoma City Thunder,104,,,The Arena,Monday
+2020/09/01,5:30p,Boston Celtics,102,Toronto Raptors,99,,,HP Field House,Tuesday
+2020/09/01,8:30p,Utah Jazz,78,Denver Nuggets,80,,,The Arena,Tuesday
+2020/09/02,6:30p,Miami Heat,116,Milwaukee Bucks,114,,,HP Field House,Wednesday
+2020/09/02,9:00p,Oklahoma City Thunder,102,Houston Rockets,104,,,The Arena,Wednesday
+2020/09/03,6:30p,Toronto Raptors,104,Boston Celtics,103,,,HP Field House,Thursday
+2020/09/03,9:00p,Denver Nuggets,97,Los Angeles Clippers,120,,,The Arena,Thursday
+2020/09/04,6:30p,Milwaukee Bucks,100,Miami Heat,115,,,HP Field House,Friday
+2020/09/04,9:00p,Houston Rockets,112,Los Angeles Lakers,97,,,The Arena,Friday
+2020/09/05,6:30p,Toronto Raptors,100,Boston Celtics,93,,,HP Field House,Saturday
+2020/09/05,9:00p,Denver Nuggets,110,Los Angeles Clippers,101,,,The Arena,Saturday
+2020/09/06,3:30p,Milwaukee Bucks,118,Miami Heat,115,OT,,The Arena,Sunday
+2020/09/06,8:30p,Houston Rockets,109,Los Angeles Lakers,117,,,The Arena,Sunday
+2020/09/07,6:30p,Boston Celtics,111,Toronto Raptors,89,,,HP Field House,Monday
+2020/09/07,9:00p,Los Angeles Clippers,113,Denver Nuggets,107,,,The Arena,Monday
+2020/09/08,6:30p,Miami Heat,103,Milwaukee Bucks,94,,,HP Field House,Tuesday
+2020/09/08,9:00p,Los Angeles Lakers,112,Houston Rockets,102,,,The Arena,Tuesday
+2020/09/09,6:30p,Toronto Raptors,125,Boston Celtics,122,2OT,,HP Field House,Wednesday
+2020/09/09,9:00p,Los Angeles Clippers,96,Denver Nuggets,85,,,The Arena,Wednesday
+2020/09/10,7:00p,Los Angeles Lakers,110,Houston Rockets,100,,,The Arena,Thursday
+2020/09/11,6:30p,Denver Nuggets,111,Los Angeles Clippers,105,,,HP Field House,Friday
+2020/09/11,9:00p,Boston Celtics,92,Toronto Raptors,87,,,The Arena,Friday
+2020/09/12,8:00p,Houston Rockets,96,Los Angeles Lakers,119,,,The Arena,Saturday
+2020/09/13,1:00p,Los Angeles Clippers,98,Denver Nuggets,111,,,The Arena,Sunday
+2020/09/15,6:30p,Miami Heat,117,Boston Celtics,114,OT,,HP Field House,Tuesday
+2020/09/15,9:00p,Denver Nuggets,104,Los Angeles Clippers,89,,,The Arena,Tuesday
+2020/09/17,7:00p,Miami Heat,106,Boston Celtics,101,,,The Arena,Thursday
+2020/09/18,9:00p,Denver Nuggets,114,Los Angeles Lakers,126,,,The Arena,Friday
+2020/09/19,8:30p,Boston Celtics,117,Miami Heat,106,,,The Arena,Saturday
+2020/09/20,7:30p,Denver Nuggets,103,Los Angeles Lakers,105,,,The Arena,Sunday
+2020/09/22,9:00p,Los Angeles Lakers,106,Denver Nuggets,114,,,The Arena,Tuesday
+2020/09/23,8:30p,Boston Celtics,109,Miami Heat,112,,,The Arena,Wednesday
+2020/09/24,9:00p,Los Angeles Lakers,114,Denver Nuggets,108,,,The Arena,Thursday
+2020/09/25,8:30p,Miami Heat,108,Boston Celtics,121,,,The Arena,Friday
+2020/09/26,9:00p,Denver Nuggets,107,Los Angeles Lakers,117,,,The Arena,Saturday
+2020/09/27,7:30p,Boston Celtics,113,Miami Heat,125,,,The Arena,Sunday
+2020/09/30,9:00p,Miami Heat,98,Los Angeles Lakers,116,,,The Arena,Wednesday
+2020/10/02,9:00p,Miami Heat,114,Los Angeles Lakers,124,,,The Arena,Friday
+2020/10/04,7:30p,Los Angeles Lakers,104,Miami Heat,115,,,The Arena,Sunday
+2020/10/06,9:00p,Los Angeles Lakers,102,Miami Heat,96,,,The Arena,Tuesday
+2020/10/09,9:00p,Miami Heat,111,Los Angeles Lakers,108,,,The Arena,Friday
+2020/10/11,7:30p,Los Angeles Lakers,106,Miami Heat,93,,,The Arena,Sunday
